@@ -1,152 +1,152 @@
 Fecha,item_name,Precio unita COP,Costo Unit COP,quantity,transaction_type,received_by,time_of_sale
 12/10/2024,Torta de queso,1900,1235,92,Cash,Mrs.,Afternoon
-2/7/2024,Sandwich,4500,2925,93,Cash,Mr.,Night
-15/8/2024,,4500,2925,67,Online,Mr.,Evening
-5/12/2024,Empanadas Carne,,975,63,Cash,Mr.,Morning
-1/12/2024,Sandwich,4500,2925,100,,Mrs.,Night
-"2/7/2024,Pan arabe,2150,""1397,5"",89,Cash,Mr.,Afternoon"
-14/1/2024,Cold coffee,,1950,90,Cash,Mr.,Midnight
-"9/8/2024,arepa pollo,3950,""2567,5"",64,Cash,Mrs.,Midnight"
-"2/3/2024,Pastel de yuca,3250,""2112,5"",75,Cash,Mr.,Evening"
-"10/2/2024,Pastel de yuca,3250,""2112,5"",105,Cash,Mrs.,Evening"
-"3/1/2024,Pastel de yuca,3250,""2112,5"",102,Online,Mr.,Afternoon"
-9/3/2024,Chocorramo,2900,1885,98,Cash,Mr.,Night
-25/2/2024,Chocorramo,2900,1885,102,Online,Mr.,Midnight
-18/9/2024,Cocacola 1.5lt,7000,4550,72,Online,Mrs.,Morning
+2/7/2024,Sandwich,4500,2925,,Cash,Mr.,Night
+15/8/2024,Sandwich,4500,2925,67,,Mr.,Evening
+5/12/2024,Empanadas Carne,1500,975,63,Cash,Mr.,Morning
+1/12/2024,,4500,2925,100,Online,Mrs.,Night
+2/7/2024,Pan arabe,2150,"1397,5",89,Cash,Mr.,Afternoon
+14/1/2024,Cold coffee,,1950,,Cash,Mr.,Midnight
+9/8/2024,arepa pollo,3950,"2567,5",64,Cash,Mrs.,Midnight
+2/3/2024,Pastel de yuca,3250,"2112,5",75,Cash,Mr.,Evening
+10/2/2024,Pastel de yuca,3250,"2112,5",105,Cash,Mrs.,Evening
+3/1/2024,Pastel de yuca,3250,"2112,5",102,Online,Mr.,
+9/3/2024,,2900,1885,98,Cash,Mr.,Night
+25/2/2024,,2900,1885,102,Online,Mr.,Midnight
+18/9/2024,Cocacola 1.5lt,7000,4550,72,Online,Mrs.,
 16/11/2024,Cocacola 1.5lt,7000,4550,94,Online,Mr.,Evening
-"25/2/2024,Tamales,8950,""5817,5"",60,Cash,Mr.,Evening"
-"3/9/2024,Tamales,8950,""5817,5"",104,Online,Mr.,Evening"
-"7/2/2024,Sugarcane juice,1875,""1218,75"",77,Cash,Mr.,Evening"
+25/2/,Tamales,8950,"5817,5",60,Cash,Mr.,Evening
+3/9/2024,Tamales,8950,"5817,5",104,Online,Mr.,Evening
+7/2/2024,Sugarcane juice,1875,"1218,75",77,Cash,Mr.,Evening
 24/10/2024,Cold coffee,3000,1950,88,Online,Mrs.,Night
-"3/10/2024,Pan arabe,2150,""1397,5"",94,Cash,Mr.,Afternoon"
-"16/3/2024,Pastel de yuca,3250,""2112,5"",70,Cash,Mrs.,Evening"
+3/10/2024,Pan arabe,2150,"1397,5",94,Cash,Mr.,Afternoon
+16/3/2024,Pastel de yuca,3250,"2112,5",70,Cash,Mrs.,Evening
 25/11/2024,Chocorramo,2900,1885,67,Cash,Mrs.,Night
 18/9/2024,Chocorramo,2900,1885,104,Online,Mr.,Night
 10/2/2024,Chocorramo,2900,1885,83,Online,Mr.,Night
 25/11/2024,papas de pollo,2700,1755,102,Cash,Mrs.,Afternoon
 15/5/2024,Cocacola 1.5lt,7000,4550,81,Cash,Mr.,Night
 4/9/2024,Cocacola 1.5lt,7000,4550,84,Cash,Mrs.,Morning
-"16/4/2024,Tamales,8950,""5817,5"",99,Online,Mr.,Night"
-"30/12/2024,Sugarcane juice,1875,""1218,75"",63,Cash,Mrs.,Morning"
+16/4/2024,Tamales,8950,"5817,5",99,Online,Mr.,Night
+30/12/2024,Sugarcane juice,1875,"1218,75",63,Cash,Mrs.,Morning
 24/10/2024,Cold coffee,3000,1950,74,Online,Mr.,Afternoon
 23/11/2024,Sandwich,4500,2925,62,Online,Mr.,Evening
 4/8/2024,Sandwich,4500,2925,60,Online,Mr.,Evening
-"8/5/2024,arepa carne,3750,""2437,5"",64,Cash,Mrs.,Night"
-"14/11/2024,Pan arabe,2150,""1397,5"",87,Online,Mrs.,Midnight"
-"1/12/2024,arepa carne,3750,""2437,5"",84,Cash,Mrs.,Afternoon"
+8/5/2024,arepa carne,3750,"2437,5",64,Cash,Mrs.,Night
+14/11/2024,Pan arabe,2150,"1397,5",87,Online,Mrs.,Midnight
+1/12/2024,arepa carne,3750,"2437,5",84,Cash,Mrs.,Afternoon
 27/8/2024,Sandwich,4500,2925,75,Online,Mr.,Evening
-"17/7/2024,Pastel de yuca,3250,""2112,5"",68,Online,Mrs.,Morning"
-"22/8/2024,Pastel de yuca,3250,""2112,5"",93,Online,Mr.,Midnight"
+17/7/2024,Pastel de yuca,3250,"2112,5",68,Online,Mrs.,Morning
+22/8/2024,Pastel de yuca,3250,"2112,5",93,Online,Mr.,Midnight
 12/6/2024,papas de pollo,2700,1755,87,Online,Mrs.,Evening
 10/2/2024,Cocacola 1.5lt,7000,4550,71,Online,Mrs.,Morning
 29/10/2024,Cocacola 1.5lt,7000,4550,93,Online,Mrs.,Morning
-"24/4/2024,Tamales,8950,""5817,5"",78,Online,Mr.,Evening"
-"9/5/2024,Tamales,8950,""5817,5"",82,Online,Mrs.,Morning"
+24/4/2024,Tamales,8950,"5817,5",78,Online,Mr.,Evening
+9/5/2024,Tamales,8950,"5817,5",82,Online,Mrs.,Morning
 19/1/2024,Sandwich,4500,2925,72,Cash,Mr.,Night
 17/11/2024,cafe expresso,1500,975,98,Cash,Mrs.,Evening
 12/11/2024,cafe expresso,1500,975,94,Cash,Mrs.,Midnight
 6/7/2024,cafe expresso,1500,975,81,Online,Mrs.,Midnight
-"9/8/2024,arepa carne,3750,""2437,5"",85,Online,Mrs.,Midnight"
-"13/2/2024,arepa pollo,3950,""2567,5"",87,Cash,Mrs.,Afternoon"
+9/8/2024,arepa carne,3750,"2437,5",85,Online,Mrs.,Midnight
+13/2/2024,arepa pollo,3950,"2567,5",87,Cash,Mrs.,Afternoon
 2/3/2024,Cold coffee,3000,1950,70,Online,Mrs.,Evening
-"4/12/2024,arepa pollo,3950,""2567,5"",80,Online,Mrs.,Night"
+4/12/2024,arepa pollo,3950,"2567,5",80,Online,Mrs.,Night
 9/3/2024,Cocacola 1.5lt,7000,4550,85,Online,Mrs.,Morning
-"15/8/2024,Sugarcane juice,1875,""1218,75"",96,Cash,Mrs.,Afternoon"
-"17/10/2024,arepa carne,3750,""2437,5"",99,Cash,Mrs.,Afternoon"
-"4/9/2024,arepa carne,3750,""2437,5"",85,Online,Mr.,Afternoon"
+15/8/2024,Sugarcane juice,1875,"1218,75",96,Cash,Mrs.,Afternoon
+17/10/2024,arepa carne,3750,"2437,5",99,Cash,Mrs.,Afternoon
+4/9/2024,arepa carne,3750,"2437,5",85,Online,Mr.,Afternoon
 5/1/2024,cafe expresso,1500,975,104,Cash,Mr.,Evening
 1/6/2024,Cold coffee,3000,1950,94,Online,Mr.,Night
-"19/4/2024,arepa carne,3750,""2437,5"",83,Online,Mrs.,Evening"
+19/4/2024,arepa carne,3750,"2437,5",83,Online,Mrs.,Evening
 21/9/2024,Cold coffee,3000,1950,99,Cash,Mrs.,Night
 17/11/2024,Sandwich,4500,2925,71,Cash,Mrs.,Afternoon
 21/12/2024,Empanadas Carne,1500,975,83,Cash,Mrs.,Morning
 24/12/2024,Pastel pollo,2300,1495,92,Cash,Mr.,Night
 14/11/2024,Cold coffee,3000,1950,101,Online,Mrs.,Afternoon
-"11/9/2024,Pastel de yuca,3250,""2112,5"",81,Online,Mr.,Night"
+11/9/2024,Pastel de yuca,3250,"2112,5",81,Online,Mr.,Night
 6/1/2024,Chocorramo,2900,1885,63,Online,Mr.,Midnight
 16/4/2024,Chocorramo,2900,1885,60,Cash,Mr.,Evening
-"8/11/2024,Tamales,8950,""5817,5"",103,Online,Mrs.,Morning"
-"9/10/2024,arepa carne,3750,""2437,5"",90,Cash,Mr.,Midnight"
-"17/7/2024,Sugarcane juice,1875,""1218,75"",68,Cash,Mrs.,Evening"
-"22/8/2024,Sugarcane juice,1875,""1218,75"",70,Online,Mrs.,Evening"
-"12/6/2024,Pastel de yuca,3250,""2112,5"",64,Online,Mr.,Midnight"
+8/11/2024,Tamales,8950,"5817,5",103,Online,Mrs.,Morning
+9/10/2024,arepa carne,3750,"2437,5",90,Cash,Mr.,Midnight
+17/7/2024,Sugarcane juice,1875,"1218,75",68,Cash,Mrs.,Evening
+22/8/2024,Sugarcane juice,1875,"1218,75",70,Online,Mrs.,Evening
+12/6/2024,Pastel de yuca,3250,"2112,5",64,Online,Mr.,Midnight
 10/7/2024,papas de pollo,2700,1755,70,Online,Mr.,Midnight
-"16/3/2024,Tamales,8950,""5817,5"",105,Online,Mrs.,Evening"
-"22/3/2024,Tamales,8950,""5817,5"",66,Online,Mrs.,Evening"
+16/3/2024,Tamales,8950,"5817,5",105,Online,Mrs.,Evening
+22/3/2024,Tamales,8950,"5817,5",66,Online,Mrs.,Evening
 10/1/2024,Torta de queso,1900,1235,81,Cash,Mr.,Midnight
 10/4/2024,Torta de queso,1900,1235,101,Cash,Mrs.,Midnight
-"28/10/2024,arepa carne,3750,""2437,5"",100,Cash,Mrs.,Afternoon"
+,arepa carne,3750,"2437,5",100,Cash,Mrs.,Afternoon
 23/4/2024,Sandwich,4500,2925,85,Cash,Mrs.,Night
-"16/3/2024,arepa carne,3750,""2437,5"",88,Cash,Mrs.,Evening"
+16/3/2024,arepa carne,3750,"2437,5",88,Cash,Mrs.,Evening
 5/11/2024,cafe expresso,1500,975,77,Online,Mr.,Night
-"15/9/2024,arepa carne,3750,""2437,5"",74,Online,Mrs.,Night"
+15/9/2024,arepa carne,3750,"2437,5",74,Online,Mrs.,Night
 4/8/2024,cafe americano,1800,1170,103,Cash,Mrs.,Midnight
-"5/11/2024,arepa carne,3750,""2437,5"",92,Cash,Mr.,Night"
-"7/7/2024,Sugarcane juice,1875,""1218,75"",68,Cash,Mr.,Morning"
-"8/4/2024,arepa carne,3750,""2437,5"",65,Online,Mrs.,Morning"
-"23/12/2024,Pan arabe,2150,""1397,5"",69,Online,Mr.,Midnight"
-"14/5/2024,Pan arabe,2150,""1397,5"",79,Cash,Mr.,Evening"
+5/11/2024,arepa carne,3750,"2437,5",92,Cash,Mr.,Night
+7/7/2024,Sugarcane juice,1875,"1218,75",68,Cash,Mr.,Morning
+8/4/2024,arepa carne,3750,"2437,5",65,Online,Mrs.,Morning
+23/12/2024,Pan arabe,2150,"1397,5",69,Online,Mr.,Midnight
+14/5/2024,Pan arabe,2150,"1397,5",79,Cash,Mr.,Evening
 26/7/2024,cafe americano,1800,1170,64,Online,Mr.,Evening
-"26/7/2024,arepa pollo,3950,""2567,5"",71,Online,Mrs.,Evening"
+26/7/2024,arepa pollo,3950,"2567,5",71,Online,Mrs.,Evening
 24/2/2024,papas de pollo,2700,1755,66,Cash,Mr.,Morning
 16/5/2024,Cocacola 1.5lt,7000,4550,99,Online,Mr.,Night
 8/8/2024,Sandwich,4500,2925,63,Online,Mrs.,Night
-"10/7/2024,Sugarcane juice,1875,""1218,75"",103,Cash,Mr.,Evening"
+10/7/2024,Sugarcane juice,1875,"1218,75",103,Cash,Mr.,Evening
 6/11/2024,cafe americano,1800,1170,81,Cash,Mr.,Evening
 7/2/2024,Pastel pollo,2300,1495,68,Online,Mrs.,Morning
-"14/8/2024,arepa carne,3750,""2437,5"",105,Online,Mr.,Evening"
+14/8/2024,arepa carne,3750,"2437,5",105,Online,Mr.,Evening
 11/10/2024,Sandwich,4500,2925,101,Cash,Mrs.,Evening
-"3/10/2024,Pan arabe,2150,""1397,5"",90,Cash,Mr.,Morning"
+3/10/2024,Pan arabe,2150,"1397,5",90,Cash,Mr.,Morning
 30/1/2024,Sandwich,4500,2925,78,Cash,Mr.,Afternoon
-"9/3/2024,Pan arabe,2150,""1397,5"",85,Cash,Mr.,Afternoon"
-"25/2/2024,Pastel de yuca,3250,""2112,5"",91,Online,Mrs.,Morning"
+9/3/2024,Pan arabe,2150,"1397,5",85,Cash,Mr.,Afternoon
+25/2/2024,Pastel de yuca,3250,"2112,5",91,Online,Mrs.,Morning
 17/11/2024,Chocorramo,2900,1885,61,Online,Mrs.,Midnight
 27/8/2024,Chocorramo,2900,1885,79,Cash,Mr.,Evening
 27/8/2024,Cocacola 1.5lt,7000,4550,98,Online,Mr.,Midnight
-"17/10/2024,Tamales,8950,""5817,5"",79,Online,Mr.,Afternoon"
-9/6/2024,Cold coffee,3000,1950,77,Online,Mr.,Evening
+17/10/2024,Tamales,8950,"5817,5",79,Online,Mr.,Afternoon
+92024/6/2024,Cold coffee,3000,1950,77,Online,Mr.,Evening
 15/12/2024,cafe expresso,1500,975,90,Cash,Mr.,Evening
-"19/11/2024,Sugarcane juice,1875,""1218,75"",98,Cash,Mrs.,Afternoon"
-"26/8/2024,Sugarcane juice,1875,""1218,75"",104,Cash,Mrs.,Midnight"
+19/11/2024,Sugarcane juice,1875,"1218,75",98,Cash,Mrs.,Afternoon
+26/8/2024,Sugarcane juice,1875,"1218,75",104,Cash,Mrs.,Midnight
 13/11/2024,Sandwich,4500,2925,73,Online,Mrs.,Midnight
 19/1/2024,Pastel pollo,2300,1495,70,Online,Mrs.,Evening
-"1/12/2024,Pan arabe,2150,""1397,5"",60,Cash,Mr.,Afternoon"
-"8/11/2024,Sugarcane juice,1875,""1218,75"",93,Online,Mrs.,Evening"
-"13/5/2024,arepa carne,3750,""2437,5"",81,Cash,Mrs.,Night"
+1/12/2024,Pan arabe,2150,"1397,5",60,Cash,Mr.,Afternoon
+8/11/2024,Sugarcane juice,1875,"1218,75",93,Online,Mrs.,Evening
+13/5/2024,arepa carne,3750,"2437,5",81,Cash,Mrs.,Night
 6/6/2024,Pastel pollo,2300,1495,62,Online,Mr.,Evening
-"15/11/2024,Sugarcane juice,1875,""1218,75"",88,Cash,Mrs.,Evening"
+15/11/2024,Sugarcane juice,1875,"1218,75",88,Cash,Mrs.,Evening
 2/10/2024,Sandwich,4500,2925,83,Online,Mrs.,Midnight
-"16/3/2024,Pan arabe,2150,""1397,5"",70,Cash,Mrs.,Midnight"
+16/3/2024,Pan arabe,2150,"1397,5",70,Cash,Mrs.,Midnight
 3/3/2024,Cocacola 1.5lt,7000,4550,82,Cash,Mr.,Evening
 17/8/2024,Torta de queso,1900,1235,95,Online,Mr.,Morning
 29/10/2024,Torta de queso,1900,1235,86,Online,Mr.,Night
 8/5/2024,cafe expresso,1500,975,65,Cash,Mr.,Morning
 5/11/2024,Sandwich,4500,2925,92,Cash,Mr.,Evening
-"25/12/2024,arepa carne,3750,""2437,5"",75,Online,Mr.,Afternoon"
+25/12/2024,arepa carne,3750,"2437,5",75,Online,Mr.,Afternoon
 14/9/2024,Cold coffee,3000,1950,93,Cash,Mrs.,Afternoon
-"3/10/2024,Sugarcane juice,1875,""1218,75"",99,Online,Mr.,Night"
+3/10/2024,Sugarcane juice,1875,"1218,75",99,Online,Mr.,Night
 4/12/2024,cafe americano,1800,1170,75,Cash,Mr.,Morning
-"8/3/2024,Sugarcane juice,1875,""1218,75"",68,Online,Mr.,Afternoon"
+8/3/2024,Sugarcane juice,1875,"1218,75",68,Online,Mr.,Afternoon
 3/7/2024,Cold coffee,3000,1950,100,Cash,Mrs.,Night
-"10/7/2024,Pan arabe,2150,""1397,5"",91,Online,Mr.,Midnight"
+10/7/2024,Pan arabe,2150,"1397,5",91,Online,Mr.,Midnight
 3/7/2024,Pastel pollo,2300,1495,90,Cash,Mr.,Night
-"14/9/2024,arepa pollo,3950,""2567,5"",103,Online,Mrs.,Evening"
-"13/11/2024,Pastel de yuca,3250,""2112,5"",70,Cash,Mrs.,Afternoon"
+14/9/2024,arepa pollo,3950,"2567,5",103,Online,Mrs.,Evening
+13/11/2024,Pastel de yuca,3250,"2112,5",70,Cash,Mrs.,Afternoon
 10/7/2024,Chocorramo,2900,1885,85,Online,Mrs.,Evening
 3/9/2024,papas de pollo,2700,1755,63,Cash,Mr.,Afternoon
 4/10/2024,papas de pollo,2700,1755,70,Cash,Mrs.,Morning
 21/9/2024,Cocacola 1.5lt,7000,4550,76,Online,Mrs.,Night
-"8/5/2024,Tamales,8950,""5817,5"",82,Cash,Mr.,Night"
-"10/2/2024,Sugarcane juice,1875,""1218,75"",79,Online,Mr.,Afternoon"
-"5/4/2024,arepa carne,3750,""2437,5"",81,Cash,Mrs.,Morning"
-"1/2/2024,arepa carne,3750,""2437,5"",74,Online,Mrs.,Morning"
+8/5/2024,Tamales,8950,"5817,5",82,Cash,Mr.,Night
+10/2/2024,Sugarcane juice,1875,"1218,75",79,Online,Mr.,Afternoon
+5/4/2024,arepa carne,3750,"2437,5",81,Cash,Mrs.,Morning
+1/2/2024,arepa carne,3750,"2437,5",74,Online,Mrs.,Morning
 4/12/2024,Empanadas Carne,1500,975,89,Cash,Mr.,Night
 12/5/2024,Cold coffee,3000,1950,82,Cash,Mr.,Midnight
 18/8/2024,Pastel pollo,2300,1495,93,Online,Mr.,Night
-"1/12/2024,Sugarcane juice,1875,""1218,75"",61,Cash,Mrs.,Evening"
-"1/7/2024,Pastel de yuca,3250,""2112,5"",67,Online,Mr.,Afternoon"
-"12/12/2024,Pastel de yuca,3250,""2112,5"",93,Online,Mr.,Night"
-"9/5/2024,Pastel de yuca,3250,""2112,5"",96,Cash,Mr.,Evening"
+1/12/2024,Sugarcane juice,1875,"1218,75",61,Cash,Mrs.,Evening
+1/7/2024,Pastel de yuca,3250,"2112,5",67,Online,Mr.,Afternoon
+12/12/2024,Pastel de yuca,3250,"2112,5",93,Online,Mr.,Night
+9/5/2024,Pastel de yuca,3250,"2112,5",96,Cash,Mr.,Evening
 3/7/2024,Chocorramo,2900,1885,67,Online,Mrs.,Night
 9/5/2024,Chocorramo,2900,1885,81,Cash,Mrs.,Evening
 25/2/2024,papas de pollo,2700,1755,82,Online,Mr.,Night
@@ -154,14 +154,14 @@ Fecha,item_name,Precio unita COP,Costo Unit COP,quantity,transaction_type,receiv
 11/12/2024,papas de pollo,2700,1755,83,Online,Mrs.,Evening
 1/7/2024,Cocacola 1.5lt,7000,4550,61,Online,Mr.,Midnight
 12/7/2024,Torta de queso,1900,1235,70,Online,Mrs.,Night
-"10/7/2024,Sugarcane juice,1875,""1218,75"",83,Cash,Mrs.,Midnight"
+10/7/2024,Sugarcane juice,1875,"1218,75",83,Cash,Mrs.,Midnight
 26/2/2024,Empanadas Carne,1500,975,78,Online,Mrs.,Night
-"16/3/2024,Pan arabe,2150,""1397,5"",94,Cash,Mrs.,Night"
+16/3/2024,Pan arabe,2150,"1397,5",94,Cash,Mrs.,Night
 24/5/2024,Cold coffee,3000,1950,85,Cash,Mr.,Morning
-"26/3/2024,Sugarcane juice,1875,""1218,75"",93,Online,Mrs.,Morning"
+26/3/2024,Sugarcane juice,1875,"1218,75",93,Online,Mrs.,Morning
 17/7/2024,Cold coffee,3000,1950,80,Online,Mrs.,Morning
-"3/9/2024,Sugarcane juice,1875,""1218,75"",64,Online,Mr.,Night"
-"5/2/2024,arepa pollo,3950,""2567,5"",79,Cash,Mr.,Midnight"
+3/9/2024,Sugarcane juice,1875,"1218,75",64,Online,Mr.,Night
+5/2/2024,arepa pollo,3950,"2567,5",79,Cash,Mr.,Midnight
 2/2/2024,Chocorramo,2900,1885,101,Online,Mr.,Evening
 11/10/2024,Chocorramo,2900,1885,88,Online,Mr.,Midnight
 21/7/2024,papas de pollo,2700,1755,86,Online,Mrs.,Morning
@@ -171,42 +171,42 @@ Fecha,item_name,Precio unita COP,Costo Unit COP,quantity,transaction_type,receiv
 12/5/2024,Cocacola 1.5lt,7000,4550,84,Cash,Mrs.,Night
 23/12/2024,Cold coffee,3000,1950,88,Online,Mrs.,Midnight
 21/12/2024,cafe expresso,1500,975,105,Cash,Mr.,Midnight
-"11/2/2024,Sugarcane juice,1875,""1218,75"",95,Cash,Mrs.,Midnight"
-"17/11/2024,arepa carne,3750,""2437,5"",98,Cash,Mrs.,Afternoon"
+11/2/2024,Sugarcane juice,1875,"1218,75",95,Cash,Mrs.,Midnight
+17/11/2024,arepa carne,3750,"2437,5",98,Cash,Mrs.,Afternoon
 5/1/2024,Sandwich,4500,2925,62,Cash,Mrs.,Night
 19/1/2024,Pastel pollo,2300,1495,96,Cash,Mr.,Morning
 18/9/2024,Pastel pollo,2300,1495,74,Cash,Mr.,Midnight
 23/12/2024,Sandwich,4500,2925,102,Online,Mr.,Evening
-"17/10/2024,arepa pollo,3950,""2567,5"",83,Online,Mrs.,Night"
-"17/10/2024,Pastel de yuca,3250,""2112,5"",93,Online,Mr.,Evening"
+17/10/2024,arepa pollo,3950,"2567,5",83,Online,Mrs.,Night
+17/10/2024,Pastel de yuca,3250,"2112,5",93,Online,Mr.,Evening
 7/3/2024,Chocorramo,2900,1885,91,Cash,Mrs.,Afternoon
 17/10/2024,papas de pollo,2700,1755,84,Cash,Mrs.,Afternoon
 13/5/2024,papas de pollo,2700,1755,73,Online,Mr.,Midnight
 24/4/2024,Cocacola 1.5lt,7000,4550,105,Online,Mr.,Afternoon
-"30/1/2024,Tamales,8950,""5817,5"",70,Online,Mr.,Evening"
-"12/6/2024,arepa carne,3750,""2437,5"",103,Cash,Mr.,Night"
-"14/8/2024,Sugarcane juice,1875,""1218,75"",63,Online,Mrs.,Afternoon"
+30/1/2024,Tamales,8950,"5817,5",70,Online,Mr.,Evening
+12/6/2024,arepa carne,3750,"2437,5",103,Cash,Mr.,Night
+14/8/2024,Sugarcane juice,1875,"1218,75",63,Online,Mrs.,Afternoon
 26/8/2024,cafe americano,1800,1170,70,Online,Mrs.,Evening
 11/4/2024,cafe americano,1800,1170,71,Online,Mr.,Night
 25/11/2024,Pastel pollo,2300,1495,68,Cash,Mrs.,Morning
-"11/4/2024,Pan arabe,2150,""1397,5"",92,Online,Mrs.,Midnight"
+11/4/2024,Pan arabe,2150,"1397,5",92,Online,Mrs.,Midnight
 1/12/2024,cafe americano,1800,1170,65,Online,Mrs.,Afternoon
-"17/11/2024,Pastel de yuca,3250,""2112,5"",88,Online,Mr.,Evening"
+17/11/2024,Pastel de yuca,3250,"2112,5",88,Online,Mr.,Evening
 2/2/2024,Cocacola 1.5lt,7000,4550,98,Online,Mrs.,Night
-"5/1/2024,Tamales,8950,""5817,5"",90,Online,Mr.,Midnight"
+5/1/2024,Tamales,8950,"5817,5",90,Online,Mr.,Midnight
 2/7/2024,Cold coffee,3000,1950,64,Online,Mr.,Afternoon
 19/8/2024,Empanadas Carne,1500,975,62,Online,Mrs.,Night
 3/12/2024,Empanadas Carne,1500,975,72,Cash,Mrs.,Morning
 25/7/2024,Empanadas Carne,1500,975,88,Online,Mrs.,Afternoon
-"11/9/2024,arepa carne,3750,""2437,5"",77,Online,Mrs.,Night"
+11/9/2024,arepa carne,3750,"2437,5",77,Online,Mrs.,Night
 3/12/2024,Cold coffee,3000,1950,86,Online,Mr.,Afternoon
 24/8/2024,Sandwich,4500,2925,98,Cash,Mr.,Evening
-"17/12/2024,Pan arabe,2150,""1397,5"",66,Online,Mrs.,Evening"
-"12/5/2024,Pan arabe,2150,""1397,5"",97,Cash,Mr.,Evening"
-"12/12/2024,Sugarcane juice,1875,""1218,75"",78,Cash,Mrs.,Night"
-"10/6/2024,arepa pollo,3950,""2567,5"",90,Cash,Mrs.,Evening"
+17/12/2024,Pan arabe,2150,"1397,5",66,Online,Mrs.,Evening
+12/5/2024,Pan arabe,2150,"1397,5",97,Cash,Mr.,Evening
+12/12/2024,Sugarcane juice,1875,"1218,75",78,Cash,Mrs.,Night
+10/6/2024,arepa pollo,3950,"2567,5",90,Cash,Mrs.,Evening
 1/10/2024,Pastel pollo,2300,1495,81,Online,Mr.,Midnight
-"17/10/2024,Pastel de yuca,3250,""2112,5"",101,Online,Mr.,Evening"
+17/10/2024,Pastel de yuca,3250,"2112,5",101,Online,Mr.,Evening
 4/2/2024,Chocorramo,2900,1885,73,Cash,Mrs.,Afternoon
 15/5/2024,Chocorramo,2900,1885,77,Cash,Mr.,Evening
 21/7/2024,Chocorramo,2900,1885,103,Online,Mrs.,Morning
@@ -214,7 +214,7 @@ Fecha,item_name,Precio unita COP,Costo Unit COP,quantity,transaction_type,receiv
 17/10/2024,Cocacola 1.5lt,7000,4550,100,Online,Mr.,Evening
 24/12/2024,Cold coffee,3000,1950,104,Online,Mrs.,Morning
 26/8/2024,Cold coffee,3000,1950,79,Cash,Mr.,Night
-"17/4/2024,Pan arabe,2150,""1397,5"",92,Online,Mrs.,Midnight"
+17/4/2024,Pan arabe,2150,"1397,5",92,Online,Mrs.,Midnight
 5/1/2024,cafe americano,1800,1170,67,Cash,Mr.,Night
 27/7/2024,Sandwich,4500,2925,86,Online,Mr.,Night
 25/12/2024,Pastel pollo,2300,1495,74,Cash,Mrs.,Evening
@@ -230,119 +230,119 @@ Fecha,item_name,Precio unita COP,Costo Unit COP,quantity,transaction_type,receiv
 28/12/2024,Cold coffee,3000,1950,101,Online,Mrs.,Morning
 6/1/2024,cafe americano,1800,1170,88,Online,Mrs.,Midnight
 15/5/2024,cafe americano,1800,1170,103,Online,Mr.,Midnight
-"28/10/2024,arepa pollo,3950,""2567,5"",68,Online,Mr.,Afternoon"
-"3/9/2024,Pastel de yuca,3250,""2112,5"",69,Online,Mrs.,Morning"
+28/10/2024,arepa pollo,3950,"2567,5",68,Online,Mr.,Afternoon
+3/9/2024,Pastel de yuca,3250,"2112,5",69,Online,Mrs.,Morning
 28/12/2024,Cocacola 1.5lt,7000,4550,78,Cash,Mr.,Night
-"21/9/2024,Tamales,8950,""5817,5"",92,Online,Mr.,Afternoon"
+21/9/2024,Tamales,8950,"5817,5",92,Online,Mr.,Afternoon
 19/10/2024,cafe expresso,1500,975,62,Cash,Mrs.,Morning
-"28/12/2024,Sugarcane juice,1875,""1218,75"",85,Cash,Mr.,Night"
+28/12/2024,Sugarcane juice,1875,"1218,75",85,Cash,Mr.,Night
 17/10/2024,Torta de queso,1900,1235,97,Cash,Mr.,Afternoon
 2/2/2024,cafe americano,1800,1170,98,Cash,Mr.,Evening
-"22/12/2024,Sugarcane juice,1875,""1218,75"",67,Cash,Mrs.,Afternoon"
+22/12/2024,Sugarcane juice,1875,"1218,75",67,Cash,Mrs.,Afternoon
 17/8/2024,Pastel pollo,2300,1495,90,Online,Mr.,Midnight
-"17/11/2024,Pastel de yuca,3250,""2112,5"",62,Cash,Mr.,Evening"
-"11/12/2024,Pastel de yuca,3250,""2112,5"",104,Online,Mr.,Evening"
+17/11/2024,Pastel de yuca,3250,"2112,5",62,Cash,Mr.,Evening
+11/12/2024,Pastel de yuca,3250,"2112,5",104,Online,Mr.,Evening
 8/5/2024,papas de pollo,2700,1755,94,Online,Mr.,Afternoon
 16/5/2024,Cocacola 1.5lt,7000,4550,77,Cash,Mrs.,Afternoon
-"13/5/2024,Tamales,8950,""5817,5"",67,Online,Mrs.,Morning"
+13/5/2024,Tamales,8950,"5817,5",67,Online,Mrs.,Morning
 9/8/2024,Sandwich,4500,2925,75,Online,Mr.,Morning
 23/12/2024,Cold coffee,3000,1950,83,Online,Mrs.,Midnight
-"25/11/2024,arepa carne,3750,""2437,5"",104,Online,Mrs.,Night"
-"13/2/2024,Sugarcane juice,1875,""1218,75"",98,Online,Mr.,Morning"
-"1/10/2024,Sugarcane juice,1875,""1218,75"",99,Cash,Mr.,Evening"
-"16/11/2024,Sugarcane juice,1875,""1218,75"",89,Online,Mr.,Night"
-"11/10/2024,Pastel de yuca,3250,""2112,5"",105,Cash,Mrs.,Afternoon"
-"25/12/2024,Pastel de yuca,3250,""2112,5"",94,Cash,Mrs.,Night"
+25/11/2024,arepa carne,3750,"2437,5",104,Online,Mrs.,Night
+13/2/2024,Sugarcane juice,1875,"1218,75",98,Online,Mr.,Morning
+1/10/2024,Sugarcane juice,1875,"1218,75",99,Cash,Mr.,Evening
+16/11/2024,Sugarcane juice,1875,"1218,75",89,Online,Mr.,Night
+11/10/2024,Pastel de yuca,3250,"2112,5",105,Cash,Mrs.,Afternoon
+25/12/2024,Pastel de yuca,3250,"2112,5",94,Cash,Mrs.,Night
 1/2/2024,Chocorramo,2900,1885,102,Cash,Mr.,Evening
 14/8/2024,Chocorramo,2900,1885,90,Online,Mr.,Night
 4/9/2024,papas de pollo,2700,1755,68,Online,Mr.,Midnight
 9/5/2024,Cocacola 1.5lt,7000,4550,100,Cash,Mrs.,Afternoon
 24/2/2024,Sandwich,4500,2925,95,Cash,Mr.,Morning
-"6/1/2024,arepa carne,3750,""2437,5"",69,Online,Mrs.,Midnight"
-"6/5/2024,arepa carne,3750,""2437,5"",103,Cash,Mr.,Afternoon"
+6/1/2024,arepa carne,3750,"2437,5",69,Online,Mrs.,Midnight
+6/5/2024,arepa carne,3750,"2437,5",103,Cash,Mr.,Afternoon
 13/12/2024,Cold coffee,3000,1950,90,Online,Mrs.,Afternoon
 4/10/2024,Sandwich,4500,2925,98,Cash,Mrs.,Evening
 5/2/2024,cafe americano,1800,1170,97,Cash,Mr.,Evening
-"12/12/2024,Sugarcane juice,1875,""1218,75"",85,Cash,Mr.,Night"
-"30/12/2024,Pan arabe,2150,""1397,5"",92,Online,Mrs.,Afternoon"
+12/12/2024,Sugarcane juice,1875,"1218,75",85,Cash,Mr.,Night
+30/12/2024,Pan arabe,2150,"1397,5",92,Online,Mrs.,Afternoon
 12/11/2024,Cold coffee,3000,1950,88,Cash,Mrs.,Midnight
 9/12/2024,Pastel pollo,2300,1495,90,Online,Mr.,Midnight
-"17/7/2024,Sugarcane juice,1875,""1218,75"",66,Cash,Mrs.,Morning"
-"27/7/2024,arepa pollo,3950,""2567,5"",91,Online,Mrs.,Afternoon"
-"25/11/2024,Pastel de yuca,3250,""2112,5"",64,Online,Mrs.,Evening"
-"15/9/2024,Pastel de yuca,3250,""2112,5"",88,Online,Mr.,Evening"
-"3/1/2024,Tamales,8950,""5817,5"",94,Cash,Mrs.,Afternoon"
-"13/5/2024,Tamales,8950,""5817,5"",104,Cash,Mrs.,Afternoon"
+17/7/2024,Sugarcane juice,1875,"1218,75",66,Cash,Mrs.,Morning
+27/7/2024,arepa pollo,3950,"2567,5",91,Online,Mrs.,Afternoon
+25/11/2024,Pastel de yuca,3250,"2112,5",64,Online,Mrs.,Evening
+15/9/2024,Pastel de yuca,3250,"2112,5",88,Online,Mr.,Evening
+3/1/2024,Tamales,8950,"5817,5",94,Cash,Mrs.,Afternoon
+13/5/2024,Tamales,8950,"5817,5",104,Cash,Mrs.,Afternoon
 3/2/2024,Empanadas Carne,1500,975,95,Cash,Mrs.,Evening
-"19/11/2024,arepa carne,3750,""2437,5"",89,Online,Mrs.,Night"
+19/11/2024,arepa carne,3750,"2437,5",89,Online,Mrs.,Night
 16/11/2024,cafe expresso,1500,975,96,Online,Mrs.,Morning
 26/4/2024,Torta de queso,1900,1235,96,Cash,Mr.,Morning
 29/7/2024,Empanadas Carne,1500,975,104,Cash,Mrs.,Afternoon
 7/5/2024,cafe americano,1800,1170,75,Cash,Mr.,Evening
 31/8/2024,Pastel pollo,2300,1495,103,Online,Mr.,Midnight
 23/11/2024,cafe americano,1800,1170,103,Cash,Mr.,Afternoon
-"6/1/2024,Pan arabe,2150,""1397,5"",97,Online,Mrs.,Evening"
-"2/2/2024,arepa pollo,3950,""2567,5"",68,Online,Mr.,Afternoon"
-"4/10/2024,Pastel de yuca,3250,""2112,5"",69,Cash,Mrs.,Afternoon"
+6/1/2024,Pan arabe,2150,"1397,5",97,Online,Mrs.,Evening
+2/2/2024,arepa pollo,3950,"2567,5",68,Online,Mr.,Afternoon
+4/10/2024,Pastel de yuca,3250,"2112,5",69,Cash,Mrs.,Afternoon
 8/5/2024,Cocacola 1.5lt,7000,4550,85,Online,Mrs.,Evening
-"4/12/2024,Tamales,8950,""5817,5"",71,Cash,Mr.,Night"
-"10/7/2024,Tamales,8950,""5817,5"",87,Online,Mr.,Night"
-"2/2/2024,Tamales,8950,""5817,5"",91,Cash,Mr.,Evening"
+4/12/2024,Tamales,8950,"5817,5",71,Cash,Mr.,Night
+10/7/2024,Tamales,8950,"5817,5",87,Online,Mr.,Night
+2/2/2024,Tamales,8950,"5817,5",91,Cash,Mr.,Evening
 2/3/2024,Torta de queso,1900,1235,63,Cash,Mrs.,Midnight
-"15/3/2024,arepa carne,3750,""2437,5"",91,Online,Mr.,Afternoon"
-"12/5/2024,arepa carne,3750,""2437,5"",85,Cash,Mrs.,Afternoon"
-"12/12/2024,Sugarcane juice,1875,""1218,75"",84,Cash,Mrs.,Afternoon"
-"23/11/2024,Sugarcane juice,1875,""1218,75"",62,Cash,Mr.,Evening"
+15/3/2024,arepa carne,3750,"2437,5",91,Online,Mr.,Afternoon
+12/5/2024,arepa carne,3750,"2437,5",85,Cash,Mrs.,Afternoon
+12/12/2024,Sugarcane juice,1875,"1218,75",84,Cash,Mrs.,Afternoon
+23/11/2024,Sugarcane juice,1875,"1218,75",62,Cash,Mr.,Evening
 25/7/2024,Pastel pollo,2300,1495,78,Cash,Mrs.,Midnight
-"23/12/2024,Pan arabe,2150,""1397,5"",95,Online,Mr.,Afternoon"
+23/12/2024,Pan arabe,2150,"1397,5",95,Online,Mr.,Afternoon
 22/8/2024,Cold coffee,3000,1950,103,Online,Mr.,Midnight
 23/12/2024,Cold coffee,3000,1950,89,Online,Mr.,Midnight
-"24/12/2024,arepa pollo,3950,""2567,5"",102,Online,Mr.,Night"
+24/12/2024,arepa pollo,3950,"2567,5",102,Online,Mr.,Night
 17/10/2024,Chocorramo,2900,1885,94,Online,Mr.,Afternoon
-"14/5/2024,Tamales,8950,""5817,5"",75,Cash,Mrs.,Morning"
-"1/12/2024,arepa carne,3750,""2437,5"",68,Online,Mrs.,Afternoon"
-"19/1/2024,Sugarcane juice,1875,""1218,75"",72,Cash,Mr.,Evening"
+14/5/2024,Tamales,8950,"5817,5",75,Cash,Mrs.,Morning
+1/12/2024,arepa carne,3750,"2437,5",68,Online,Mrs.,Afternoon
+19/1/2024,Sugarcane juice,1875,"1218,75",72,Cash,Mr.,Evening
 5/1/2024,Sandwich,4500,2925,93,Cash,Mr.,Midnight
 3/10/2024,Torta de queso,1900,1235,68,Cash,Mrs.,Morning
 21/12/2024,Cold coffee,3000,1950,96,Cash,Mrs.,Afternoon
-"16/11/2024,Sugarcane juice,1875,""1218,75"",84,Cash,Mr.,Morning"
+16/11/2024,Sugarcane juice,1875,"1218,75",84,Cash,Mr.,Morning
 12/12/2024,cafe expresso,1500,975,82,Online,Mr.,Night
-"25/6/2024,arepa carne,3750,""2437,5"",61,Cash,Mrs.,Evening"
+25/6/2024,arepa carne,3750,"2437,5",61,Cash,Mrs.,Evening
 3/12/2024,Pastel pollo,2300,1495,100,Online,Mrs.,Midnight
 2/11/2024,Cold coffee,3000,1950,61,Cash,Mrs.,Afternoon
 4/12/2024,Chocorramo,2900,1885,84,Online,Mrs.,Evening
 10/7/2024,Chocorramo,2900,1885,73,Cash,Mr.,Evening
 16/5/2024,Chocorramo,2900,1885,86,Cash,Mrs.,Morning
 2/2/2024,papas de pollo,2700,1755,87,Cash,Mrs.,Morning
-"15/12/2024,Tamales,8950,""5817,5"",97,Cash,Mr.,Morning"
+15/12/2024,Tamales,8950,"5817,5",97,Cash,Mr.,Morning
 23/11/2024,cafe expresso,1500,975,90,Cash,Mrs.,Midnight
-"19/3/2024,Sugarcane juice,1875,""1218,75"",65,Cash,Mr.,Afternoon"
-"21/12/2024,Pan arabe,2150,""1397,5"",69,Cash,Mr.,Midnight"
+19/3/2024,Sugarcane juice,1875,"1218,75",65,Cash,Mr.,Afternoon
+21/12/2024,Pan arabe,2150,"1397,5",69,Cash,Mr.,Midnight
 28/8/2024,Cold coffee,3000,1950,90,Cash,Mr.,Afternoon
-"26/2/2024,Sugarcane juice,1875,""1218,75"",76,Cash,Mr.,Afternoon"
+26/2/2024,Sugarcane juice,1875,"1218,75",76,Cash,Mr.,Afternoon
 1/7/2024,Cold coffee,3000,1950,74,Online,Mrs.,Afternoon
 19/8/2024,Sandwich,4500,2925,96,Online,Mr.,Night
-"24/2/2024,Pastel de yuca,3250,""2112,5"",91,Online,Mr.,Midnight"
-"4/12/2024,Pastel de yuca,3250,""2112,5"",95,Cash,Mrs.,Morning"
-"24/4/2024,Pastel de yuca,3250,""2112,5"",60,Online,Mrs.,Morning"
+24/2/2024,Pastel de yuca,3250,"2112,5",91,Online,Mr.,Midnight
+4/12/2024,Pastel de yuca,3250,"2112,5",95,Cash,Mrs.,Morning
+24/4/2024,Pastel de yuca,3250,"2112,5",60,Online,Mrs.,Morning
 13/11/2024,Chocorramo,2900,1885,100,Online,Mrs.,Evening
 22/3/2024,Chocorramo,2900,1885,69,Online,Mr.,Evening
 28/12/2024,papas de pollo,2700,1755,90,Online,Mrs.,Midnight
 14/8/2024,Cocacola 1.5lt,7000,4550,96,Cash,Mrs.,Morning
 3/3/2024,Cocacola 1.5lt,7000,4550,69,Online,Mrs.,Evening
-"15/3/2024,Tamales,8950,""5817,5"",83,Online,Mr.,Midnight"
+15/3/2024,Tamales,8950,"5817,5",83,Online,Mr.,Midnight
 5/11/2024,cafe expresso,1500,975,72,Online,Mr.,Night
 3/3/2024,cafe expresso,1500,975,101,Cash,Mr.,Midnight
-"10/7/2024,arepa carne,3750,""2437,5"",70,Online,Mrs.,Morning"
+10/7/2024,arepa carne,3750,"2437,5",70,Online,Mrs.,Morning
 20/2/2024,Cold coffee,3000,1950,67,Online,Mrs.,Evening
-"13/5/2024,Sugarcane juice,1875,""1218,75"",89,Cash,Mr.,Afternoon"
+13/5/2024,Sugarcane juice,1875,"1218,75",89,Cash,Mr.,Afternoon
 1/12/2024,cafe expresso,1500,975,96,Cash,Mr.,Evening
 22/12/2024,Torta de queso,1900,1235,82,Cash,Mr.,Midnight
 5/2/2024,Empanadas Carne,1500,975,104,Cash,Mr.,Night
 5/11/2024,cafe expresso,1500,975,68,Online,Mrs.,Evening
 13/5/2024,Cold coffee,3000,1950,101,Cash,Mr.,Night
 23/3/2024,Sandwich,4500,2925,79,Online,Mrs.,Morning
-"8/8/2024,Pan arabe,2150,""1397,5"",89,Online,Mrs.,Night"
+8/8/2024,Pan arabe,2150,"1397,5",89,Online,Mrs.,Night
 9/6/2024,Pastel pollo,2300,1495,93,Cash,Mrs.,Afternoon
 2/7/2024,Cold coffee,3000,1950,97,Cash,Mr.,Afternoon
 29/3/2024,Cold coffee,3000,1950,89,Online,Mrs.,Midnight
@@ -350,49 +350,49 @@ Fecha,item_name,Precio unita COP,Costo Unit COP,quantity,transaction_type,receiv
 6/6/2024,Sandwich,4500,2925,68,Online,Mr.,Evening
 14/10/2024,Chocorramo,2900,1885,94,Cash,Mrs.,Afternoon
 8/4/2024,Chocorramo,2900,1885,76,Cash,Mrs.,Midnight
-"26/4/2024,Sugarcane juice,1875,""1218,75"",94,Online,Mrs.,Night"
+26/4/2024,Sugarcane juice,1875,"1218,75",94,Online,Mrs.,Night
 26/8/2024,Empanadas Carne,1500,975,97,Cash,Mr.,Morning
 13/11/2024,Empanadas Carne,1500,975,71,Cash,Mrs.,Night
 25/12/2024,Sandwich,4500,2925,85,Online,Mrs.,Evening
 26/4/2024,cafe americano,1800,1170,64,Online,Mr.,Night
 26/10/2024,Sandwich,4500,2925,105,Online,Mr.,Evening
-"17/4/2024,arepa pollo,3950,""2567,5"",90,Online,Mr.,Afternoon"
+17/4/2024,arepa pollo,3950,"2567,5",90,Online,Mr.,Afternoon
 24/5/2024,Sandwich,4500,2925,83,Cash,Mrs.,Morning
 1/12/2024,Chocorramo,2900,1885,83,Cash,Mrs.,Afternoon
 24/4/2024,Chocorramo,2900,1885,82,Online,Mrs.,Morning
 15/12/2024,Chocorramo,2900,1885,73,Cash,Mrs.,Afternoon
-"9/12/2024,Tamales,8950,""5817,5"",104,Online,Mr.,Night"
-"14/10/2024,Tamales,8950,""5817,5"",60,Cash,Mrs.,Afternoon"
-"4/10/2024,Tamales,8950,""5817,5"",67,Cash,Mr.,Evening"
-"14/10/2024,arepa carne,3750,""2437,5"",91,Cash,Mr.,Midnight"
-"14/1/2024,Sugarcane juice,1875,""1218,75"",76,Cash,Mrs.,Midnight"
+9/12/2024,Tamales,8950,"5817,5",104,Online,Mr.,Night
+14/10/2024,Tamales,8950,"5817,5",60,Cash,Mrs.,Afternoon
+4/10/2024,Tamales,8950,"5817,5",67,Cash,Mr.,Evening
+14/10/2024,arepa carne,3750,"2437,5",91,Cash,Mr.,Midnight
+14/1/2024,Sugarcane juice,1875,"1218,75",76,Cash,Mrs.,Midnight
 26/7/2024,Sandwich,4500,2925,61,Cash,Mrs.,Evening
-"7/3/2024,arepa carne,3750,""2437,5"",102,Cash,Mrs.,Morning"
+7/3/2024,arepa carne,3750,"2437,5",102,Cash,Mrs.,Morning
 16/9/2024,Sandwich,4500,2925,78,Online,Mrs.,Morning
-"5/11/2024,arepa pollo,3950,""2567,5"",69,Cash,Mr.,Afternoon"
+5/11/2024,arepa pollo,3950,"2567,5",69,Cash,Mr.,Afternoon
 9/3/2024,cafe americano,1800,1170,103,Online,Mr.,Midnight
-"28/1/2024,Pastel de yuca,3250,""2112,5"",102,Cash,Mr.,Evening"
-"5/11/2024,Pastel de yuca,3250,""2112,5"",95,Online,Mrs.,Evening"
-"29/10/2024,Pastel de yuca,3250,""2112,5"",103,Cash,Mr.,Night"
-"25/6/2024,Pastel de yuca,3250,""2112,5"",62,Cash,Mrs.,Afternoon"
+28/1/2024,Pastel de yuca,3250,"2112,5",102,Cash,Mr.,Evening
+5/11/2024,Pastel de yuca,3250,"2112,5",95,Online,Mrs.,Evening
+29/10/2024,Pastel de yuca,3250,"2112,5",103,Cash,Mr.,Night
+25/6/2024,Pastel de yuca,3250,"2112,5",62,Cash,Mrs.,Afternoon
 9/3/2024,papas de pollo,2700,1755,89,Online,Mrs.,Evening
-"15/5/2024,Tamales,8950,""5817,5"",88,Cash,Mr.,Evening"
-"3/3/2024,Tamales,8950,""5817,5"",95,Online,Mr.,Midnight"
+15/5/2024,Tamales,8950,"5817,5",88,Cash,Mr.,Evening
+3/3/2024,Tamales,8950,"5817,5",95,Online,Mr.,Midnight
 22/12/2024,cafe expresso,1500,975,65,Online,Mrs.,Afternoon
 28/12/2024,cafe expresso,1500,975,81,Online,Mrs.,Morning
 24/12/2024,Torta de queso,1900,1235,95,Online,Mr.,Morning
 14/9/2024,cafe expresso,1500,975,99,Cash,Mrs.,Midnight
 19/10/2024,Torta de queso,1900,1235,74,Online,Mr.,Morning
-"2/1/2024,Sugarcane juice,1875,""1218,75"",71,Cash,Mr.,Afternoon"
+2/1/2024,Sugarcane juice,1875,"1218,75",71,Cash,Mr.,Afternoon
 16/4/2024,cafe americano,1800,1170,105,Cash,Mr.,Morning
-"16/5/2024,arepa carne,3750,""2437,5"",75,Online,Mrs.,Midnight"
+16/5/2024,arepa carne,3750,"2437,5",75,Online,Mrs.,Midnight
 1/12/2024,cafe americano,1800,1170,95,Online,Mr.,Midnight
-"4/12/2024,Sugarcane juice,1875,""1218,75"",95,Online,Mr.,Night"
-"17/7/2024,Tamales,8950,""5817,5"",84,Cash,Mr.,Evening"
-"15/9/2024,Tamales,8950,""5817,5"",92,Cash,Mrs.,Afternoon"
+4/12/2024,Sugarcane juice,1875,"1218,75",95,Online,Mr.,Night
+17/7/2024,Tamales,8950,"5817,5",84,Cash,Mr.,Evening
+15/9/2024,Tamales,8950,"5817,5",92,Cash,Mrs.,Afternoon
 22/5/2024,Empanadas Carne,1500,975,72,Cash,Mr.,Morning
 5/4/2024,Empanadas Carne,1500,975,69,Online,Mrs.,Midnight
-"15/5/2024,arepa carne,3750,""2437,5"",102,Cash,Mr.,Afternoon"
+15/5/2024,arepa carne,3750,"2437,5",102,Cash,Mr.,Afternoon
 19/3/2024,Cold coffee,3000,1950,100,Cash,Mrs.,Morning
 22/12/2024,cafe expresso,1500,975,105,Cash,Mrs.,Afternoon
 17/8/2024,cafe americano,1800,1170,74,Online,Mr.,Night
@@ -400,183 +400,183 @@ Fecha,item_name,Precio unita COP,Costo Unit COP,quantity,transaction_type,receiv
 22/8/2024,Sandwich,4500,2925,62,Cash,Mr.,Night
 4/8/2024,cafe americano,1800,1170,76,Online,Mr.,Afternoon
 5/12/2024,Sandwich,4500,2925,82,Cash,Mr.,Midnight
-"14/9/2024,Pan arabe,2150,""1397,5"",63,Online,Mrs.,Afternoon"
-"9/3/2024,Sugarcane juice,1875,""1218,75"",103,Online,Mr.,Night"
+14/9/2024,Pan arabe,2150,"1397,5",63,Online,Mrs.,Afternoon
+9/3/2024,Sugarcane juice,1875,"1218,75",103,Online,Mr.,Night
 16/5/2024,Sandwich,4500,2925,99,Cash,Mr.,Night
 17/10/2024,Pastel pollo,2300,1495,101,Cash,Mr.,Afternoon
 9/5/2024,cafe americano,1800,1170,73,Cash,Mr.,Evening
 25/7/2024,Sandwich,4500,2925,92,Online,Mrs.,Midnight
 5/11/2024,Pastel pollo,2300,1495,101,Online,Mrs.,Evening
-"12/5/2024,Pastel de yuca,3250,""2112,5"",68,Cash,Mr.,Morning"
-"8/5/2024,Pastel de yuca,3250,""2112,5"",67,Online,Mr.,Evening"
-"8/11/2024,Pastel de yuca,3250,""2112,5"",64,Cash,Mrs.,Afternoon"
+12/5/2024,Pastel de yuca,3250,"2112,5",68,Cash,Mr.,Morning
+8/5/2024,Pastel de yuca,3250,"2112,5",67,Online,Mr.,Evening
+8/11/2024,Pastel de yuca,3250,"2112,5",64,Cash,Mrs.,Afternoon
 1/7/2024,Chocorramo,2900,1885,77,Online,Mrs.,Morning
 19/11/2024,Cocacola 1.5lt,7000,4550,77,Online,Mr.,Night
-"1/7/2024,Tamales,8950,""5817,5"",99,Online,Mr.,Afternoon"
-"4/9/2024,Tamales,8950,""5817,5"",66,Cash,Mr.,Morning"
+1/7/2024,Tamales,8950,"5817,5",99,Online,Mr.,Afternoon
+4/9/2024,Tamales,8950,"5817,5",66,Cash,Mr.,Morning
 17/7/2024,Cold coffee,3000,1950,68,Cash,Mrs.,Evening
 25/3/2024,Torta de queso,1900,1235,63,Online,Mr.,Midnight
 6/6/2024,Cold coffee,3000,1950,70,Online,Mr.,Morning
 20/1/2024,Cold coffee,3000,1950,97,Online,Mrs.,Morning
-"28/12/2024,Pan arabe,2150,""1397,5"",97,Online,Mr.,Morning"
-"17/11/2024,Sugarcane juice,1875,""1218,75"",94,Online,Mr.,Afternoon"
+28/12/2024,Pan arabe,2150,"1397,5",97,Online,Mr.,Morning
+17/11/2024,Sugarcane juice,1875,"1218,75",94,Online,Mr.,Afternoon
 25/1/2024,Sandwich,4500,2925,63,Online,Mrs.,Morning
 3/2/2024,Cocacola 1.5lt,7000,4550,90,Online,Mr.,Evening
 8/3/2024,cafe expresso,1500,975,79,Online,Mrs.,Night
 11/4/2024,Torta de queso,1900,1235,92,Online,Mrs.,Midnight
 24/2/2024,Empanadas Carne,1500,975,75,Cash,Mrs.,Morning
 3/5/2024,cafe expresso,1500,975,78,Cash,Mrs.,Night
-"30/1/2024,Pan arabe,2150,""1397,5"",90,Cash,Mrs.,Morning"
-"4/12/2024,Sugarcane juice,1875,""1218,75"",90,Online,Mrs.,Morning"
-"26/10/2024,Sugarcane juice,1875,""1218,75"",100,Cash,Mr.,Midnight"
-"2/7/2024,Pan arabe,2150,""1397,5"",76,Cash,Mrs.,Morning"
+30/1/2024,Pan arabe,2150,"1397,5",90,Cash,Mrs.,Morning
+4/12/2024,Sugarcane juice,1875,"1218,75",90,Online,Mrs.,Morning
+26/10/2024,Sugarcane juice,1875,"1218,75",100,Cash,Mr.,Midnight
+2/7/2024,Pan arabe,2150,"1397,5",76,Cash,Mrs.,Morning
 15/6/2024,Pastel pollo,2300,1495,93,Online,Mr.,Morning
-"3/1/2024,Sugarcane juice,1875,""1218,75"",97,Online,Mrs.,Midnight"
-"17/10/2024,arepa pollo,3950,""2567,5"",85,Cash,Mr.,Night"
-"2/10/2024,arepa pollo,3950,""2567,5"",92,Online,Mrs.,Morning"
-"17/4/2024,Pastel de yuca,3250,""2112,5"",87,Online,Mr.,Night"
+3/1/2024,Sugarcane juice,1875,"1218,75",97,Online,Mrs.,Midnight
+17/10/2024,arepa pollo,3950,"2567,5",85,Cash,Mr.,Night
+2/10/2024,arepa pollo,3950,"2567,5",92,Online,Mrs.,Morning
+17/4/2024,Pastel de yuca,3250,"2112,5",87,Online,Mr.,Night
 16/3/2024,Chocorramo,2900,1885,98,Online,Mr.,Evening
 18/8/2024,Chocorramo,2900,1885,90,Online,Mr.,Night
 2/3/2024,Chocorramo,2900,1885,79,Cash,Mrs.,Evening
 10/1/2024,Cocacola 1.5lt,7000,4550,86,Cash,Mrs.,Evening
 2/3/2024,Cocacola 1.5lt,7000,4550,61,Cash,Mrs.,Afternoon
-"6/1/2024,Tamales,8950,""5817,5"",91,Cash,Mrs.,Morning"
+6/1/2024,Tamales,8950,"5817,5",91,Cash,Mrs.,Morning
 26/7/2024,Empanadas Carne,1500,975,104,Cash,Mr.,Afternoon
 10/8/2024,Sandwich,4500,2925,64,Online,Mr.,Morning
-"23/12/2024,Pan arabe,2150,""1397,5"",85,Cash,Mrs.,Morning"
+23/12/2024,Pan arabe,2150,"1397,5",85,Cash,Mrs.,Morning
 9/12/2024,Pastel pollo,2300,1495,64,Online,Mr.,Midnight
 19/11/2024,Pastel pollo,2300,1495,63,Cash,Mr.,Midnight
-"7/8/2024,Pan arabe,2150,""1397,5"",98,Online,Mr.,Night"
+7/8/2024,Pan arabe,2150,"1397,5",98,Online,Mr.,Night
 16/3/2024,cafe americano,1800,1170,71,Online,Mr.,Midnight
-"1/7/2024,Pastel de yuca,3250,""2112,5"",67,Cash,Mr.,Evening"
+1/7/2024,Pastel de yuca,3250,"2112,5",67,Cash,Mr.,Evening
 15/8/2024,Chocorramo,2900,1885,95,Online,Mr.,Afternoon
 5/1/2024,papas de pollo,2700,1755,104,Cash,Mr.,Evening
 3/2/2024,papas de pollo,2700,1755,86,Online,Mr.,Night
 24/2/2024,Cocacola 1.5lt,7000,4550,104,Cash,Mr.,Evening
-"9/3/2024,Tamales,8950,""5817,5"",86,Cash,Mrs.,Afternoon"
+9/3/2024,Tamales,8950,"5817,5",86,Cash,Mrs.,Afternoon
 14/9/2024,Cold coffee,3000,1950,82,Online,Mrs.,Evening
-"4/2/2024,arepa carne,3750,""2437,5"",63,Online,Mrs.,Evening"
+4/2/2024,arepa carne,3750,"2437,5",63,Online,Mrs.,Evening
 25/12/2024,Cold coffee,3000,1950,104,Cash,Mr.,Midnight
 30/6/2024,Sandwich,4500,2925,60,Online,Mrs.,Midnight
 5/1/2024,Cold coffee,3000,1950,85,Cash,Mrs.,Afternoon
 23/4/2024,cafe americano,1800,1170,94,Online,Mr.,Afternoon
-"23/3/2024,Sugarcane juice,1875,""1218,75"",96,Online,Mrs.,Morning"
+23/3/2024,Sugarcane juice,1875,"1218,75",96,Online,Mrs.,Morning
 12/7/2024,Pastel pollo,2300,1495,92,Online,Mrs.,Afternoon
-"17/7/2024,Pastel de yuca,3250,""2112,5"",78,Cash,Mrs.,Afternoon"
+17/7/2024,Pastel de yuca,3250,"2112,5",78,Cash,Mrs.,Afternoon
 17/10/2024,Chocorramo,2900,1885,71,Cash,Mrs.,Morning
 1/12/2024,papas de pollo,2700,1755,65,Online,Mrs.,Evening
 24/8/2024,Empanadas Carne,1500,975,65,Online,Mr.,Morning
 8/2/2024,Torta de queso,1900,1235,103,Online,Mr.,Afternoon
 28/1/2024,Torta de queso,1900,1235,79,Cash,Mrs.,Morning
 28/12/2024,Empanadas Carne,1500,975,61,Cash,Mr.,Afternoon
-"27/7/2024,Sugarcane juice,1875,""1218,75"",72,Cash,Mrs.,Midnight"
+27/7/2024,Sugarcane juice,1875,"1218,75",72,Cash,Mrs.,Midnight
 17/10/2024,Sandwich,4500,2925,86,Online,Mr.,Morning
-"12/12/2024,arepa carne,3750,""2437,5"",99,Cash,Mrs.,Afternoon"
+12/12/2024,arepa carne,3750,"2437,5",99,Cash,Mrs.,Afternoon
 22/12/2024,Chocorramo,2900,1885,95,Cash,Mrs.,Afternoon
-"1/12/2024,Tamales,8950,""5817,5"",101,Cash,Mrs.,Afternoon"
-"24/2/2024,Tamales,8950,""5817,5"",63,Cash,Mrs.,Evening"
-"25/12/2024,Tamales,8950,""5817,5"",74,Cash,Mr.,Evening"
-"1/7/2024,Tamales,8950,""5817,5"",102,Online,Mr.,Midnight"
+1/12/2024,Tamales,8950,"5817,5",101,Cash,Mrs.,Afternoon
+24/2/2024,Tamales,8950,"5817,5",63,Cash,Mrs.,Evening
+25/12/2024,Tamales,8950,"5817,5",74,Cash,Mr.,Evening
+1/7/2024,Tamales,8950,"5817,5",102,Online,Mr.,Midnight
 30/1/2024,Cold coffee,3000,1950,71,Cash,Mr.,Afternoon
 27/7/2024,Empanadas Carne,1500,975,97,Cash,Mr.,Night
 6/11/2024,cafe expresso,1500,975,84,Cash,Mr.,Night
 8/4/2024,Torta de queso,1900,1235,105,Cash,Mrs.,Midnight
-"3/1/2024,arepa carne,3750,""2437,5"",67,Cash,Mr.,Midnight"
+3/1/2024,arepa carne,3750,"2437,5",67,Cash,Mr.,Midnight
 31/8/2024,Empanadas Carne,1500,975,96,Online,Mrs.,Afternoon
-"23/12/2024,Sugarcane juice,1875,""1218,75"",67,Cash,Mrs.,Evening"
-"3/5/2024,Pan arabe,2150,""1397,5"",98,Online,Mrs.,Night"
+23/12/2024,Sugarcane juice,1875,"1218,75",67,Cash,Mrs.,Evening
+3/5/2024,Pan arabe,2150,"1397,5",98,Online,Mrs.,Night
 21/9/2024,Sandwich,4500,2925,101,Online,Mrs.,Night
-"3/2/2024,Pan arabe,2150,""1397,5"",70,Cash,Mr.,Evening"
+3/2/2024,Pan arabe,2150,"1397,5",70,Cash,Mr.,Evening
 29/3/2024,Cold coffee,3000,1950,101,Cash,Mrs.,Afternoon
 3/1/2024,Chocorramo,2900,1885,62,Cash,Mrs.,Afternoon
 10/2/2024,papas de pollo,2700,1755,70,Cash,Mrs.,Afternoon
-"13/11/2024,Tamales,8950,""5817,5"",103,Cash,Mrs.,Afternoon"
+13/11/2024,Tamales,8950,"5817,5",103,Cash,Mrs.,Afternoon
 6/7/2024,Sandwich,4500,2925,80,Online,Mr.,Midnight
 23/4/2024,Torta de queso,1900,1235,103,Cash,Mrs.,Night
 22/8/2024,Torta de queso,1900,1235,88,Cash,Mr.,Evening
-"8/11/2024,arepa carne,3750,""2437,5"",76,Cash,Mr.,Afternoon"
+8/11/2024,arepa carne,3750,"2437,5",76,Cash,Mr.,Afternoon
 27/10/2024,Pastel pollo,2300,1495,63,Online,Mr.,Midnight
 4/9/2024,Sandwich,4500,2925,93,Online,Mr.,Morning
-"9/5/2024,arepa carne,3750,""2437,5"",105,Online,Mr.,Night"
+9/5/2024,arepa carne,3750,"2437,5",105,Online,Mr.,Night
 14/8/2024,Cold coffee,3000,1950,104,Online,Mrs.,Afternoon
 24/4/2024,Sandwich,4500,2925,74,Online,Mr.,Evening
 19/4/2024,cafe americano,1800,1170,92,Cash,Mr.,Afternoon
 30/6/2024,cafe americano,1800,1170,103,Online,Mrs.,Midnight
 26/3/2024,Pastel pollo,2300,1495,77,Cash,Mr.,Evening
-"8/11/2024,arepa pollo,3950,""2567,5"",98,Online,Mrs.,Night"
-"13/11/2024,Pan arabe,2150,""1397,5"",95,Online,Mrs.,Night"
+8/11/2024,arepa pollo,3950,"2567,5",98,Online,Mrs.,Night
+13/11/2024,Pan arabe,2150,"1397,5",95,Online,Mrs.,Night
 3/9/2024,Chocorramo,2900,1885,92,Cash,Mrs.,Morning
 3/2/2024,Chocorramo,2900,1885,83,Cash,Mr.,Afternoon
 17/11/2024,Chocorramo,2900,1885,81,Online,Mr.,Evening
 5/2/2024,papas de pollo,2700,1755,76,Cash,Mr.,Evening
 6/5/2024,Cocacola 1.5lt,7000,4550,70,Online,Mr.,Afternoon
-"17/7/2024,Tamales,8950,""5817,5"",103,Online,Mr.,Evening"
+17/7/2024,Tamales,8950,"5817,5",103,Online,Mr.,Evening
 25/1/2024,cafe expresso,1500,975,94,Cash,Mrs.,Evening
 16/5/2024,Empanadas Carne,1500,975,93,Cash,Mr.,Midnight
-"18/8/2024,arepa carne,3750,""2437,5"",80,Online,Mrs.,Night"
+18/8/2024,arepa carne,3750,"2437,5",80,Online,Mrs.,Night
 17/5/2024,cafe expresso,1500,975,103,Cash,Mrs.,Evening
 16/10/2024,cafe expresso,1500,975,99,Online,Mr.,Morning
 20/5/2024,cafe americano,1800,1170,98,Online,Mrs.,Midnight
 26/8/2024,Sandwich,4500,2925,62,Cash,Mr.,Afternoon
-"20/6/2024,arepa pollo,3950,""2567,5"",87,Online,Mrs.,Afternoon"
-"16/4/2024,Pastel de yuca,3250,""2112,5"",61,Cash,Mr.,Evening"
+20/6/2024,arepa pollo,3950,"2567,5",87,Online,Mrs.,Afternoon
+16/4/2024,Pastel de yuca,3250,"2112,5",61,Cash,Mr.,Evening
 24/5/2024,papas de pollo,2700,1755,96,Cash,Mrs.,Morning
 25/2/2024,papas de pollo,2700,1755,74,Online,Mr.,Afternoon
-"18/8/2024,Tamales,8950,""5817,5"",71,Cash,Mr.,Afternoon"
-"17/11/2024,Tamales,8950,""5817,5"",96,Cash,Mrs.,Midnight"
+18/8/2024,Tamales,8950,"5817,5",71,Cash,Mr.,Afternoon
+17/11/2024,Tamales,8950,"5817,5",96,Cash,Mrs.,Midnight
 4/9/2024,Sandwich,4500,2925,74,Cash,Mrs.,Midnight
 31/7/2024,cafe expresso,1500,975,81,Cash,Mr.,Morning
-"6/6/2024,Sugarcane juice,1875,""1218,75"",66,Cash,Mr.,Afternoon"
+6/6/2024,Sugarcane juice,1875,"1218,75",66,Cash,Mr.,Afternoon
 3/5/2024,Sandwich,4500,2925,80,Online,Mr.,Morning
-"10/6/2024,arepa carne,3750,""2437,5"",63,Cash,Mrs.,Midnight"
+10/6/2024,arepa carne,3750,"2437,5",63,Cash,Mrs.,Midnight
 9/3/2024,Sandwich,4500,2925,86,Online,Mrs.,Evening
 20/12/2024,Torta de queso,1900,1235,97,Cash,Mr.,Morning
 3/2/2024,Sandwich,4500,2925,65,Cash,Mr.,Night
 25/1/2024,Pastel pollo,2300,1495,61,Online,Mr.,Midnight
 1/6/2024,cafe americano,1800,1170,86,Cash,Mr.,Night
 2/3/2024,Sandwich,4500,2925,101,Cash,Mr.,Night
-"20/12/2024,Pan arabe,2150,""1397,5"",72,Online,Mr.,Midnight"
-"14/10/2024,Pastel de yuca,3250,""2112,5"",83,Online,Mr.,Evening"
-"16/11/2024,Pastel de yuca,3250,""2112,5"",91,Cash,Mrs.,Afternoon"
+20/12/2024,Pan arabe,2150,"1397,5",72,Online,Mr.,Midnight
+14/10/2024,Pastel de yuca,3250,"2112,5",83,Online,Mr.,Evening
+16/11/2024,Pastel de yuca,3250,"2112,5",91,Cash,Mrs.,Afternoon
 10/6/2024,Chocorramo,2900,1885,67,Online,Mr.,Night
 30/1/2024,Chocorramo,2900,1885,60,Cash,Mrs.,Afternoon
 25/12/2024,papas de pollo,2700,1755,81,Online,Mr.,Night
-"5/1/2024,Tamales,8950,""5817,5"",95,Cash,Mrs.,Afternoon"
+5/1/2024,Tamales,8950,"5817,5",95,Cash,Mrs.,Afternoon
 3/2/2024,Cold coffee,3000,1950,89,Cash,Mr.,Morning
-"6/5/2024,Sugarcane juice,1875,""1218,75"",102,Cash,Mrs.,Evening"
+6/5/2024,Sugarcane juice,1875,"1218,75",102,Cash,Mrs.,Evening
 17/5/2024,Sandwich,4500,2925,88,Online,Mrs.,Midnight
 22/3/2024,cafe americano,1800,1170,64,Online,Mr.,Midnight
-"15/8/2024,arepa pollo,3950,""2567,5"",95,Cash,Mrs.,Morning"
+15/8/2024,arepa pollo,3950,"2567,5",95,Cash,Mrs.,Morning
 19/11/2024,Cold coffee,3000,1950,70,Cash,Mr.,Night
 17/7/2024,Chocorramo,2900,1885,91,Cash,Mrs.,Night
 23/7/2024,Chocorramo,2900,1885,76,Cash,Mrs.,Afternoon
 10/7/2024,papas de pollo,2700,1755,73,Online,Mr.,Evening
-"16/4/2024,Sugarcane juice,1875,""1218,75"",71,Cash,Mr.,Night"
+16/4/2024,Sugarcane juice,1875,"1218,75",71,Cash,Mr.,Night
 29/10/2024,Torta de queso,1900,1235,64,Online,Mr.,Afternoon
-"20/5/2024,Sugarcane juice,1875,""1218,75"",89,Cash,Mrs.,Night"
-"14/1/2024,Pan arabe,2150,""1397,5"",104,Cash,Mrs.,Morning"
-"15/12/2024,arepa carne,3750,""2437,5"",101,Cash,Mr.,Evening"
+20/5/2024,Sugarcane juice,1875,"1218,75",89,Cash,Mrs.,Night
+14/1/2024,Pan arabe,2150,"1397,5",104,Cash,Mrs.,Morning
+15/12/2024,arepa carne,3750,"2437,5",101,Cash,Mr.,Evening
 6/8/2024,Cold coffee,3000,1950,60,Online,Mr.,Morning
 23/4/2024,cafe americano,1800,1170,90,Cash,Mrs.,Afternoon
 3/3/2024,papas de pollo,2700,1755,92,Cash,Mr.,Evening
 17/10/2024,papas de pollo,2700,1755,98,Online,Mrs.,Evening
 24/10/2024,Cocacola 1.5lt,7000,4550,90,Online,Mr.,Afternoon
-"26/2/2024,Tamales,8950,""5817,5"",76,Cash,Mrs.,Night"
+26/2/2024,Tamales,8950,"5817,5",76,Cash,Mrs.,Night
 13/3/2024,Cold coffee,3000,1950,73,Cash,Mr.,Morning
 24/10/2024,Cold coffee,3000,1950,67,Cash,Mrs.,Evening
 7/7/2024,Cold coffee,3000,1950,82,Cash,Mrs.,Evening
 3/10/2024,cafe expresso,1500,975,88,Cash,Mr.,Afternoon
-"23/7/2024,Sugarcane juice,1875,""1218,75"",75,Online,Mr.,Afternoon"
+23/7/2024,Sugarcane juice,1875,"1218,75",75,Online,Mr.,Afternoon
 13/1/2024,Cold coffee,3000,1950,95,Online,Mr.,Morning
 23/8/2024,Cold coffee,3000,1950,68,Cash,Mrs.,Midnight
 13/3/2024,Cold coffee,3000,1950,81,Cash,Mr.,Evening
-"20/1/2024,arepa pollo,3950,""2567,5"",83,Online,Mrs.,Night"
+20/1/2024,arepa pollo,3950,"2567,5",83,Online,Mrs.,Night
 29/11/2024,Sandwich,4500,2925,83,Cash,Mrs.,Night
 11/9/2024,Sandwich,4500,2925,75,Cash,Mrs.,Midnight
-"5/4/2024,Pastel de yuca,3250,""2112,5"",83,Online,Mrs.,Morning"
-"24/5/2024,Pastel de yuca,3250,""2112,5"",89,Cash,Mrs.,Afternoon"
-"18/8/2024,Pastel de yuca,3250,""2112,5"",71,Online,Mr.,Midnight"
-"30/1/2024,Pastel de yuca,3250,""2112,5"",100,Online,Mrs.,Morning"
+5/4/2024,Pastel de yuca,3250,"2112,5",83,Online,Mrs.,Morning
+24/5/2024,Pastel de yuca,3250,"2112,5",89,Cash,Mrs.,Afternoon
+18/8/2024,Pastel de yuca,3250,"2112,5",71,Online,Mr.,Midnight
+30/1/2024,Pastel de yuca,3250,"2112,5",100,Online,Mrs.,Morning
 25/11/2024,papas de pollo,2700,1755,73,Cash,Mrs.,Morning
 24/4/2024,papas de pollo,2700,1755,76,Online,Mr.,Midnight
 2/3/2024,papas de pollo,2700,1755,95,Online,Mr.,Night
@@ -585,41 +585,41 @@ Fecha,item_name,Precio unita COP,Costo Unit COP,quantity,transaction_type,receiv
 3/1/2024,Cocacola 1.5lt,7000,4550,98,Cash,Mrs.,Midnight
 8/4/2024,Cocacola 1.5lt,7000,4550,85,Online,Mr.,Midnight
 21/7/2024,Cocacola 1.5lt,7000,4550,85,Online,Mr.,Midnight
-"1/12/2024,Tamales,8950,""5817,5"",95,Online,Mrs.,Morning"
+1/12/2024,Tamales,8950,"5817,5",95,Online,Mrs.,Morning
 22/8/2024,cafe expresso,1500,975,92,Cash,Mrs.,Night
 13/12/2024,Torta de queso,1900,1235,67,Cash,Mr.,Night
 29/11/2024,Sandwich,4500,2925,84,Cash,Mrs.,Afternoon
-"15/6/2024,Sugarcane juice,1875,""1218,75"",74,Online,Mrs.,Evening"
-"4/8/2024,Sugarcane juice,1875,""1218,75"",65,Online,Mr.,Afternoon"
-"13/11/2024,Sugarcane juice,1875,""1218,75"",61,Cash,Mrs.,Afternoon"
-"25/2/2024,Pastel de yuca,3250,""2112,5"",76,Online,Mr.,Night"
-"28/12/2024,Pastel de yuca,3250,""2112,5"",85,Online,Mrs.,Evening"
+15/6/2024,Sugarcane juice,1875,"1218,75",74,Online,Mrs.,Evening
+4/8/2024,Sugarcane juice,1875,"1218,75",65,Online,Mr.,Afternoon
+13/11/2024,Sugarcane juice,1875,"1218,75",61,Cash,Mrs.,Afternoon
+25/2/2024,Pastel de yuca,3250,"2112,5",76,Online,Mr.,Night
+28/12/2024,Pastel de yuca,3250,"2112,5",85,Online,Mrs.,Evening
 3/3/2024,papas de pollo,2700,1755,70,Cash,Mrs.,Afternoon
-"18/9/2024,Tamales,8950,""5817,5"",102,Cash,Mrs.,Afternoon"
+18/9/2024,Tamales,8950,"5817,5",102,Cash,Mrs.,Afternoon
 16/10/2024,cafe expresso,1500,975,75,Cash,Mrs.,Midnight
 14/9/2024,Cold coffee,3000,1950,61,Cash,Mr.,Morning
 15/12/2024,Cold coffee,3000,1950,77,Cash,Mr.,Night
 18/4/2024,Sandwich,4500,2925,77,Online,Mr.,Midnight
 22/11/2024,Cold coffee,3000,1950,103,Online,Mrs.,Night
 26/3/2024,Cold coffee,3000,1950,78,Online,Mrs.,Afternoon
-"15/9/2024,arepa carne,3750,""2437,5"",93,Cash,Mr.,Midnight"
+15/9/2024,arepa carne,3750,"2437,5",93,Cash,Mr.,Midnight
 27/10/2024,Cold coffee,3000,1950,91,Cash,Mr.,Night
 28/12/2024,Pastel pollo,2300,1495,100,Cash,Mr.,Midnight
-"3/2/2024,Pan arabe,2150,""1397,5"",69,Online,Mr.,Afternoon"
-"18/8/2024,arepa pollo,3950,""2567,5"",63,Cash,Mr.,Night"
-"7/7/2024,Pan arabe,2150,""1397,5"",85,Cash,Mrs.,Morning"
-"9/10/2024,Pastel de yuca,3250,""2112,5"",88,Cash,Mrs.,Morning"
-"16/5/2024,Pastel de yuca,3250,""2112,5"",71,Online,Mrs.,Morning"
+3/2/2024,Pan arabe,2150,"1397,5",69,Online,Mr.,Afternoon
+18/8/2024,arepa pollo,3950,"2567,5",63,Cash,Mr.,Night
+7/7/2024,Pan arabe,2150,"1397,5",85,Cash,Mrs.,Morning
+9/10/2024,Pastel de yuca,3250,"2112,5",88,Cash,Mrs.,Morning
+16/5/2024,Pastel de yuca,3250,"2112,5",71,Online,Mrs.,Morning
 12/12/2024,Chocorramo,2900,1885,97,Online,Mrs.,Morning
 15/9/2024,Cocacola 1.5lt,7000,4550,73,Cash,Mrs.,Evening
-"5/2/2024,Tamales,8950,""5817,5"",89,Online,Mr.,Midnight"
+5/2/2024,Tamales,8950,"5817,5",89,Online,Mr.,Midnight
 9/5/2024,Empanadas Carne,1500,975,82,Cash,Mrs.,Evening
-"2/3/2024,arepa carne,3750,""2437,5"",81,Cash,Mrs.,Night"
+2/3/2024,arepa carne,3750,"2437,5",81,Cash,Mrs.,Night
 26/3/2024,Cold coffee,3000,1950,96,Cash,Mr.,Evening
 22/12/2024,cafe expresso,1500,975,69,Online,Mr.,Evening
-"29/10/2024,arepa carne,3750,""2437,5"",65,Cash,Mrs.,Morning"
-"31/7/2024,arepa carne,3750,""2437,5"",60,Online,Mrs.,Night"
-"10/7/2024,Pan arabe,2150,""1397,5"",100,Online,Mr.,Night"
+29/10/2024,arepa carne,3750,"2437,5",65,Cash,Mrs.,Morning
+31/7/2024,arepa carne,3750,"2437,5",60,Online,Mrs.,Night
+10/7/2024,Pan arabe,2150,"1397,5",100,Online,Mr.,Night
 14/3/2024,Sandwich,4500,2925,81,Cash,Mrs.,Midnight
 12/6/2024,Chocorramo,2900,1885,84,Cash,Mrs.,Morning
 15/5/2024,papas de pollo,2700,1755,68,Online,Mrs.,Midnight
@@ -628,30 +628,30 @@ Fecha,item_name,Precio unita COP,Costo Unit COP,quantity,transaction_type,receiv
 23/7/2024,papas de pollo,2700,1755,61,Cash,Mrs.,Afternoon
 17/11/2024,Cocacola 1.5lt,7000,4550,102,Cash,Mr.,Evening
 13/5/2024,Cocacola 1.5lt,7000,4550,93,Online,Mr.,Night
-"9/3/2024,Tamales,8950,""5817,5"",70,Online,Mrs.,Morning"
-"28/10/2024,Tamales,8950,""5817,5"",101,Cash,Mrs.,Morning"
+9/3/2024,Tamales,8950,"5817,5",70,Online,Mrs.,Morning
+28/10/2024,Tamales,8950,"5817,5",101,Cash,Mrs.,Morning
 15/5/2024,Empanadas Carne,1500,975,88,Cash,Mr.,Midnight
 13/11/2024,Cold coffee,3000,1950,75,Cash,Mr.,Night
 10/6/2024,Cold coffee,3000,1950,79,Cash,Mrs.,Night
 10/7/2024,Sandwich,4500,2925,100,Cash,Mrs.,Morning
 26/4/2024,cafe americano,1800,1170,100,Cash,Mr.,Midnight
-"4/10/2024,arepa carne,3750,""2437,5"",73,Cash,Mr.,Evening"
-"25/2/2024,arepa carne,3750,""2437,5"",82,Online,Mr.,Night"
+4/10/2024,arepa carne,3750,"2437,5",73,Cash,Mr.,Evening
+25/2/2024,arepa carne,3750,"2437,5",82,Online,Mr.,Night
 25/6/2024,Pastel pollo,2300,1495,104,Cash,Mrs.,Evening
 5/1/2024,Pastel pollo,2300,1495,99,Cash,Mrs.,Midnight
-"10/7/2024,Pastel de yuca,3250,""2112,5"",61,Cash,Mrs.,Afternoon"
-"5/1/2024,Pastel de yuca,3250,""2112,5"",63,Cash,Mrs.,Morning"
-"7/3/2024,Pastel de yuca,3250,""2112,5"",71,Cash,Mrs.,Midnight"
+10/7/2024,Pastel de yuca,3250,"2112,5",61,Cash,Mrs.,Afternoon
+5/1/2024,Pastel de yuca,3250,"2112,5",63,Cash,Mrs.,Morning
+7/3/2024,Pastel de yuca,3250,"2112,5",71,Cash,Mrs.,Midnight
 1/12/2024,Chocorramo,2900,1885,74,Online,Mrs.,Midnight
-"9/3/2024,arepa carne,3750,""2437,5"",63,Online,Mrs.,Evening"
+9/3/2024,arepa carne,3750,"2437,5",63,Online,Mrs.,Evening
 15/12/2024,Torta de queso,1900,1235,81,Cash,Mrs.,Morning
-"12/5/2024,arepa carne,3750,""2437,5"",102,Cash,Mr.,Morning"
-"5/2/2024,Sugarcane juice,1875,""1218,75"",76,Cash,Mr.,Morning"
-"9/8/2024,Pastel de yuca,3250,""2112,5"",94,Online,Mr.,Midnight"
+12/5/2024,arepa carne,3750,"2437,5",102,Cash,Mr.,Morning
+5/2/2024,Sugarcane juice,1875,"1218,75",76,Cash,Mr.,Morning
+9/8/2024,Pastel de yuca,3250,"2112,5",94,Online,Mr.,Midnight
 28/10/2024,papas de pollo,2700,1755,95,Online,Mr.,Night
 1/12/2024,Cocacola 1.5lt,7000,4550,92,Online,Mrs.,Afternoon
-"25/2/2024,Tamales,8950,""5817,5"",92,Cash,Mrs.,Evening"
-"8/4/2024,Tamales,8950,""5817,5"",102,Cash,Mrs.,Morning"
+25/2/2024,Tamales,8950,"5817,5",92,Cash,Mrs.,Evening
+8/4/2024,Tamales,8950,"5817,5",102,Cash,Mrs.,Morning
 10/6/2024,cafe expresso,1500,975,105,Cash,Mrs.,Morning
 17/12/2024,Cold coffee,3000,1950,63,Cash,Mr.,Night
 1/10/2024,Torta de queso,1900,1235,83,Cash,Mrs.,Evening
@@ -660,110 +660,110 @@ Fecha,item_name,Precio unita COP,Costo Unit COP,quantity,transaction_type,receiv
 26/6/2024,Torta de queso,1900,1235,88,Cash,Mrs.,Evening
 16/9/2024,Torta de queso,1900,1235,63,Cash,Mrs.,Evening
 14/3/2024,Cold coffee,3000,1950,84,Online,Mr.,Midnight
-"17/11/2024,arepa carne,3750,""2437,5"",60,Online,Mr.,Morning"
+17/11/2024,arepa carne,3750,"2437,5",60,Online,Mr.,Morning
 10/7/2024,Cold coffee,3000,1950,83,Online,Mrs.,Midnight
-"20/2/2024,Pan arabe,2150,""1397,5"",91,Cash,Mr.,Night"
+20/2/2024,Pan arabe,2150,"1397,5",91,Cash,Mr.,Night
 14/9/2024,Sandwich,4500,2925,92,Online,Mr.,Midnight
-"9/6/2024,Sugarcane juice,1875,""1218,75"",61,Online,Mr.,Afternoon"
-"16/11/2024,arepa carne,3750,""2437,5"",75,Online,Mr.,Evening"
+9/6/2024,Sugarcane juice,1875,"1218,75",61,Online,Mr.,Afternoon
+16/11/2024,arepa carne,3750,"2437,5",75,Online,Mr.,Evening
 4/2/2024,cafe americano,1800,1170,61,Cash,Mrs.,Evening
 9/3/2024,cafe americano,1800,1170,82,Cash,Mr.,Evening
 7/5/2024,cafe americano,1800,1170,88,Cash,Mr.,Evening
-"16/5/2024,Pastel de yuca,3250,""2112,5"",61,Cash,Mr.,Evening"
-"22/12/2024,Pastel de yuca,3250,""2112,5"",87,Online,Mrs.,Morning"
+16/5/2024,Pastel de yuca,3250,"2112,5",61,Cash,Mr.,Evening
+22/12/2024,Pastel de yuca,3250,"2112,5",87,Online,Mrs.,Morning
 9/3/2024,Chocorramo,2900,1885,103,Online,Mr.,Afternoon
 25/2/2024,Chocorramo,2900,1885,88,Cash,Mrs.,Afternoon
 29/10/2024,papas de pollo,2700,1755,69,Online,Mrs.,Morning
 7/5/2024,Torta de queso,1900,1235,67,Cash,Mr.,Evening
-"6/11/2024,arepa carne,3750,""2437,5"",94,Online,Mrs.,Morning"
+6/11/2024,arepa carne,3750,"2437,5",94,Online,Mrs.,Morning
 29/9/2024,Torta de queso,1900,1235,96,Cash,Mrs.,Midnight
 26/5/2024,Torta de queso,1900,1235,95,Online,Mr.,Night
-"5/2/2024,arepa carne,3750,""2437,5"",95,Cash,Mrs.,Midnight"
+5/2/2024,arepa carne,3750,"2437,5",95,Cash,Mrs.,Midnight
 9/6/2024,cafe expresso,1500,975,102,Cash,Mr.,Evening
-"12/7/2024,Sugarcane juice,1875,""1218,75"",69,Online,Mrs.,Midnight"
+12/7/2024,Sugarcane juice,1875,"1218,75",69,Online,Mrs.,Midnight
 25/7/2024,Cold coffee,3000,1950,100,Online,Mrs.,Midnight
 23/3/2024,cafe americano,1800,1170,83,Online,Mr.,Afternoon
-"9/10/2024,Pan arabe,2150,""1397,5"",79,Online,Mrs.,Morning"
-"26/10/2024,arepa pollo,3950,""2567,5"",60,Online,Mrs.,Night"
-"22/12/2024,Sugarcane juice,1875,""1218,75"",96,Online,Mrs.,Midnight"
+9/10/2024,Pan arabe,2150,"1397,5",79,Online,Mrs.,Morning
+26/10/2024,arepa pollo,3950,"2567,5",60,Online,Mrs.,Night
+22/12/2024,Sugarcane juice,1875,"1218,75",96,Online,Mrs.,Midnight
 5/11/2024,Chocorramo,2900,1885,86,Online,Mrs.,Afternoon
 29/10/2024,Chocorramo,2900,1885,100,Cash,Mr.,Evening
 20/12/2024,Empanadas Carne,1500,975,80,Online,Mr.,Midnight
 12/5/2024,Torta de queso,1900,1235,86,Online,Mrs.,Night
-"10/4/2024,Sugarcane juice,1875,""1218,75"",91,Online,Mrs.,Evening"
-"5/4/2024,Sugarcane juice,1875,""1218,75"",80,Cash,Mr.,Morning"
-"12/1/2024,Sugarcane juice,1875,""1218,75"",67,Cash,Mrs.,Morning"
-"3/2/2024,Sugarcane juice,1875,""1218,75"",69,Online,Mrs.,Evening"
-"16/11/2024,arepa pollo,3950,""2567,5"",61,Online,Mr.,Midnight"
+10/4/2024,Sugarcane juice,1875,"1218,75",91,Online,Mrs.,Evening
+5/4/2024,Sugarcane juice,1875,"1218,75",80,Cash,Mr.,Morning
+12/1/2024,Sugarcane juice,1875,"1218,75",67,Cash,Mrs.,Morning
+3/2/2024,Sugarcane juice,1875,"1218,75",69,Online,Mrs.,Evening
+16/11/2024,arepa pollo,3950,"2567,5",61,Online,Mr.,Midnight
 10/4/2024,Sandwich,4500,2925,104,Cash,Mr.,Midnight
-"15/3/2024,arepa pollo,3950,""2567,5"",101,Cash,Mr.,Night"
-"3/7/2024,Pastel de yuca,3250,""2112,5"",77,Cash,Mrs.,Morning"
-"17/10/2024,Pastel de yuca,3250,""2112,5"",74,Online,Mr.,Midnight"
+15/3/2024,arepa pollo,3950,"2567,5",101,Cash,Mr.,Night
+3/7/2024,Pastel de yuca,3250,"2112,5",77,Cash,Mrs.,Morning
+17/10/2024,Pastel de yuca,3250,"2112,5",74,Online,Mr.,Midnight
 22/3/2024,papas de pollo,2700,1755,96,Online,Mr.,Evening
 25/6/2024,papas de pollo,2700,1755,77,Cash,Mrs.,Afternoon
 6/5/2024,Empanadas Carne,1500,975,66,Cash,Mr.,Morning
 12/1/2024,Empanadas Carne,1500,975,79,Cash,Mr.,Evening
 1/12/2024,Cold coffee,3000,1950,77,Online,Mrs.,Afternoon
-"10/1/2024,arepa carne,3750,""2437,5"",68,Cash,Mrs.,Evening"
+10/1/2024,arepa carne,3750,"2437,5",68,Cash,Mrs.,Evening
 29/11/2024,Sandwich,4500,2925,62,Cash,Mrs.,Midnight
-"23/2/2024,Sugarcane juice,1875,""1218,75"",95,Cash,Mrs.,Midnight"
+23/2/2024,Sugarcane juice,1875,"1218,75",95,Cash,Mrs.,Midnight
 29/5/2024,Sandwich,4500,2925,90,Cash,Mrs.,Morning
 7/2/2024,cafe americano,1800,1170,60,Online,Mr.,Afternoon
-"5/11/2024,Sugarcane juice,1875,""1218,75"",81,Online,Mr.,Afternoon"
+5/11/2024,Sugarcane juice,1875,"1218,75",81,Online,Mr.,Afternoon
 23/7/2024,Cold coffee,3000,1950,71,Online,Mrs.,Afternoon
 26/4/2024,cafe americano,1800,1170,80,Online,Mrs.,Evening
-"3/10/2024,Pan arabe,2150,""1397,5"",92,Online,Mr.,Night"
+3/10/2024,Pan arabe,2150,"1397,5",92,Online,Mr.,Night
 23/8/2024,cafe americano,1800,1170,85,Online,Mrs.,Morning
-"12/5/2024,arepa pollo,3950,""2567,5"",69,Online,Mr.,Afternoon"
-"10/1/2024,Pastel de yuca,3250,""2112,5"",86,Cash,Mrs.,Afternoon"
+12/5/2024,arepa pollo,3950,"2567,5",69,Online,Mr.,Afternoon
+10/1/2024,Pastel de yuca,3250,"2112,5",86,Cash,Mrs.,Afternoon
 17/10/2024,Chocorramo,2900,1885,102,Online,Mr.,Evening
 5/1/2024,papas de pollo,2700,1755,87,Online,Mrs.,Night
 14/5/2024,papas de pollo,2700,1755,73,Cash,Mrs.,Afternoon
 9/12/2024,papas de pollo,2700,1755,74,Cash,Mrs.,Night
 13/11/2024,Cocacola 1.5lt,7000,4550,60,Cash,Mrs.,Afternoon
-"16/4/2024,Tamales,8950,""5817,5"",75,Cash,Mrs.,Morning"
-"8/11/2024,Tamales,8950,""5817,5"",76,Cash,Mrs.,Afternoon"
-"11/12/2024,Tamales,8950,""5817,5"",74,Cash,Mrs.,Afternoon"
+16/4/2024,Tamales,8950,"5817,5",75,Cash,Mrs.,Morning
+8/11/2024,Tamales,8950,"5817,5",76,Cash,Mrs.,Afternoon
+11/12/2024,Tamales,8950,"5817,5",74,Cash,Mrs.,Afternoon
 21/12/2024,Cold coffee,3000,1950,91,Cash,Mr.,Evening
 5/12/2024,Torta de queso,1900,1235,80,Online,Mrs.,Night
 13/3/2024,cafe expresso,1500,975,92,Online,Mr.,Midnight
 20/6/2024,Cold coffee,3000,1950,88,Online,Mr.,Midnight
-"14/3/2024,Pan arabe,2150,""1397,5"",84,Cash,Mrs.,Afternoon"
+14/3/2024,Pan arabe,2150,"1397,5",84,Cash,Mrs.,Afternoon
 22/12/2024,Sandwich,4500,2925,63,Cash,Mrs.,Night
-"22/12/2024,arepa carne,3750,""2437,5"",83,Cash,Mr.,Morning"
-"25/1/2024,Sugarcane juice,1875,""1218,75"",97,Cash,Mrs.,Night"
-"8/8/2024,Sugarcane juice,1875,""1218,75"",75,Cash,Mrs.,Night"
-"27/7/2024,Pan arabe,2150,""1397,5"",63,Online,Mrs.,Morning"
+22/12/2024,arepa carne,3750,"2437,5",83,Cash,Mr.,Morning
+25/1/2024,Sugarcane juice,1875,"1218,75",97,Cash,Mrs.,Night
+8/8/2024,Sugarcane juice,1875,"1218,75",75,Cash,Mrs.,Night
+27/7/2024,Pan arabe,2150,"1397,5",63,Online,Mrs.,Morning
 6/11/2024,Pastel pollo,2300,1495,101,Online,Mr.,Afternoon
 3/2/2024,cafe americano,1800,1170,100,Cash,Mrs.,Afternoon
 14/5/2024,Cocacola 1.5lt,7000,4550,87,Online,Mr.,Midnight
 23/7/2024,Cocacola 1.5lt,7000,4550,88,Online,Mr.,Midnight
-"19/4/2024,Tamales,8950,""5817,5"",93,Cash,Mr.,Evening"
-"24/2/2024,Tamales,8950,""5817,5"",100,Online,Mrs.,Evening"
+19/4/2024,Tamales,8950,"5817,5",93,Cash,Mr.,Evening
+24/2/2024,Tamales,8950,"5817,5",100,Online,Mrs.,Evening
 14/3/2024,Cold coffee,3000,1950,69,Online,Mrs.,Midnight
-"10/8/2024,Sugarcane juice,1875,""1218,75"",72,Online,Mr.,Afternoon"
+10/8/2024,Sugarcane juice,1875,"1218,75",72,Online,Mr.,Afternoon
 18/9/2024,Sandwich,4500,2925,102,Cash,Mrs.,Evening
 20/2/2024,Pastel pollo,2300,1495,84,Cash,Mr.,Afternoon
 26/5/2024,Sandwich,4500,2925,63,Online,Mr.,Night
-"28/12/2024,Sugarcane juice,1875,""1218,75"",84,Cash,Mrs.,Night"
+28/12/2024,Sugarcane juice,1875,"1218,75",84,Cash,Mrs.,Night
 26/5/2024,cafe americano,1800,1170,71,Cash,Mrs.,Afternoon
-"11/6/2024,Sugarcane juice,1875,""1218,75"",82,Cash,Mrs.,Afternoon"
+11/6/2024,Sugarcane juice,1875,"1218,75",82,Cash,Mrs.,Afternoon
 4/2/2024,Cocacola 1.5lt,7000,4550,82,Online,Mr.,Evening
-"4/2/2024,Tamales,8950,""5817,5"",86,Online,Mr.,Evening"
-"26/10/2024,Sugarcane juice,1875,""1218,75"",89,Online,Mrs.,Afternoon"
-"8/11/2024,arepa carne,3750,""2437,5"",77,Online,Mrs.,Evening"
+4/2/2024,Tamales,8950,"5817,5",86,Online,Mr.,Evening
+26/10/2024,Sugarcane juice,1875,"1218,75",89,Online,Mrs.,Afternoon
+8/11/2024,arepa carne,3750,"2437,5",77,Online,Mrs.,Evening
 4/2/2024,cafe americano,1800,1170,99,Online,Mr.,Morning
 10/8/2024,Pastel pollo,2300,1495,69,Online,Mr.,Morning
 18/4/2024,Sandwich,4500,2925,98,Online,Mr.,Morning
 13/11/2024,Cold coffee,3000,1950,77,Cash,Mr.,Night
-"24/10/2024,Pastel de yuca,3250,""2112,5"",68,Online,Mr.,Evening"
+24/10/2024,Pastel de yuca,3250,"2112,5",68,Online,Mr.,Evening
 13/5/2024,Chocorramo,2900,1885,100,Cash,Mr.,Evening
 16/4/2024,papas de pollo,2700,1755,100,Online,Mr.,Midnight
 6/1/2024,Cocacola 1.5lt,7000,4550,103,Online,Mrs.,Morning
 16/3/2024,Cocacola 1.5lt,7000,4550,105,Cash,Mrs.,Afternoon
 5/2/2024,Cold coffee,3000,1950,86,Online,Mrs.,Midnight
 21/9/2024,Empanadas Carne,1500,975,75,Cash,Mr.,Afternoon
-"4/12/2024,arepa carne,3750,""2437,5"",66,Online,Mr.,Evening"
+4/12/2024,arepa carne,3750,"2437,5",66,Online,Mr.,Evening
 20/11/2024,Torta de queso,1900,1235,99,Cash,Mrs.,Afternoon
 5/1/2024,Empanadas Carne,1500,975,72,Online,Mrs.,Midnight
 2/11/2024,Empanadas Carne,1500,975,68,Cash,Mr.,Night
@@ -771,18 +771,18 @@ Fecha,item_name,Precio unita COP,Costo Unit COP,quantity,transaction_type,receiv
 8/11/2024,Pastel pollo,2300,1495,81,Online,Mr.,Afternoon
 9/6/2024,Cold coffee,3000,1950,100,Cash,Mrs.,Evening
 5/4/2024,Cold coffee,3000,1950,105,Cash,Mr.,Afternoon
-"13/5/2024,Pastel de yuca,3250,""2112,5"",101,Cash,Mr.,Evening"
+13/5/2024,Pastel de yuca,3250,"2112,5",101,Cash,Mr.,Evening
 31/7/2024,papas de pollo,2700,1755,78,Online,Mr.,Midnight
 22/8/2024,Cocacola 1.5lt,7000,4550,104,Cash,Mr.,Evening
-"3/1/2024,Tamales,8950,""5817,5"",83,Online,Mr.,Night"
+3/1/2024,Tamales,8950,"5817,5",83,Online,Mr.,Night
 2/2/2024,Cold coffee,3000,1950,77,Online,Mrs.,Afternoon
 16/5/2024,Empanadas Carne,1500,975,103,Online,Mr.,Afternoon
 9/6/2024,cafe expresso,1500,975,61,Online,Mrs.,Evening
 26/3/2024,Sandwich,4500,2925,104,Cash,Mrs.,Evening
-"13/5/2024,arepa carne,3750,""2437,5"",87,Cash,Mr.,Night"
+13/5/2024,arepa carne,3750,"2437,5",87,Cash,Mr.,Night
 4/2/2024,cafe americano,1800,1170,73,Online,Mr.,Evening
 9/12/2024,cafe americano,1800,1170,105,Cash,Mr.,Evening
-"15/9/2024,Pastel de yuca,3250,""2112,5"",69,Cash,Mrs.,Morning"
+15/9/2024,Pastel de yuca,3250,"2112,5",69,Cash,Mrs.,Morning
 1/7/2024,Chocorramo,2900,1885,61,Online,Mrs.,Evening
 26/10/2024,papas de pollo,2700,1755,68,Online,Mr.,Midnight
 15/8/2024,papas de pollo,2700,1755,63,Online,Mr.,Evening
@@ -791,104 +791,104 @@ Fecha,item_name,Precio unita COP,Costo Unit COP,quantity,transaction_type,receiv
 17/5/2024,cafe expresso,1500,975,93,Online,Mr.,Evening
 7/5/2024,Empanadas Carne,1500,975,81,Cash,Mr.,Midnight
 3/2/2024,Torta de queso,1900,1235,103,Cash,Mr.,Afternoon
-"23/4/2024,arepa carne,3750,""2437,5"",97,Online,Mrs.,Afternoon"
-"5/1/2024,Sugarcane juice,1875,""1218,75"",66,Online,Mr.,Morning"
+23/4/2024,arepa carne,3750,"2437,5",97,Online,Mrs.,Afternoon
+5/1/2024,Sugarcane juice,1875,"1218,75",66,Online,Mr.,Morning
 17/12/2024,Sandwich,4500,2925,103,Cash,Mr.,Afternoon
-"4/2/2024,Sugarcane juice,1875,""1218,75"",66,Cash,Mr.,Afternoon"
-"10/4/2024,Sugarcane juice,1875,""1218,75"",103,Cash,Mrs.,Evening"
+4/2/2024,Sugarcane juice,1875,"1218,75",66,Cash,Mr.,Afternoon
+10/4/2024,Sugarcane juice,1875,"1218,75",103,Cash,Mrs.,Evening
 5/12/2024,Cold coffee,3000,1950,61,Online,Mr.,Morning
 20/6/2024,Sandwich,4500,2925,67,Cash,Mr.,Midnight
 15/12/2024,cafe americano,1800,1170,72,Online,Mr.,Night
-"19/1/2024,Pan arabe,2150,""1397,5"",100,Online,Mr.,Evening"
+19/1/2024,Pan arabe,2150,"1397,5",100,Online,Mr.,Evening
 5/5/2024,Cold coffee,3000,1950,86,Cash,Mrs.,Morning
 6/5/2024,papas de pollo,2700,1755,91,Online,Mr.,Evening
 10/7/2024,Sandwich,4500,2925,90,Cash,Mr.,Morning
 2/7/2024,Cold coffee,3000,1950,67,Cash,Mr.,Midnight
 26/3/2024,Torta de queso,1900,1235,61,Online,Mr.,Midnight
 3/2/2024,Empanadas Carne,1500,975,76,Online,Mrs.,Midnight
-"5/5/2024,Sugarcane juice,1875,""1218,75"",75,Cash,Mr.,Morning"
+5/5/2024,Sugarcane juice,1875,"1218,75",75,Cash,Mr.,Morning
 23/4/2024,Cold coffee,3000,1950,82,Cash,Mrs.,Afternoon
 2/11/2024,cafe americano,1800,1170,78,Cash,Mrs.,Afternoon
 13/3/2024,Cold coffee,3000,1950,84,Cash,Mrs.,Night
 16/5/2024,cafe americano,1800,1170,69,Online,Mrs.,Afternoon
-"23/3/2024,Pan arabe,2150,""1397,5"",87,Online,Mr.,Midnight"
-"5/12/2024,Pan arabe,2150,""1397,5"",64,Cash,Mr.,Evening"
+23/3/2024,Pan arabe,2150,"1397,5",87,Online,Mr.,Midnight
+5/12/2024,Pan arabe,2150,"1397,5",64,Cash,Mr.,Evening
 21/7/2024,Cold coffee,3000,1950,68,Online,Mrs.,Morning
 4/8/2024,Sandwich,4500,2925,66,Online,Mr.,Afternoon
-"12/10/2024,Sugarcane juice,1875,""1218,75"",99,Cash,Mr.,Evening"
-"8/3/2024,Sugarcane juice,1875,""1218,75"",65,Cash,Mrs.,Midnight"
-"13/5/2024,Sugarcane juice,1875,""1218,75"",73,Online,Mr.,Night"
-"1/2/2024,Pastel de yuca,3250,""2112,5"",87,Cash,Mr.,Night"
-"8/4/2024,Pastel de yuca,3250,""2112,5"",105,Online,Mrs.,Evening"
+12/10/2024,Sugarcane juice,1875,"1218,75",99,Cash,Mr.,Evening
+8/3/2024,Sugarcane juice,1875,"1218,75",65,Cash,Mrs.,Midnight
+13/5/2024,Sugarcane juice,1875,"1218,75",73,Online,Mr.,Night
+1/2/2024,Pastel de yuca,3250,"2112,5",87,Cash,Mr.,Night
+8/4/2024,Pastel de yuca,3250,"2112,5",105,Online,Mrs.,Evening
 26/2/2024,papas de pollo,2700,1755,76,Online,Mr.,Afternoon
 19/4/2024,papas de pollo,2700,1755,67,Cash,Mrs.,Morning
-"22/12/2024,Tamales,8950,""5817,5"",96,Online,Mr.,Evening"
-"25/11/2024,arepa carne,3750,""2437,5"",86,Online,Mr.,Morning"
+22/12/2024,Tamales,8950,"5817,5",96,Online,Mr.,Evening
+25/11/2024,arepa carne,3750,"2437,5",86,Online,Mr.,Morning
 23/3/2024,Cold coffee,3000,1950,103,Cash,Mr.,Morning
-"19/3/2024,Pan arabe,2150,""1397,5"",105,Cash,Mr.,Afternoon"
+19/3/2024,Pan arabe,2150,"1397,5",105,Cash,Mr.,Afternoon
 28/10/2024,Sandwich,4500,2925,94,Online,Mrs.,Morning
-"19/3/2024,Sugarcane juice,1875,""1218,75"",84,Cash,Mrs.,Afternoon"
+19/3/2024,Sugarcane juice,1875,"1218,75",84,Cash,Mrs.,Afternoon
 1/7/2024,papas de pollo,2700,1755,105,Cash,Mrs.,Midnight
 1/12/2024,Cocacola 1.5lt,7000,4550,98,Cash,Mr.,Evening
-"10/2/2024,Tamales,8950,""5817,5"",85,Cash,Mrs.,Afternoon"
-"25/6/2024,Tamales,8950,""5817,5"",86,Online,Mr.,Evening"
+10/2/2024,Tamales,8950,"5817,5",85,Cash,Mrs.,Afternoon
+25/6/2024,Tamales,8950,"5817,5",86,Online,Mr.,Evening
 1/10/2024,Empanadas Carne,1500,975,71,Cash,Mrs.,Evening
 1/10/2024,Empanadas Carne,1500,975,71,Cash,Mr.,Morning
-"15/11/2024,arepa pollo,3950,""2567,5"",61,Cash,Mrs.,Midnight"
-"4/8/2024,arepa pollo,3950,""2567,5"",81,Cash,Mr.,Night"
-"27/8/2024,Pastel de yuca,3250,""2112,5"",86,Online,Mr.,Night"
+15/11/2024,arepa pollo,3950,"2567,5",61,Cash,Mrs.,Midnight
+4/8/2024,arepa pollo,3950,"2567,5",81,Cash,Mr.,Night
+27/8/2024,Pastel de yuca,3250,"2112,5",86,Online,Mr.,Night
 25/2/2024,Chocorramo,2900,1885,105,Cash,Mrs.,Morning
 26/10/2024,Chocorramo,2900,1885,73,Online,Mr.,Midnight
 11/9/2024,papas de pollo,2700,1755,68,Cash,Mrs.,Morning
 22/3/2024,Cocacola 1.5lt,7000,4550,71,Cash,Mrs.,Afternoon
-"31/7/2024,Tamales,8950,""5817,5"",80,Online,Mr.,Evening"
+31/7/2024,Tamales,8950,"5817,5",80,Online,Mr.,Evening
 26/8/2024,Cold coffee,3000,1950,80,Cash,Mr.,Afternoon
 24/4/2024,cafe expresso,1500,975,85,Cash,Mrs.,Night
 16/3/2024,Torta de queso,1900,1235,85,Online,Mr.,Morning
 9/3/2024,cafe americano,1800,1170,60,Online,Mr.,Midnight
-"3/1/2024,arepa carne,3750,""2437,5"",61,Online,Mr.,Afternoon"
+3/1/2024,arepa carne,3750,"2437,5",61,Online,Mr.,Afternoon
 3/12/2024,Pastel pollo,2300,1495,65,Online,Mr.,Afternoon
 14/9/2024,Pastel pollo,2300,1495,105,Cash,Mrs.,Afternoon
-"1/6/2024,arepa pollo,3950,""2567,5"",96,Online,Mrs.,Evening"
+1/6/2024,arepa pollo,3950,"2567,5",96,Online,Mrs.,Evening
 16/5/2024,Pastel pollo,2300,1495,88,Cash,Mrs.,Midnight
 10/1/2024,Cold coffee,3000,1950,95,Online,Mrs.,Midnight
-"5/2/2024,Pastel de yuca,3250,""2112,5"",94,Online,Mr.,Night"
+5/2/2024,Pastel de yuca,3250,"2112,5",94,Online,Mr.,Night
 10/1/2024,Chocorramo,2900,1885,74,Online,Mr.,Midnight
 17/7/2024,papas de pollo,2700,1755,92,Online,Mr.,Afternoon
 23/2/2024,Cold coffee,3000,1950,77,Cash,Mrs.,Morning
 22/11/2024,Sandwich,4500,2925,84,Online,Mrs.,Midnight
 23/8/2024,Cold coffee,3000,1950,87,Cash,Mrs.,Afternoon
-"10/7/2024,arepa carne,3750,""2437,5"",69,Online,Mr.,Morning"
+10/7/2024,arepa carne,3750,"2437,5",69,Online,Mr.,Morning
 19/8/2024,Cold coffee,3000,1950,104,Cash,Mr.,Night
 5/5/2024,cafe americano,1800,1170,99,Cash,Mrs.,Midnight
 10/2/2024,Pastel pollo,2300,1495,94,Online,Mr.,Afternoon
 24/2/2024,Pastel pollo,2300,1495,93,Cash,Mrs.,Evening
 16/9/2024,Pastel pollo,2300,1495,79,Online,Mrs.,Afternoon
-"6/1/2024,Sugarcane juice,1875,""1218,75"",67,Online,Mr.,Afternoon"
+6/1/2024,Sugarcane juice,1875,"1218,75",67,Online,Mr.,Afternoon
 25/12/2024,cafe americano,1800,1170,69,Online,Mrs.,Midnight
-"15/8/2024,Pastel de yuca,3250,""2112,5"",68,Online,Mr.,Midnight"
+15/8/2024,Pastel de yuca,3250,"2112,5",68,Online,Mr.,Midnight
 16/4/2024,Chocorramo,2900,1885,71,Online,Mr.,Afternoon
 8/5/2024,Chocorramo,2900,1885,88,Online,Mr.,Evening
 16/3/2024,papas de pollo,2700,1755,68,Online,Mr.,Evening
 21/9/2024,papas de pollo,2700,1755,94,Cash,Mrs.,Morning
 19/3/2024,Sandwich,4500,2925,69,Online,Mr.,Evening
-"27/8/2024,Sugarcane juice,1875,""1218,75"",74,Online,Mrs.,Night"
-"4/10/2024,Sugarcane juice,1875,""1218,75"",70,Online,Mr.,Night"
+27/8/2024,Sugarcane juice,1875,"1218,75",74,Online,Mrs.,Night
+4/10/2024,Sugarcane juice,1875,"1218,75",70,Online,Mr.,Night
 26/5/2024,Sandwich,4500,2925,61,Cash,Mr.,Midnight
-"17/7/2024,arepa carne,3750,""2437,5"",96,Online,Mr.,Midnight"
+17/7/2024,arepa carne,3750,"2437,5",96,Online,Mr.,Midnight
 3/3/2024,cafe expresso,1500,975,68,Online,Mr.,Evening
 28/12/2024,cafe americano,1800,1170,66,Cash,Mr.,Afternoon
 23/2/2024,Sandwich,4500,2925,91,Online,Mr.,Afternoon
-"11/6/2024,Sugarcane juice,1875,""1218,75"",74,Cash,Mr.,Morning"
+11/6/2024,Sugarcane juice,1875,"1218,75",74,Cash,Mr.,Morning
 5/4/2024,cafe americano,1800,1170,89,Online,Mr.,Morning
-"10/1/2024,Pastel de yuca,3250,""2112,5"",96,Online,Mr.,Midnight"
+10/1/2024,Pastel de yuca,3250,"2112,5",96,Online,Mr.,Midnight
 16/5/2024,Chocorramo,2900,1885,77,Cash,Mrs.,Evening
 2/2/2024,Chocorramo,2900,1885,64,Online,Mr.,Midnight
 9/5/2024,papas de pollo,2700,1755,60,Online,Mr.,Night
 6/11/2024,Cocacola 1.5lt,7000,4550,84,Online,Mrs.,Evening
 3/1/2024,Cocacola 1.5lt,7000,4550,75,Cash,Mrs.,Morning
 15/9/2024,Cocacola 1.5lt,7000,4550,66,Online,Mr.,Afternoon
-"3/2/2024,Tamales,8950,""5817,5"",81,Cash,Mrs.,Morning"
+3/2/2024,Tamales,8950,"5817,5",81,Cash,Mrs.,Morning
 25/12/2024,Torta de queso,1900,1235,94,Cash,Mrs.,Afternoon
 9/3/2024,Empanadas Carne,1500,975,103,Cash,Mr.,Morning
 7/2/2024,Sandwich,4500,2925,67,Online,Mr.,Afternoon
@@ -896,24 +896,24 @@ Fecha,item_name,Precio unita COP,Costo Unit COP,quantity,transaction_type,receiv
 19/4/2024,Sandwich,4500,2925,90,Cash,Mrs.,Midnight
 10/2/2024,Sandwich,4500,2925,94,Cash,Mrs.,Afternoon
 31/7/2024,Empanadas Carne,1500,975,91,Cash,Mrs.,Midnight
-"26/10/2024,Sugarcane juice,1875,""1218,75"",61,Online,Mrs.,Afternoon"
+26/10/2024,Sugarcane juice,1875,"1218,75",61,Online,Mrs.,Afternoon
 24/10/2024,Sandwich,4500,2925,69,Online,Mrs.,Midnight
-"2/2/2024,arepa carne,3750,""2437,5"",60,Online,Mrs.,Morning"
+2/2/2024,arepa carne,3750,"2437,5",60,Online,Mrs.,Morning
 9/3/2024,cafe americano,1800,1170,65,Cash,Mrs.,Evening
 11/2/2024,cafe americano,1800,1170,102,Online,Mr.,Evening
 28/10/2024,Chocorramo,2900,1885,77,Cash,Mr.,Afternoon
 12/12/2024,papas de pollo,2700,1755,91,Cash,Mrs.,Morning
 28/1/2024,Cocacola 1.5lt,7000,4550,89,Cash,Mr.,Evening
 24/5/2024,Cocacola 1.5lt,7000,4550,92,Cash,Mr.,Morning
-"15/8/2024,Tamales,8950,""5817,5"",84,Online,Mr.,Afternoon"
+15/8/2024,Tamales,8950,"5817,5",84,Online,Mr.,Afternoon
 22/12/2024,cafe expresso,1500,975,91,Online,Mr.,Night
 20/1/2024,Cold coffee,3000,1950,93,Online,Mr.,Night
-"16/4/2024,arepa carne,3750,""2437,5"",73,Cash,Mr.,Evening"
-"2/7/2024,Sugarcane juice,1875,""1218,75"",79,Cash,Mr.,Evening"
+16/4/2024,arepa carne,3750,"2437,5",73,Cash,Mr.,Evening
+2/7/2024,Sugarcane juice,1875,"1218,75",79,Cash,Mr.,Evening
 18/4/2024,Cold coffee,3000,1950,104,Cash,Mr.,Afternoon
 17/11/2024,Cold coffee,3000,1950,95,Online,Mrs.,Night
-"4/2/2024,Pastel de yuca,3250,""2112,5"",88,Online,Mrs.,Morning"
-"19/4/2024,Pastel de yuca,3250,""2112,5"",98,Cash,Mrs.,Afternoon"
+4/2/2024,Pastel de yuca,3250,"2112,5",88,Online,Mrs.,Morning
+19/4/2024,Pastel de yuca,3250,"2112,5",98,Cash,Mrs.,Afternoon
 6/11/2024,papas de pollo,2700,1755,63,Cash,Mrs.,Morning
 25/2/2024,Cocacola 1.5lt,7000,4550,70,Cash,Mr.,Evening
 23/12/2024,Cocacola 1.5lt,7000,4550,84,Cash,Mrs.,Morning
@@ -921,80 +921,80 @@ Fecha,item_name,Precio unita COP,Costo Unit COP,quantity,transaction_type,receiv
 25/7/2024,Empanadas Carne,1500,975,66,Cash,Mr.,Morning
 1/6/2024,cafe expresso,1500,975,90,Cash,Mrs.,Evening
 26/8/2024,Cold coffee,3000,1950,102,Cash,Mrs.,Midnight
-"19/1/2024,Pan arabe,2150,""1397,5"",98,Online,Mrs.,Night"
-"21/7/2024,arepa carne,3750,""2437,5"",78,Online,Mrs.,Night"
-"4/9/2024,arepa pollo,3950,""2567,5"",92,Cash,Mr.,Midnight"
+19/1/2024,Pan arabe,2150,"1397,5",98,Online,Mrs.,Night
+21/7/2024,arepa carne,3750,"2437,5",78,Online,Mrs.,Night
+4/9/2024,arepa pollo,3950,"2567,5",92,Cash,Mr.,Midnight
 3/10/2024,Cold coffee,3000,1950,97,Cash,Mrs.,Midnight
-"28/10/2024,Pastel de yuca,3250,""2112,5"",71,Cash,Mrs.,Morning"
-"3/1/2024,Pastel de yuca,3250,""2112,5"",96,Online,Mr.,Evening"
+28/10/2024,Pastel de yuca,3250,"2112,5",71,Cash,Mrs.,Morning
+3/1/2024,Pastel de yuca,3250,"2112,5",96,Online,Mr.,Evening
 1/7/2024,papas de pollo,2700,1755,101,Online,Mrs.,Morning
 17/7/2024,papas de pollo,2700,1755,102,Cash,Mrs.,Morning
-"16/11/2024,Tamales,8950,""5817,5"",89,Cash,Mr.,Evening"
-"26/2/2024,arepa carne,3750,""2437,5"",96,Online,Mrs.,Night"
-"18/9/2024,arepa carne,3750,""2437,5"",78,Cash,Mrs.,Afternoon"
+16/11/2024,Tamales,8950,"5817,5",89,Cash,Mr.,Evening
+26/2/2024,arepa carne,3750,"2437,5",96,Online,Mrs.,Night
+18/9/2024,arepa carne,3750,"2437,5",78,Cash,Mrs.,Afternoon
 27/7/2024,cafe expresso,1500,975,65,Cash,Mr.,Midnight
 11/12/2024,Sandwich,4500,2925,84,Cash,Mrs.,Morning
 19/1/2024,Empanadas Carne,1500,975,93,Online,Mrs.,Morning
 11/12/2024,Sandwich,4500,2925,60,Cash,Mr.,Afternoon
-"11/12/2024,arepa carne,3750,""2437,5"",76,Cash,Mrs.,Morning"
-"6/11/2024,Sugarcane juice,1875,""1218,75"",93,Online,Mr.,Afternoon"
+11/12/2024,arepa carne,3750,"2437,5",76,Cash,Mrs.,Morning
+6/11/2024,Sugarcane juice,1875,"1218,75",93,Online,Mr.,Afternoon
 26/3/2024,cafe americano,1800,1170,79,Cash,Mr.,Night
-"25/11/2024,Pastel de yuca,3250,""2112,5"",98,Cash,Mrs.,Afternoon"
+25/11/2024,Pastel de yuca,3250,"2112,5",98,Cash,Mrs.,Afternoon
 22/8/2024,Chocorramo,2900,1885,69,Cash,Mrs.,Morning
 9/8/2024,papas de pollo,2700,1755,105,Online,Mrs.,Morning
 1/7/2024,Cocacola 1.5lt,7000,4550,91,Cash,Mrs.,Afternoon
-"9/8/2024,Tamales,8950,""5817,5"",71,Cash,Mr.,Afternoon"
+9/8/2024,Tamales,8950,"5817,5",71,Cash,Mr.,Afternoon
 23/2/2024,Empanadas Carne,1500,975,93,Cash,Mr.,Afternoon
-"9/12/2024,arepa carne,3750,""2437,5"",97,Online,Mr.,Morning"
-"9/8/2024,Sugarcane juice,1875,""1218,75"",83,Online,Mrs.,Midnight"
-"29/9/2024,Sugarcane juice,1875,""1218,75"",66,Online,Mr.,Evening"
+9/12/2024,arepa carne,3750,"2437,5",97,Online,Mr.,Morning
+9/8/2024,Sugarcane juice,1875,"1218,75",83,Online,Mrs.,Midnight
+29/9/2024,Sugarcane juice,1875,"1218,75",66,Online,Mr.,Evening
 14/5/2024,Empanadas Carne,1500,975,73,Cash,Mrs.,Evening
-"16/11/2024,Pan arabe,2150,""1397,5"",61,Online,Mr.,Morning"
-"10/7/2024,Sugarcane juice,1875,""1218,75"",79,Online,Mr.,Morning"
-"24/5/2024,Pan arabe,2150,""1397,5"",73,Cash,Mrs.,Midnight"
+16/11/2024,Pan arabe,2150,"1397,5",61,Online,Mr.,Morning
+10/7/2024,Sugarcane juice,1875,"1218,75",79,Online,Mr.,Morning
+24/5/2024,Pan arabe,2150,"1397,5",73,Cash,Mrs.,Midnight
 28/1/2024,cafe americano,1800,1170,82,Cash,Mr.,Evening
-"3/3/2024,Pastel de yuca,3250,""2112,5"",72,Cash,Mrs.,Morning"
+3/3/2024,Pastel de yuca,3250,"2112,5",72,Cash,Mrs.,Morning
 24/2/2024,Chocorramo,2900,1885,68,Cash,Mrs.,Morning
 8/4/2024,papas de pollo,2700,1755,60,Cash,Mrs.,Afternoon
 14/4/2024,Sandwich,4500,2925,84,Cash,Mrs.,Midnight
-"16/5/2024,Sugarcane juice,1875,""1218,75"",89,Cash,Mrs.,Midnight"
-"24/4/2024,arepa carne,3750,""2437,5"",102,Online,Mr.,Midnight"
+16/5/2024,Sugarcane juice,1875,"1218,75",89,Cash,Mrs.,Midnight
+24/4/2024,arepa carne,3750,"2437,5",102,Online,Mr.,Midnight
 12/6/2024,Empanadas Carne,1500,975,62,Online,Mr.,Night
 13/2/2024,Cold coffee,3000,1950,68,Online,Mr.,Evening
 9/12/2024,cafe americano,1800,1170,62,Online,Mrs.,Afternoon
 21/7/2024,Cold coffee,3000,1950,87,Online,Mr.,Midnight
 29/11/2024,Pastel pollo,2300,1495,68,Online,Mr.,Night
 7/5/2024,Sandwich,4500,2925,61,Online,Mrs.,Afternoon
-"15/12/2024,Pastel de yuca,3250,""2112,5"",74,Cash,Mrs.,Afternoon"
-"31/7/2024,Pastel de yuca,3250,""2112,5"",62,Online,Mrs.,Morning"
-"16/11/2024,Pastel de yuca,3250,""2112,5"",76,Cash,Mrs.,Afternoon"
+15/12/2024,Pastel de yuca,3250,"2112,5",74,Cash,Mrs.,Afternoon
+31/7/2024,Pastel de yuca,3250,"2112,5",62,Online,Mrs.,Morning
+16/11/2024,Pastel de yuca,3250,"2112,5",76,Cash,Mrs.,Afternoon
 14/5/2024,Chocorramo,2900,1885,69,Cash,Mrs.,Afternoon
 16/11/2024,papas de pollo,2700,1755,87,Cash,Mrs.,Morning
-"25/11/2024,Tamales,8950,""5817,5"",61,Cash,Mrs.,Morning"
+25/11/2024,Tamales,8950,"5817,5",61,Cash,Mrs.,Morning
 7/8/2024,Torta de queso,1900,1235,104,Online,Mr.,Midnight
-"1/2/2024,Sugarcane juice,1875,""1218,75"",66,Cash,Mrs.,Midnight"
-"27/8/2024,arepa carne,3750,""2437,5"",98,Cash,Mrs.,Evening"
-"8/2/2024,Sugarcane juice,1875,""1218,75"",62,Online,Mrs.,Midnight"
-"26/2/2024,Sugarcane juice,1875,""1218,75"",82,Cash,Mr.,Afternoon"
-"10/8/2024,arepa pollo,3950,""2567,5"",62,Online,Mr.,Evening"
+1/2/2024,Sugarcane juice,1875,"1218,75",66,Cash,Mrs.,Midnight
+27/8/2024,arepa carne,3750,"2437,5",98,Cash,Mrs.,Evening
+8/2/2024,Sugarcane juice,1875,"1218,75",62,Online,Mrs.,Midnight
+26/2/2024,Sugarcane juice,1875,"1218,75",82,Cash,Mr.,Afternoon
+10/8/2024,arepa pollo,3950,"2567,5",62,Online,Mr.,Evening
 31/7/2024,Cold coffee,3000,1950,66,Cash,Mr.,Afternoon
-"21/12/2024,Pan arabe,2150,""1397,5"",90,Online,Mr.,Morning"
+21/12/2024,Pan arabe,2150,"1397,5",90,Online,Mr.,Morning
 22/5/2024,cafe americano,1800,1170,80,Online,Mr.,Afternoon
-"6/1/2024,Pastel de yuca,3250,""2112,5"",96,Online,Mr.,Midnight"
+6/1/2024,Pastel de yuca,3250,"2112,5",96,Online,Mr.,Midnight
 12/5/2024,papas de pollo,2700,1755,65,Cash,Mrs.,Evening
 17/7/2024,Cocacola 1.5lt,7000,4550,98,Online,Mr.,Evening
 10/6/2024,Cocacola 1.5lt,7000,4550,98,Cash,Mrs.,Morning
 25/12/2024,Cocacola 1.5lt,7000,4550,78,Cash,Mr.,Evening
 15/12/2024,Cocacola 1.5lt,7000,4550,81,Cash,Mrs.,Morning
-"10/7/2024,Tamales,8950,""5817,5"",74,Cash,Mrs.,Afternoon"
-"20/5/2024,Sugarcane juice,1875,""1218,75"",80,Cash,Mrs.,Morning"
+10/7/2024,Tamales,8950,"5817,5",74,Cash,Mrs.,Afternoon
+20/5/2024,Sugarcane juice,1875,"1218,75",80,Cash,Mrs.,Morning
 11/6/2024,Cold coffee,3000,1950,98,Online,Mr.,Morning
-"24/2/2024,arepa pollo,3950,""2567,5"",66,Online,Mr.,Evening"
-"5/1/2024,Pan arabe,2150,""1397,5"",101,Cash,Mr.,Midnight"
+24/2/2024,arepa pollo,3950,"2567,5",66,Online,Mr.,Evening
+5/1/2024,Pan arabe,2150,"1397,5",101,Cash,Mr.,Midnight
 9/5/2024,cafe americano,1800,1170,91,Cash,Mrs.,Afternoon
-"14/3/2024,arepa pollo,3950,""2567,5"",98,Cash,Mrs.,Afternoon"
-"9/12/2024,Pastel de yuca,3250,""2112,5"",98,Online,Mr.,Afternoon"
-"15/5/2024,Pastel de yuca,3250,""2112,5"",64,Online,Mrs.,Evening"
+14/3/2024,arepa pollo,3950,"2567,5",98,Cash,Mrs.,Afternoon
+9/12/2024,Pastel de yuca,3250,"2112,5",98,Online,Mr.,Afternoon
+15/5/2024,Pastel de yuca,3250,"2112,5",64,Online,Mrs.,Evening
 17/4/2024,papas de pollo,2700,1755,85,Online,Mrs.,Morning
 14/10/2024,papas de pollo,2700,1755,64,Online,Mrs.,Evening
 25/2/2024,papas de pollo,2700,1755,75,Online,Mrs.,Morning
@@ -1002,34 +1002,34 @@ Fecha,item_name,Precio unita COP,Costo Unit COP,quantity,transaction_type,receiv
 5/1/2024,Cocacola 1.5lt,7000,4550,103,Cash,Mr.,Evening
 1/2/2024,Cocacola 1.5lt,7000,4550,99,Online,Mrs.,Morning
 11/12/2024,Cocacola 1.5lt,7000,4550,68,Online,Mrs.,Afternoon
-"5/11/2024,Tamales,8950,""5817,5"",63,Online,Mr.,Midnight"
-"4/10/2024,Sugarcane juice,1875,""1218,75"",74,Online,Mr.,Evening"
-"9/3/2024,arepa carne,3750,""2437,5"",104,Online,Mr.,Afternoon"
-"15/11/2024,Sugarcane juice,1875,""1218,75"",92,Online,Mrs.,Midnight"
+5/11/2024,Tamales,8950,"5817,5",63,Online,Mr.,Midnight
+4/10/2024,Sugarcane juice,1875,"1218,75",74,Online,Mr.,Evening
+9/3/2024,arepa carne,3750,"2437,5",104,Online,Mr.,Afternoon
+15/11/2024,Sugarcane juice,1875,"1218,75",92,Online,Mrs.,Midnight
 19/8/2024,Empanadas Carne,1500,975,75,Online,Mrs.,Midnight
-"22/3/2024,Sugarcane juice,1875,""1218,75"",99,Cash,Mr.,Afternoon"
+22/3/2024,Sugarcane juice,1875,"1218,75",99,Cash,Mr.,Afternoon
 30/12/2024,Sandwich,4500,2925,77,Cash,Mrs.,Morning
 7/5/2024,Cold coffee,3000,1950,64,Online,Mr.,Night
-"3/7/2024,arepa carne,3750,""2437,5"",75,Cash,Mr.,Night"
+3/7/2024,arepa carne,3750,"2437,5",75,Cash,Mr.,Night
 24/8/2024,Sandwich,4500,2925,95,Online,Mr.,Night
 21/9/2024,Pastel pollo,2300,1495,90,Cash,Mrs.,Midnight
 24/12/2024,Cold coffee,3000,1950,89,Online,Mrs.,Night
 12/6/2024,Pastel pollo,2300,1495,85,Cash,Mr.,Night
-"24/10/2024,Sugarcane juice,1875,""1218,75"",84,Online,Mrs.,Evening"
+24/10/2024,Sugarcane juice,1875,"1218,75",84,Online,Mrs.,Evening
 15/8/2024,Cold coffee,3000,1950,95,Cash,Mrs.,Night
-"29/7/2024,Sugarcane juice,1875,""1218,75"",93,Cash,Mrs.,Evening"
-"2/2/2024,Pastel de yuca,3250,""2112,5"",89,Cash,Mrs.,Afternoon"
+29/7/2024,Sugarcane juice,1875,"1218,75",93,Cash,Mrs.,Evening
+2/2/2024,Pastel de yuca,3250,"2112,5",89,Cash,Mrs.,Afternoon
 7/3/2024,papas de pollo,2700,1755,70,Online,Mr.,Midnight
-"29/10/2024,Tamales,8950,""5817,5"",66,Online,Mr.,Midnight"
+29/10/2024,Tamales,8950,"5817,5",66,Online,Mr.,Midnight
 23/12/2024,Empanadas Carne,1500,975,74,Cash,Mr.,Evening
-"7/2/2024,Sugarcane juice,1875,""1218,75"",66,Cash,Mrs.,Evening"
+7/2/2024,Sugarcane juice,1875,"1218,75",66,Cash,Mrs.,Evening
 14/10/2024,Cold coffee,3000,1950,100,Online,Mrs.,Night
-"6/1/2024,Pan arabe,2150,""1397,5"",67,Cash,Mrs.,Evening"
+6/1/2024,Pan arabe,2150,"1397,5",67,Cash,Mrs.,Evening
 11/9/2024,cafe americano,1800,1170,101,Online,Mr.,Morning
 10/6/2024,Sandwich,4500,2925,61,Cash,Mr.,Night
 7/5/2024,Pastel pollo,2300,1495,67,Cash,Mr.,Morning
 15/5/2024,cafe americano,1800,1170,85,Cash,Mrs.,Afternoon
-"1/12/2024,Pastel de yuca,3250,""2112,5"",99,Cash,Mr.,Evening"
+1/12/2024,Pastel de yuca,3250,"2112,5",99,Cash,Mr.,Evening
 28/1/2024,papas de pollo,2700,1755,80,Cash,Mr.,Night
 16/5/2024,papas de pollo,2700,1755,63,Online,Mr.,Night
 14/5/2024,Torta de queso,1900,1235,89,Online,Mr.,Evening
@@ -1037,7 +1037,7 @@ Fecha,item_name,Precio unita COP,Costo Unit COP,quantity,transaction_type,receiv
 3/10/2024,Sandwich,4500,2925,82,Cash,Mr.,Midnight
 24/4/2024,Cold coffee,3000,1950,88,Cash,Mr.,Night
 23/2/2024,Cold coffee,3000,1950,76,Online,Mrs.,Night
-"10/7/2024,Pastel de yuca,3250,""2112,5"",101,Cash,Mr.,Evening"
+10/7/2024,Pastel de yuca,3250,"2112,5",101,Cash,Mr.,Evening
 24/5/2024,Chocorramo,2900,1885,97,Online,Mr.,Midnight
 19/4/2024,Chocorramo,2900,1885,85,Online,Mr.,Midnight
 24/2/2024,Chocorramo,2900,1885,82,Online,Mr.,Evening
@@ -1048,8 +1048,8 @@ Fecha,item_name,Precio unita COP,Costo Unit COP,quantity,transaction_type,receiv
 23/12/2024,papas de pollo,2700,1755,61,Online,Mr.,Midnight
 17/11/2024,papas de pollo,2700,1755,97,Cash,Mr.,Night
 13/5/2024,Cocacola 1.5lt,7000,4550,79,Online,Mr.,Night
-"17/10/2024,Tamales,8950,""5817,5"",94,Cash,Mrs.,Evening"
-"2/10/2024,Sugarcane juice,1875,""1218,75"",102,Online,Mr.,Evening"
+17/10/2024,Tamales,8950,"5817,5",94,Cash,Mrs.,Evening
+2/10/2024,Sugarcane juice,1875,"1218,75",102,Online,Mr.,Evening
 31/8/2024,Sandwich,4500,2925,101,Online,Mrs.,Evening
 11/6/2024,Cold coffee,3000,1950,66,Online,Mr.,Night
 15/8/2024,Cold coffee,3000,1950,73,Online,Mrs.,Evening
@@ -1058,27 +1058,27 @@ Fecha,item_name,Precio unita COP,Costo Unit COP,quantity,transaction_type,receiv
 11/4/2024,Cold coffee,3000,1950,94,Cash,Mr.,Midnight
 3/7/2024,cafe americano,1800,1170,105,Online,Mr.,Midnight
 19/10/2024,Cold coffee,3000,1950,93,Online,Mr.,Evening
-"23/12/2024,Sugarcane juice,1875,""1218,75"",77,Online,Mrs.,Midnight"
-"17/12/2024,Pan arabe,2150,""1397,5"",61,Cash,Mrs.,Night"
-"12/5/2024,Pastel de yuca,3250,""2112,5"",63,Online,Mrs.,Night"
+23/12/2024,Sugarcane juice,1875,"1218,75",77,Online,Mrs.,Midnight
+17/12/2024,Pan arabe,2150,"1397,5",61,Cash,Mrs.,Night
+12/5/2024,Pastel de yuca,3250,"2112,5",63,Online,Mrs.,Night
 9/12/2024,Chocorramo,2900,1885,66,Cash,Mrs.,Afternoon
 15/9/2024,Chocorramo,2900,1885,97,Cash,Mrs.,Morning
 19/11/2024,papas de pollo,2700,1755,61,Online,Mr.,Midnight
 22/12/2024,papas de pollo,2700,1755,62,Cash,Mrs.,Evening
-"16/5/2024,Tamales,8950,""5817,5"",66,Online,Mrs.,Morning"
+16/5/2024,Tamales,8950,"5817,5",66,Online,Mrs.,Morning
 14/11/2024,Torta de queso,1900,1235,89,Cash,Mr.,Evening
 5/11/2024,cafe expresso,1500,975,74,Cash,Mrs.,Night
-"17/7/2024,arepa carne,3750,""2437,5"",101,Online,Mrs.,Evening"
+17/7/2024,arepa carne,3750,"2437,5",101,Online,Mrs.,Evening
 9/10/2024,Sandwich,4500,2925,91,Online,Mr.,Morning
-"2/1/2024,Sugarcane juice,1875,""1218,75"",80,Cash,Mr.,Night"
-"3/7/2024,Sugarcane juice,1875,""1218,75"",71,Online,Mr.,Afternoon"
+2/1/2024,Sugarcane juice,1875,"1218,75",80,Cash,Mr.,Night
+3/7/2024,Sugarcane juice,1875,"1218,75",71,Online,Mr.,Afternoon
 26/7/2024,cafe expresso,1500,975,73,Cash,Mrs.,Morning
 9/3/2024,Pastel pollo,2300,1495,90,Online,Mrs.,Evening
-"24/2/2024,arepa carne,3750,""2437,5"",101,Online,Mrs.,Midnight"
+24/2/2024,arepa carne,3750,"2437,5",101,Online,Mrs.,Midnight
 17/4/2024,cafe americano,1800,1170,62,Online,Mrs.,Morning
-"2/11/2024,Pan arabe,2150,""1397,5"",62,Online,Mr.,Evening"
+2/11/2024,Pan arabe,2150,"1397,5",62,Online,Mr.,Evening
 7/3/2024,Pastel pollo,2300,1495,90,Cash,Mrs.,Afternoon
-"11/9/2024,arepa pollo,3950,""2567,5"",79,Online,Mr.,Night"
+11/9/2024,arepa pollo,3950,"2567,5",79,Online,Mr.,Night
 17/10/2024,Chocorramo,2900,1885,92,Online,Mr.,Afternoon
 10/7/2024,Cocacola 1.5lt,7000,4550,85,Cash,Mrs.,Afternoon
 3/9/2024,Cocacola 1.5lt,7000,4550,94,Online,Mr.,Night
@@ -1087,107 +1087,107 @@ Fecha,item_name,Precio unita COP,Costo Unit COP,quantity,transaction_type,receiv
 5/2/2024,Sandwich,4500,2925,84,Online,Mrs.,Night
 14/8/2024,Empanadas Carne,1500,975,103,Online,Mr.,Afternoon
 17/11/2024,Cold coffee,3000,1950,96,Cash,Mrs.,Afternoon
-"4/12/2024,Pan arabe,2150,""1397,5"",74,Online,Mrs.,Midnight"
-"23/7/2024,arepa carne,3750,""2437,5"",101,Online,Mrs.,Morning"
+4/12/2024,Pan arabe,2150,"1397,5",74,Online,Mrs.,Midnight
+23/7/2024,arepa carne,3750,"2437,5",101,Online,Mrs.,Morning
 21/12/2024,cafe americano,1800,1170,68,Cash,Mr.,Morning
-"6/5/2024,Sugarcane juice,1875,""1218,75"",81,Online,Mr.,Afternoon"
-"22/8/2024,Sugarcane juice,1875,""1218,75"",62,Online,Mr.,Night"
+6/5/2024,Sugarcane juice,1875,"1218,75",81,Online,Mr.,Afternoon
+22/8/2024,Sugarcane juice,1875,"1218,75",62,Online,Mr.,Night
 25/3/2024,Pastel pollo,2300,1495,105,Cash,Mr.,Evening
 1/12/2024,papas de pollo,2700,1755,105,Cash,Mr.,Night
-"27/8/2024,Tamales,8950,""5817,5"",85,Online,Mr.,Midnight"
+27/8/2024,Tamales,8950,"5817,5",85,Online,Mr.,Midnight
 12/10/2024,Cold coffee,3000,1950,69,Online,Mrs.,Afternoon
 23/2/2024,Sandwich,4500,2925,87,Online,Mr.,Afternoon
 3/1/2024,Cold coffee,3000,1950,63,Cash,Mr.,Night
-"22/12/2024,Sugarcane juice,1875,""1218,75"",91,Online,Mrs.,Night"
+22/12/2024,Sugarcane juice,1875,"1218,75",91,Online,Mrs.,Night
 4/2/2024,Torta de queso,1900,1235,61,Cash,Mr.,Night
 1/10/2024,cafe expresso,1500,975,77,Cash,Mr.,Morning
 3/3/2024,Cold coffee,3000,1950,61,Online,Mrs.,Midnight
-"11/9/2024,Pan arabe,2150,""1397,5"",74,Online,Mr.,Evening"
+11/9/2024,Pan arabe,2150,"1397,5",74,Online,Mr.,Evening
 7/5/2024,Sandwich,4500,2925,62,Cash,Mr.,Midnight
 13/3/2024,Cold coffee,3000,1950,95,Online,Mr.,Evening
-"17/4/2024,Tamales,8950,""5817,5"",77,Cash,Mrs.,Evening"
+17/4/2024,Tamales,8950,"5817,5",77,Cash,Mrs.,Evening
 29/7/2024,cafe expresso,1500,975,97,Cash,Mr.,Midnight
 17/8/2024,Torta de queso,1900,1235,66,Online,Mr.,Evening
-"11/9/2024,Sugarcane juice,1875,""1218,75"",61,Cash,Mrs.,Night"
+11/9/2024,Sugarcane juice,1875,"1218,75",61,Cash,Mrs.,Night
 16/5/2024,Sandwich,4500,2925,93,Cash,Mrs.,Evening
-"3/2/2024,arepa carne,3750,""2437,5"",84,Cash,Mr.,Afternoon"
+3/2/2024,arepa carne,3750,"2437,5",84,Cash,Mr.,Afternoon
 7/8/2024,cafe americano,1800,1170,65,Online,Mrs.,Night
-"11/2/2024,Sugarcane juice,1875,""1218,75"",72,Online,Mrs.,Afternoon"
+11/2/2024,Sugarcane juice,1875,"1218,75",72,Online,Mrs.,Afternoon
 19/3/2024,Pastel pollo,2300,1495,61,Cash,Mrs.,Midnight
-"13/5/2024,Pastel de yuca,3250,""2112,5"",85,Cash,Mr.,Morning"
+13/5/2024,Pastel de yuca,3250,"2112,5",85,Cash,Mr.,Morning
 8/11/2024,Chocorramo,2900,1885,91,Cash,Mr.,Night
-"11/9/2024,Tamales,8950,""5817,5"",89,Online,Mr.,Night"
-"17/10/2024,Tamales,8950,""5817,5"",98,Cash,Mrs.,Afternoon"
+11/9/2024,Tamales,8950,"5817,5",89,Online,Mr.,Night
+17/10/2024,Tamales,8950,"5817,5",98,Cash,Mrs.,Afternoon
 20/11/2024,Torta de queso,1900,1235,94,Cash,Mr.,Afternoon
 13/2/2024,Empanadas Carne,1500,975,105,Cash,Mrs.,Afternoon
 11/10/2024,Empanadas Carne,1500,975,83,Cash,Mrs.,Morning
-"14/5/2024,arepa carne,3750,""2437,5"",77,Online,Mrs.,Night"
+14/5/2024,arepa carne,3750,"2437,5",77,Online,Mrs.,Night
 26/3/2024,Torta de queso,1900,1235,92,Online,Mrs.,Midnight
-"30/1/2024,arepa carne,3750,""2437,5"",69,Cash,Mr.,Night"
+30/1/2024,arepa carne,3750,"2437,5",69,Cash,Mr.,Night
 2/7/2024,Empanadas Carne,1500,975,103,Cash,Mr.,Morning
 29/3/2024,Empanadas Carne,1500,975,89,Online,Mr.,Morning
 9/5/2024,Sandwich,4500,2925,100,Cash,Mrs.,Night
 24/10/2024,Chocorramo,2900,1885,80,Cash,Mrs.,Morning
 3/3/2024,Chocorramo,2900,1885,62,Online,Mr.,Evening
 31/7/2024,Chocorramo,2900,1885,98,Online,Mrs.,Morning
-"9/10/2024,Tamales,8950,""5817,5"",100,Online,Mr.,Night"
+9/10/2024,Tamales,8950,"5817,5",100,Online,Mr.,Night
 8/4/2024,cafe expresso,1500,975,80,Online,Mrs.,Night
 23/7/2024,Torta de queso,1900,1235,90,Online,Mr.,Night
-"21/7/2024,Sugarcane juice,1875,""1218,75"",81,Cash,Mr.,Night"
+21/7/2024,Sugarcane juice,1875,"1218,75",81,Cash,Mr.,Night
 9/12/2024,Sandwich,4500,2925,96,Online,Mr.,Night
-"15/8/2024,Sugarcane juice,1875,""1218,75"",72,Online,Mr.,Afternoon"
+15/8/2024,Sugarcane juice,1875,"1218,75",72,Online,Mr.,Afternoon
 1/12/2024,Cold coffee,3000,1950,77,Online,Mrs.,Afternoon
-"5/11/2024,Pan arabe,2150,""1397,5"",70,Online,Mrs.,Night"
-"6/1/2024,Pan arabe,2150,""1397,5"",71,Cash,Mrs.,Morning"
+5/11/2024,Pan arabe,2150,"1397,5",70,Online,Mrs.,Night
+6/1/2024,Pan arabe,2150,"1397,5",71,Cash,Mrs.,Morning
 3/1/2024,Chocorramo,2900,1885,72,Online,Mr.,Afternoon
 12/5/2024,Chocorramo,2900,1885,101,Online,Mr.,Afternoon
 9/12/2024,Cocacola 1.5lt,7000,4550,60,Cash,Mrs.,Morning
-"2/2/2024,Tamales,8950,""5817,5"",104,Online,Mr.,Afternoon"
-"16/5/2024,Tamales,8950,""5817,5"",64,Online,Mr.,Evening"
-"24/10/2024,arepa carne,3750,""2437,5"",77,Cash,Mrs.,Midnight"
+2/2/2024,Tamales,8950,"5817,5",104,Online,Mr.,Afternoon
+16/5/2024,Tamales,8950,"5817,5",64,Online,Mr.,Evening
+24/10/2024,arepa carne,3750,"2437,5",77,Cash,Mrs.,Midnight
 14/11/2024,Sandwich,4500,2925,94,Online,Mr.,Afternoon
-"1/7/2024,arepa carne,3750,""2437,5"",95,Online,Mrs.,Evening"
-"15/5/2024,Sugarcane juice,1875,""1218,75"",71,Cash,Mrs.,Evening"
+1/7/2024,arepa carne,3750,"2437,5",95,Online,Mrs.,Evening
+15/5/2024,Sugarcane juice,1875,"1218,75",71,Cash,Mrs.,Evening
 29/7/2024,Cold coffee,3000,1950,87,Cash,Mr.,Evening
-"15/3/2024,Pan arabe,2150,""1397,5"",85,Cash,Mrs.,Night"
-"15/12/2024,arepa pollo,3950,""2567,5"",94,Cash,Mrs.,Afternoon"
+15/3/2024,Pan arabe,2150,"1397,5",85,Cash,Mrs.,Night
+15/12/2024,arepa pollo,3950,"2567,5",94,Cash,Mrs.,Afternoon
 10/7/2024,Chocorramo,2900,1885,98,Cash,Mrs.,Evening
 11/10/2024,papas de pollo,2700,1755,63,Cash,Mrs.,Morning
 16/5/2024,papas de pollo,2700,1755,62,Cash,Mr.,Afternoon
 17/10/2024,Cocacola 1.5lt,7000,4550,78,Cash,Mr.,Evening
-"28/1/2024,Tamales,8950,""5817,5"",98,Online,Mrs.,Morning"
-"17/11/2024,Tamales,8950,""5817,5"",96,Online,Mrs.,Morning"
+28/1/2024,Tamales,8950,"5817,5",98,Online,Mrs.,Morning
+17/11/2024,Tamales,8950,"5817,5",96,Online,Mrs.,Morning
 13/5/2024,Empanadas Carne,1500,975,87,Cash,Mr.,Afternoon
 21/7/2024,cafe expresso,1500,975,65,Cash,Mrs.,Evening
-"13/1/2024,Sugarcane juice,1875,""1218,75"",105,Cash,Mr.,Night"
+13/1/2024,Sugarcane juice,1875,"1218,75",105,Cash,Mr.,Night
 26/10/2024,Torta de queso,1900,1235,87,Online,Mr.,Night
 23/12/2024,Cold coffee,3000,1950,76,Cash,Mrs.,Night
 15/9/2024,Empanadas Carne,1500,975,72,Online,Mr.,Afternoon
-"15/8/2024,arepa carne,3750,""2437,5"",105,Online,Mrs.,Night"
+15/8/2024,arepa carne,3750,"2437,5",105,Online,Mrs.,Night
 1/9/2024,Cold coffee,3000,1950,95,Online,Mrs.,Morning
-"10/12/2024,Pan arabe,2150,""1397,5"",87,Cash,Mrs.,Midnight"
+10/12/2024,Pan arabe,2150,"1397,5",87,Cash,Mrs.,Midnight
 21/12/2024,Pastel pollo,2300,1495,96,Cash,Mrs.,Night
 10/7/2024,Cold coffee,3000,1950,95,Online,Mrs.,Midnight
-"5/1/2024,arepa pollo,3950,""2567,5"",94,Online,Mrs.,Afternoon"
+5/1/2024,arepa pollo,3950,"2567,5",94,Online,Mrs.,Afternoon
 29/5/2024,cafe americano,1800,1170,92,Online,Mrs.,Evening
-"14/5/2024,Pastel de yuca,3250,""2112,5"",98,Online,Mrs.,Afternoon"
+14/5/2024,Pastel de yuca,3250,"2112,5",98,Online,Mrs.,Afternoon
 8/11/2024,Chocorramo,2900,1885,93,Online,Mrs.,Evening
 4/2/2024,papas de pollo,2700,1755,70,Cash,Mrs.,Evening
 15/3/2024,Cocacola 1.5lt,7000,4550,74,Cash,Mrs.,Afternoon
-"12/5/2024,Tamales,8950,""5817,5"",78,Cash,Mrs.,Morning"
+12/5/2024,Tamales,8950,"5817,5",78,Cash,Mrs.,Morning
 26/4/2024,Cold coffee,3000,1950,94,Online,Mr.,Evening
-"3/12/2024,Sugarcane juice,1875,""1218,75"",102,Online,Mr.,Evening"
+3/12/2024,Sugarcane juice,1875,"1218,75",102,Online,Mr.,Evening
 24/5/2024,Empanadas Carne,1500,975,69,Online,Mrs.,Afternoon
 13/5/2024,cafe expresso,1500,975,65,Online,Mr.,Midnight
-"22/8/2024,arepa carne,3750,""2437,5"",101,Cash,Mr.,Afternoon"
-"8/3/2024,Sugarcane juice,1875,""1218,75"",82,Cash,Mr.,Evening"
+22/8/2024,arepa carne,3750,"2437,5",101,Cash,Mr.,Afternoon
+8/3/2024,Sugarcane juice,1875,"1218,75",82,Cash,Mr.,Evening
 20/12/2024,Pastel pollo,2300,1495,66,Cash,Mr.,Midnight
 15/8/2024,Pastel pollo,2300,1495,83,Cash,Mrs.,Evening
-"1/12/2024,Pan arabe,2150,""1397,5"",81,Cash,Mr.,Evening"
+1/12/2024,Pan arabe,2150,"1397,5",81,Cash,Mr.,Evening
 20/5/2024,Pastel pollo,2300,1495,89,Online,Mr.,Night
-"25/12/2024,arepa pollo,3950,""2567,5"",68,Online,Mr.,Morning"
-"10/7/2024,Pastel de yuca,3250,""2112,5"",61,Online,Mr.,Afternoon"
-"6/5/2024,Pastel de yuca,3250,""2112,5"",97,Online,Mr.,Afternoon"
+25/12/2024,arepa pollo,3950,"2567,5",68,Online,Mr.,Morning
+10/7/2024,Pastel de yuca,3250,"2112,5",61,Online,Mr.,Afternoon
+6/5/2024,Pastel de yuca,3250,"2112,5",97,Online,Mr.,Afternoon
 25/11/2024,Chocorramo,2900,1885,98,Cash,Mrs.,Midnight
 13/5/2024,Chocorramo,2900,1885,91,Online,Mr.,Midnight
 30/1/2024,papas de pollo,2700,1755,69,Cash,Mrs.,Evening
@@ -1196,51 +1196,51 @@ Fecha,item_name,Precio unita COP,Costo Unit COP,quantity,transaction_type,receiv
 14/11/2024,Torta de queso,1900,1235,103,Cash,Mr.,Midnight
 26/6/2024,Cold coffee,3000,1950,71,Cash,Mr.,Midnight
 6/7/2024,cafe americano,1800,1170,93,Online,Mr.,Afternoon
-"26/3/2024,Pan arabe,2150,""1397,5"",91,Online,Mrs.,Afternoon"
+26/3/2024,Pan arabe,2150,"1397,5",91,Online,Mrs.,Afternoon
 7/5/2024,Pastel pollo,2300,1495,60,Cash,Mr.,Afternoon
-"17/10/2024,arepa carne,3750,""2437,5"",102,Cash,Mr.,Night"
-"19/8/2024,Pan arabe,2150,""1397,5"",60,Cash,Mr.,Night"
+17/10/2024,arepa carne,3750,"2437,5",102,Cash,Mr.,Night
+19/8/2024,Pan arabe,2150,"1397,5",60,Cash,Mr.,Night
 12/5/2024,Pastel pollo,2300,1495,91,Online,Mrs.,Night
-"24/8/2024,Sugarcane juice,1875,""1218,75"",87,Online,Mrs.,Evening"
-"11/10/2024,Pan arabe,2150,""1397,5"",102,Cash,Mrs.,Night"
-"5/12/2024,Pan arabe,2150,""1397,5"",99,Cash,Mrs.,Morning"
-"25/2/2024,Pastel de yuca,3250,""2112,5"",103,Cash,Mrs.,Night"
+24/8/2024,Sugarcane juice,1875,"1218,75",87,Online,Mrs.,Evening
+11/10/2024,Pan arabe,2150,"1397,5",102,Cash,Mrs.,Night
+5/12/2024,Pan arabe,2150,"1397,5",99,Cash,Mrs.,Morning
+25/2/2024,Pastel de yuca,3250,"2112,5",103,Cash,Mrs.,Night
 10/1/2024,papas de pollo,2700,1755,68,Online,Mr.,Night
-"24/5/2024,Tamales,8950,""5817,5"",99,Cash,Mr.,Evening"
-"16/4/2024,arepa carne,3750,""2437,5"",100,Online,Mr.,Afternoon"
+24/5/2024,Tamales,8950,"5817,5",99,Cash,Mr.,Evening
+16/4/2024,arepa carne,3750,"2437,5",100,Online,Mr.,Afternoon
 17/10/2024,Sandwich,4500,2925,69,Online,Mr.,Afternoon
-"12/1/2024,Pan arabe,2150,""1397,5"",94,Online,Mrs.,Evening"
-"26/8/2024,Sugarcane juice,1875,""1218,75"",85,Cash,Mrs.,Afternoon"
+12/1/2024,Pan arabe,2150,"1397,5",94,Online,Mrs.,Evening
+26/8/2024,Sugarcane juice,1875,"1218,75",85,Cash,Mrs.,Afternoon
 8/4/2024,cafe americano,1800,1170,69,Online,Mr.,Morning
-"13/11/2024,Sugarcane juice,1875,""1218,75"",88,Online,Mr.,Evening"
-"4/9/2024,Pastel de yuca,3250,""2112,5"",60,Cash,Mrs.,Afternoon"
+13/11/2024,Sugarcane juice,1875,"1218,75",88,Online,Mr.,Evening
+4/9/2024,Pastel de yuca,3250,"2112,5",60,Cash,Mrs.,Afternoon
 22/8/2024,papas de pollo,2700,1755,79,Online,Mrs.,Evening
-"1/2/2024,Tamales,8950,""5817,5"",69,Online,Mr.,Midnight"
+1/2/2024,Tamales,8950,"5817,5",69,Online,Mr.,Midnight
 15/9/2024,Cold coffee,3000,1950,71,Online,Mr.,Night
 20/6/2024,Torta de queso,1900,1235,88,Cash,Mr.,Morning
 8/11/2024,cafe expresso,1500,975,62,Cash,Mrs.,Midnight
-"3/3/2024,Sugarcane juice,1875,""1218,75"",75,Online,Mrs.,Midnight"
-"9/3/2024,Sugarcane juice,1875,""1218,75"",86,Cash,Mr.,Morning"
-"23/12/2024,arepa carne,3750,""2437,5"",104,Cash,Mrs.,Evening"
+3/3/2024,Sugarcane juice,1875,"1218,75",75,Online,Mrs.,Midnight
+9/3/2024,Sugarcane juice,1875,"1218,75",86,Cash,Mr.,Morning
+23/12/2024,arepa carne,3750,"2437,5",104,Cash,Mrs.,Evening
 25/1/2024,Sandwich,4500,2925,94,Online,Mrs.,Afternoon
 28/12/2024,Cold coffee,3000,1950,86,Cash,Mrs.,Night
 10/7/2024,Sandwich,4500,2925,97,Cash,Mrs.,Afternoon
-"26/10/2024,arepa carne,3750,""2437,5"",60,Online,Mr.,Evening"
-"29/5/2024,Sugarcane juice,1875,""1218,75"",96,Cash,Mrs.,Morning"
+26/10/2024,arepa carne,3750,"2437,5",60,Online,Mr.,Evening
+29/5/2024,Sugarcane juice,1875,"1218,75",96,Cash,Mrs.,Morning
 21/9/2024,Pastel pollo,2300,1495,60,Cash,Mrs.,Midnight
-"26/2/2024,Pastel de yuca,3250,""2112,5"",67,Cash,Mrs.,Morning"
+26/2/2024,Pastel de yuca,3250,"2112,5",67,Cash,Mrs.,Morning
 23/4/2024,Chocorramo,2900,1885,66,Online,Mr.,Midnight
 11/12/2024,Chocorramo,2900,1885,80,Cash,Mrs.,Afternoon
 18/8/2024,papas de pollo,2700,1755,85,Online,Mrs.,Morning
 9/3/2024,Cocacola 1.5lt,7000,4550,82,Cash,Mrs.,Midnight
 24/2/2024,Cocacola 1.5lt,7000,4550,105,Online,Mr.,Afternoon
 25/6/2024,Cocacola 1.5lt,7000,4550,85,Cash,Mrs.,Evening
-"16/5/2024,arepa carne,3750,""2437,5"",73,Online,Mrs.,Morning"
+16/5/2024,arepa carne,3750,"2437,5",73,Online,Mrs.,Morning
 9/5/2024,Cold coffee,3000,1950,72,Cash,Mrs.,Morning
 29/5/2024,Empanadas Carne,1500,975,97,Cash,Mr.,Night
-"10/7/2024,arepa carne,3750,""2437,5"",82,Cash,Mrs.,Evening"
+10/7/2024,arepa carne,3750,"2437,5",82,Cash,Mrs.,Evening
 25/3/2024,cafe expresso,1500,975,81,Cash,Mr.,Midnight
-"27/8/2024,Sugarcane juice,1875,""1218,75"",98,Online,Mrs.,Midnight"
+27/8/2024,Sugarcane juice,1875,"1218,75",98,Online,Mrs.,Midnight
 14/4/2024,cafe expresso,1500,975,79,Online,Mrs.,Night
 7/5/2024,Cold coffee,3000,1950,83,Online,Mrs.,Night
 12/6/2024,cafe americano,1800,1170,61,Online,Mrs.,Evening
@@ -1249,14 +1249,14 @@ Fecha,item_name,Precio unita COP,Costo Unit COP,quantity,transaction_type,receiv
 15/3/2024,papas de pollo,2700,1755,91,Cash,Mrs.,Afternoon
 15/8/2024,Cocacola 1.5lt,7000,4550,61,Online,Mr.,Evening
 5/12/2024,Cold coffee,3000,1950,63,Online,Mr.,Night
-"25/2/2024,arepa carne,3750,""2437,5"",80,Cash,Mrs.,Evening"
+25/2/2024,arepa carne,3750,"2437,5",80,Cash,Mrs.,Evening
 23/3/2024,Empanadas Carne,1500,975,79,Cash,Mr.,Morning
-"10/1/2024,arepa carne,3750,""2437,5"",102,Cash,Mr.,Afternoon"
-"18/9/2024,Pan arabe,2150,""1397,5"",94,Cash,Mr.,Afternoon"
-"7/2/2024,arepa pollo,3950,""2567,5"",62,Online,Mr.,Night"
+10/1/2024,arepa carne,3750,"2437,5",102,Cash,Mr.,Afternoon
+18/9/2024,Pan arabe,2150,"1397,5",94,Cash,Mr.,Afternoon
+7/2/2024,arepa pollo,3950,"2567,5",62,Online,Mr.,Night
 3/3/2024,Sandwich,4500,2925,77,Cash,Mr.,Midnight
-"23/3/2024,Pan arabe,2150,""1397,5"",73,Online,Mr.,Morning"
-"23/4/2024,arepa pollo,3950,""2567,5"",65,Online,Mrs.,Night"
+23/3/2024,Pan arabe,2150,"1397,5",73,Online,Mr.,Morning
+23/4/2024,arepa pollo,3950,"2567,5",65,Online,Mrs.,Night
 3/5/2024,Pastel pollo,2300,1495,85,Online,Mrs.,Afternoon
 1/7/2024,cafe americano,1800,1170,95,Online,Mr.,Morning
 6/11/2024,Chocorramo,2900,1885,88,Online,Mr.,Midnight
@@ -1264,11 +1264,11 @@ Fecha,item_name,Precio unita COP,Costo Unit COP,quantity,transaction_type,receiv
 12/6/2024,Cocacola 1.5lt,7000,4550,61,Cash,Mr.,Evening
 25/2/2024,Cocacola 1.5lt,7000,4550,90,Cash,Mrs.,Afternoon
 25/2/2024,Cocacola 1.5lt,7000,4550,79,Online,Mr.,Evening
-"25/11/2024,Tamales,8950,""5817,5"",76,Cash,Mr.,Evening"
-"5/1/2024,arepa carne,3750,""2437,5"",79,Cash,Mr.,Night"
+25/11/2024,Tamales,8950,"5817,5",76,Cash,Mr.,Evening
+5/1/2024,arepa carne,3750,"2437,5",79,Cash,Mr.,Night
 2/11/2024,Torta de queso,1900,1235,72,Cash,Mrs.,Midnight
-"16/3/2024,Sugarcane juice,1875,""1218,75"",95,Cash,Mrs.,Midnight"
-"17/10/2024,Sugarcane juice,1875,""1218,75"",90,Cash,Mr.,Afternoon"
+16/3/2024,Sugarcane juice,1875,"1218,75",95,Cash,Mrs.,Midnight
+17/10/2024,Sugarcane juice,1875,"1218,75",90,Cash,Mr.,Afternoon
 3/7/2024,Cold coffee,3000,1950,77,Online,Mrs.,Midnight
 27/10/2024,Cold coffee,3000,1950,69,Online,Mr.,Morning
 12/12/2024,Empanadas Carne,1500,975,98,Cash,Mr.,Afternoon
@@ -1278,9 +1278,9 @@ Fecha,item_name,Precio unita COP,Costo Unit COP,quantity,transaction_type,receiv
 17/5/2024,Pastel pollo,2300,1495,69,Online,Mr.,Night
 13/12/2024,cafe americano,1800,1170,96,Cash,Mrs.,Afternoon
 5/2/2024,Cocacola 1.5lt,7000,4550,80,Online,Mr.,Midnight
-"15/9/2024,Tamales,8950,""5817,5"",100,Online,Mr.,Night"
+15/9/2024,Tamales,8950,"5817,5",100,Online,Mr.,Night
 9/5/2024,Empanadas Carne,1500,975,78,Online,Mrs.,Night
-"17/4/2024,arepa carne,3750,""2437,5"",101,Online,Mrs.,Midnight"
+17/4/2024,arepa carne,3750,"2437,5",101,Online,Mrs.,Midnight
 6/1/2024,cafe expresso,1500,975,68,Online,Mrs.,Evening
 25/2/2024,Empanadas Carne,1500,975,77,Cash,Mr.,Night
 7/2/2024,Empanadas Carne,1500,975,97,Online,Mrs.,Night
@@ -1292,91 +1292,91 @@ Fecha,item_name,Precio unita COP,Costo Unit COP,quantity,transaction_type,receiv
 25/12/2024,Chocorramo,2900,1885,72,Cash,Mrs.,Morning
 15/6/2024,Empanadas Carne,1500,975,78,Cash,Mr.,Evening
 7/3/2024,cafe expresso,1500,975,71,Cash,Mrs.,Afternoon
-"3/9/2024,arepa carne,3750,""2437,5"",62,Cash,Mr.,Midnight"
+3/9/2024,arepa carne,3750,"2437,5",62,Cash,Mr.,Midnight
 15/11/2024,cafe expresso,1500,975,96,Online,Mr.,Night
 28/12/2024,cafe americano,1800,1170,90,Online,Mr.,Morning
 10/1/2024,cafe americano,1800,1170,64,Cash,Mrs.,Morning
 6/7/2024,Cold coffee,3000,1950,65,Cash,Mr.,Midnight
-"24/2/2024,Pastel de yuca,3250,""2112,5"",81,Online,Mr.,Afternoon"
+24/2/2024,Pastel de yuca,3250,"2112,5",81,Online,Mr.,Afternoon
 15/9/2024,Chocorramo,2900,1885,65,Cash,Mr.,Morning
 5/11/2024,papas de pollo,2700,1755,90,Cash,Mrs.,Afternoon
-"12/5/2024,Sugarcane juice,1875,""1218,75"",81,Online,Mr.,Night"
+12/5/2024,Sugarcane juice,1875,"1218,75",81,Online,Mr.,Night
 14/1/2024,Empanadas Carne,1500,975,87,Online,Mr.,Midnight
 25/12/2024,Cold coffee,3000,1950,100,Cash,Mrs.,Morning
 19/3/2024,Sandwich,4500,2925,61,Cash,Mrs.,Evening
 19/1/2024,Empanadas Carne,1500,975,98,Online,Mrs.,Midnight
 21/7/2024,Cold coffee,3000,1950,63,Online,Mr.,Night
-"16/11/2024,arepa carne,3750,""2437,5"",66,Cash,Mr.,Midnight"
+16/11/2024,arepa carne,3750,"2437,5",66,Cash,Mr.,Midnight
 16/9/2024,Cold coffee,3000,1950,96,Online,Mrs.,Evening
-"17/10/2024,arepa carne,3750,""2437,5"",62,Cash,Mr.,Evening"
-"3/2/2024,Pan arabe,2150,""1397,5"",82,Cash,Mrs.,Midnight"
+17/10/2024,arepa carne,3750,"2437,5",62,Cash,Mr.,Evening
+3/2/2024,Pan arabe,2150,"1397,5",82,Cash,Mrs.,Midnight
 3/10/2024,Cold coffee,3000,1950,82,Online,Mr.,Afternoon
-"10/12/2024,arepa pollo,3950,""2567,5"",91,Cash,Mrs.,Morning"
-"11/12/2024,arepa pollo,3950,""2567,5"",84,Online,Mrs.,Evening"
+10/12/2024,arepa pollo,3950,"2567,5",91,Cash,Mrs.,Morning
+11/12/2024,arepa pollo,3950,"2567,5",84,Online,Mrs.,Evening
 12/11/2024,cafe americano,1800,1170,105,Online,Mrs.,Afternoon
 16/10/2024,Cold coffee,3000,1950,77,Cash,Mr.,Morning
-"23/12/2024,Pastel de yuca,3250,""2112,5"",64,Cash,Mrs.,Midnight"
-"22/3/2024,Pastel de yuca,3250,""2112,5"",82,Cash,Mrs.,Evening"
+23/12/2024,Pastel de yuca,3250,"2112,5",64,Cash,Mrs.,Midnight
+22/3/2024,Pastel de yuca,3250,"2112,5",82,Cash,Mrs.,Evening
 26/2/2024,Chocorramo,2900,1885,73,Online,Mrs.,Night
 1/2/2024,papas de pollo,2700,1755,73,Online,Mrs.,Morning
 3/7/2024,papas de pollo,2700,1755,91,Online,Mr.,Afternoon
 14/8/2024,papas de pollo,2700,1755,67,Online,Mr.,Evening
 8/11/2024,Cocacola 1.5lt,7000,4550,75,Online,Mrs.,Morning
-"6/11/2024,Tamales,8950,""5817,5"",61,Cash,Mr.,Evening"
+6/11/2024,Tamales,8950,"5817,5",61,Cash,Mr.,Evening
 15/8/2024,Sandwich,4500,2925,66,Cash,Mr.,Evening
 4/2/2024,cafe expresso,1500,975,71,Online,Mrs.,Afternoon
 3/7/2024,cafe expresso,1500,975,86,Online,Mrs.,Night
 9/5/2024,Empanadas Carne,1500,975,88,Cash,Mrs.,Night
 5/11/2024,cafe americano,1800,1170,93,Online,Mrs.,Midnight
 29/7/2024,Cold coffee,3000,1950,91,Cash,Mr.,Night
-"30/12/2024,arepa pollo,3950,""2567,5"",67,Cash,Mr.,Afternoon"
+30/12/2024,arepa pollo,3950,"2567,5",67,Cash,Mr.,Afternoon
 8/2/2024,Cold coffee,3000,1950,64,Online,Mrs.,Afternoon
 26/4/2024,Sandwich,4500,2925,91,Cash,Mr.,Midnight
 20/11/2024,Cold coffee,3000,1950,60,Online,Mrs.,Morning
 3/7/2024,cafe americano,1800,1170,79,Cash,Mr.,Evening
 25/11/2024,Cocacola 1.5lt,7000,4550,93,Online,Mr.,Night
 11/9/2024,Cocacola 1.5lt,7000,4550,69,Cash,Mr.,Afternoon
-"8/5/2024,Tamales,8950,""5817,5"",84,Cash,Mrs.,Midnight"
-"7/3/2024,Tamales,8950,""5817,5"",75,Online,Mrs.,Evening"
+8/5/2024,Tamales,8950,"5817,5",84,Cash,Mrs.,Midnight
+7/3/2024,Tamales,8950,"5817,5",75,Online,Mrs.,Evening
 9/12/2024,Cold coffee,3000,1950,63,Cash,Mr.,Morning
-"11/2/2024,Sugarcane juice,1875,""1218,75"",99,Cash,Mr.,Midnight"
+11/2/2024,Sugarcane juice,1875,"1218,75",99,Cash,Mr.,Midnight
 8/3/2024,cafe expresso,1500,975,80,Cash,Mrs.,Morning
 6/1/2024,Torta de queso,1900,1235,74,Online,Mr.,Evening
-"5/11/2024,Pan arabe,2150,""1397,5"",60,Cash,Mr.,Evening"
+5/11/2024,Pan arabe,2150,"1397,5",60,Cash,Mr.,Evening
 26/8/2024,Sandwich,4500,2925,61,Online,Mr.,Morning
 9/6/2024,cafe americano,1800,1170,71,Cash,Mr.,Night
-"8/11/2024,Pastel de yuca,3250,""2112,5"",102,Online,Mrs.,Midnight"
+8/11/2024,Pastel de yuca,3250,"2112,5",102,Online,Mrs.,Midnight
 5/4/2024,Chocorramo,2900,1885,100,Cash,Mrs.,Morning
 17/11/2024,papas de pollo,2700,1755,96,Online,Mr.,Afternoon
-"12/6/2024,Tamales,8950,""5817,5"",89,Online,Mrs.,Midnight"
-"10/7/2024,Tamales,8950,""5817,5"",74,Online,Mr.,Midnight"
+12/6/2024,Tamales,8950,"5817,5",89,Online,Mrs.,Midnight
+10/7/2024,Tamales,8950,"5817,5",74,Online,Mr.,Midnight
 4/8/2024,cafe expresso,1500,975,83,Online,Mrs.,Morning
 3/2/2024,Torta de queso,1900,1235,67,Online,Mrs.,Morning
 10/7/2024,Empanadas Carne,1500,975,76,Online,Mrs.,Evening
 9/10/2024,Empanadas Carne,1500,975,65,Online,Mrs.,Afternoon
-"11/10/2024,arepa carne,3750,""2437,5"",83,Online,Mr.,Afternoon"
-"10/2/2024,arepa carne,3750,""2437,5"",88,Online,Mrs.,Night"
+11/10/2024,arepa carne,3750,"2437,5",83,Online,Mr.,Afternoon
+10/2/2024,arepa carne,3750,"2437,5",88,Online,Mrs.,Night
 16/3/2024,Sandwich,4500,2925,90,Cash,Mr.,Night
 28/1/2024,Sandwich,4500,2925,97,Online,Mrs.,Night
-"21/7/2024,Sugarcane juice,1875,""1218,75"",95,Online,Mrs.,Afternoon"
+21/7/2024,Sugarcane juice,1875,"1218,75",95,Online,Mrs.,Afternoon
 8/11/2024,papas de pollo,2700,1755,76,Online,Mrs.,Afternoon
 17/10/2024,Cocacola 1.5lt,7000,4550,70,Online,Mrs.,Evening
-"23/7/2024,Tamales,8950,""5817,5"",105,Cash,Mrs.,Morning"
-"28/12/2024,Tamales,8950,""5817,5"",62,Cash,Mr.,Evening"
+23/7/2024,Tamales,8950,"5817,5",105,Cash,Mrs.,Morning
+28/12/2024,Tamales,8950,"5817,5",62,Cash,Mr.,Evening
 9/6/2024,Cold coffee,3000,1950,60,Cash,Mrs.,Night
-"3/10/2024,Sugarcane juice,1875,""1218,75"",73,Cash,Mr.,Midnight"
-"3/3/2024,arepa carne,3750,""2437,5"",60,Cash,Mr.,Midnight"
-"20/2/2024,Pan arabe,2150,""1397,5"",90,Cash,Mrs.,Morning"
+3/10/2024,Sugarcane juice,1875,"1218,75",73,Cash,Mr.,Midnight
+3/3/2024,arepa carne,3750,"2437,5",60,Cash,Mr.,Midnight
+20/2/2024,Pan arabe,2150,"1397,5",90,Cash,Mrs.,Morning
 16/11/2024,Chocorramo,2900,1885,87,Cash,Mrs.,Evening
 9/10/2024,papas de pollo,2700,1755,60,Cash,Mr.,Evening
 26/2/2024,Cocacola 1.5lt,7000,4550,84,Cash,Mrs.,Afternoon
 4/12/2024,Cocacola 1.5lt,7000,4550,99,Online,Mrs.,Midnight
 14/9/2024,Empanadas Carne,1500,975,61,Cash,Mrs.,Night
-"5/1/2024,arepa carne,3750,""2437,5"",68,Cash,Mr.,Morning"
+5/1/2024,arepa carne,3750,"2437,5",68,Cash,Mr.,Morning
 8/2/2024,Empanadas Carne,1500,975,102,Online,Mrs.,Midnight
-"27/7/2024,Pan arabe,2150,""1397,5"",73,Cash,Mrs.,Midnight"
-"21/9/2024,arepa carne,3750,""2437,5"",99,Online,Mr.,Night"
-"4/10/2024,Sugarcane juice,1875,""1218,75"",92,Cash,Mrs.,Midnight"
+27/7/2024,Pan arabe,2150,"1397,5",73,Cash,Mrs.,Midnight
+21/9/2024,arepa carne,3750,"2437,5",99,Online,Mr.,Night
+4/10/2024,Sugarcane juice,1875,"1218,75",92,Cash,Mrs.,Midnight
 12/5/2024,Chocorramo,2900,1885,87,Cash,Mr.,Evening
 10/7/2024,Cocacola 1.5lt,7000,4550,67,Online,Mr.,Evening
 3/7/2024,Cocacola 1.5lt,7000,4550,70,Cash,Mrs.,Afternoon
@@ -1386,26 +1386,26 @@ Fecha,item_name,Precio unita COP,Costo Unit COP,quantity,transaction_type,receiv
 1/10/2024,Cold coffee,3000,1950,93,Online,Mr.,Evening
 26/6/2024,Pastel pollo,2300,1495,66,Cash,Mr.,Midnight
 22/11/2024,Sandwich,4500,2925,78,Cash,Mrs.,Night
-"22/5/2024,Pan arabe,2150,""1397,5"",64,Online,Mr.,Midnight"
+22/5/2024,Pan arabe,2150,"1397,5",64,Online,Mr.,Midnight
 4/2/2024,Pastel pollo,2300,1495,79,Online,Mr.,Midnight
-"1/12/2024,Pastel de yuca,3250,""2112,5"",102,Online,Mr.,Evening"
-"3/3/2024,Pastel de yuca,3250,""2112,5"",87,Online,Mr.,Evening"
+1/12/2024,Pastel de yuca,3250,"2112,5",102,Online,Mr.,Evening
+3/3/2024,Pastel de yuca,3250,"2112,5",87,Online,Mr.,Evening
 24/10/2024,papas de pollo,2700,1755,97,Online,Mrs.,Night
 17/4/2024,Cocacola 1.5lt,7000,4550,62,Cash,Mrs.,Afternoon
 25/11/2024,Cocacola 1.5lt,7000,4550,95,Online,Mr.,Midnight
-"2/3/2024,Tamales,8950,""5817,5"",100,Online,Mrs.,Morning"
+2/3/2024,Tamales,8950,"5817,5",100,Online,Mrs.,Morning
 23/8/2024,Torta de queso,1900,1235,71,Cash,Mr.,Afternoon
-"14/10/2024,Sugarcane juice,1875,""1218,75"",85,Cash,Mrs.,Evening"
-"2/1/2024,Pan arabe,2150,""1397,5"",98,Cash,Mr.,Morning"
-"26/5/2024,Sugarcane juice,1875,""1218,75"",82,Cash,Mrs.,Afternoon"
+14/10/2024,Sugarcane juice,1875,"1218,75",85,Cash,Mrs.,Evening
+2/1/2024,Pan arabe,2150,"1397,5",98,Cash,Mr.,Morning
+26/5/2024,Sugarcane juice,1875,"1218,75",82,Cash,Mrs.,Afternoon
 24/10/2024,Sandwich,4500,2925,80,Cash,Mrs.,Night
 23/4/2024,Cocacola 1.5lt,7000,4550,87,Online,Mr.,Evening
 11/6/2024,Cold coffee,3000,1950,75,Cash,Mrs.,Night
 5/2/2024,Sandwich,4500,2925,78,Online,Mrs.,Morning
-"4/12/2024,Sugarcane juice,1875,""1218,75"",73,Cash,Mr.,Midnight"
-"28/1/2024,Pan arabe,2150,""1397,5"",92,Online,Mrs.,Night"
+4/12/2024,Sugarcane juice,1875,"1218,75",73,Cash,Mr.,Midnight
+28/1/2024,Pan arabe,2150,"1397,5",92,Online,Mrs.,Night
 25/3/2024,Sandwich,4500,2925,66,Cash,Mrs.,Night
-"3/3/2024,Pan arabe,2150,""1397,5"",71,Cash,Mrs.,Morning"
+3/3/2024,Pan arabe,2150,"1397,5",71,Cash,Mrs.,Morning
 5/1/2024,Chocorramo,2900,1885,76,Cash,Mrs.,Morning
 3/1/2024,papas de pollo,2700,1755,86,Cash,Mrs.,Night
 15/12/2024,papas de pollo,2700,1755,103,Online,Mr.,Midnight
@@ -1413,16 +1413,16 @@ Fecha,item_name,Precio unita COP,Costo Unit COP,quantity,transaction_type,receiv
 21/7/2024,cafe expresso,1500,975,88,Online,Mrs.,Morning
 22/8/2024,Torta de queso,1900,1235,68,Online,Mrs.,Midnight
 28/10/2024,cafe expresso,1500,975,85,Online,Mr.,Evening
-"15/12/2024,Sugarcane juice,1875,""1218,75"",97,Cash,Mr.,Evening"
+15/12/2024,Sugarcane juice,1875,"1218,75",97,Cash,Mr.,Evening
 12/11/2024,Empanadas Carne,1500,975,90,Online,Mrs.,Midnight
 3/10/2024,Sandwich,4500,2925,100,Online,Mrs.,Evening
 18/8/2024,cafe americano,1800,1170,101,Cash,Mrs.,Night
-"25/2/2024,arepa carne,3750,""2437,5"",95,Online,Mrs.,Evening"
+25/2/2024,arepa carne,3750,"2437,5",95,Online,Mrs.,Evening
 24/10/2024,Sandwich,4500,2925,69,Cash,Mrs.,Midnight
 1/10/2024,Pastel pollo,2300,1495,97,Cash,Mr.,Midnight
-"25/11/2024,arepa pollo,3950,""2567,5"",66,Cash,Mrs.,Evening"
+25/11/2024,arepa pollo,3950,"2567,5",66,Cash,Mrs.,Evening
 29/10/2024,cafe americano,1800,1170,84,Online,Mr.,Afternoon
-"9/3/2024,Pastel de yuca,3250,""2112,5"",103,Online,Mr.,Evening"
+9/3/2024,Pastel de yuca,3250,"2112,5",103,Online,Mr.,Evening
 19/11/2024,Chocorramo,2900,1885,60,Online,Mr.,Midnight
 16/11/2024,Chocorramo,2900,1885,72,Cash,Mrs.,Night
 8/11/2024,Cocacola 1.5lt,7000,4550,75,Cash,Mrs.,Afternoon
@@ -1430,71 +1430,71 @@ Fecha,item_name,Precio unita COP,Costo Unit COP,quantity,transaction_type,receiv
 16/11/2024,Torta de queso,1900,1235,83,Cash,Mr.,Afternoon
 14/4/2024,Cold coffee,3000,1950,65,Cash,Mrs.,Midnight
 29/3/2024,cafe expresso,1500,975,103,Cash,Mrs.,Evening
-"3/7/2024,Sugarcane juice,1875,""1218,75"",105,Online,Mr.,Morning"
-"20/11/2024,Sugarcane juice,1875,""1218,75"",82,Online,Mr.,Midnight"
+3/7/2024,Sugarcane juice,1875,"1218,75",105,Online,Mr.,Morning
+20/11/2024,Sugarcane juice,1875,"1218,75",82,Online,Mr.,Midnight
 12/7/2024,Sandwich,4500,2925,96,Cash,Mr.,Afternoon
 23/12/2024,Cold coffee,3000,1950,86,Online,Mrs.,Evening
-"15/3/2024,Pastel de yuca,3250,""2112,5"",83,Online,Mrs.,Evening"
+15/3/2024,Pastel de yuca,3250,"2112,5",83,Online,Mrs.,Evening
 4/10/2024,Chocorramo,2900,1885,73,Online,Mr.,Midnight
 27/8/2024,papas de pollo,2700,1755,70,Cash,Mr.,Evening
-"14/8/2024,Tamales,8950,""5817,5"",105,Online,Mrs.,Night"
-"3/3/2024,Tamales,8950,""5817,5"",82,Online,Mrs.,Afternoon"
+14/8/2024,Tamales,8950,"5817,5",105,Online,Mrs.,Night
+3/3/2024,Tamales,8950,"5817,5",82,Online,Mrs.,Afternoon
 16/9/2024,cafe expresso,1500,975,71,Online,Mr.,Afternoon
-"24/5/2024,arepa carne,3750,""2437,5"",97,Cash,Mr.,Evening"
-"24/2/2024,arepa carne,3750,""2437,5"",62,Online,Mrs.,Midnight"
+24/5/2024,arepa carne,3750,"2437,5",97,Cash,Mr.,Evening
+24/2/2024,arepa carne,3750,"2437,5",62,Online,Mrs.,Midnight
 3/2/2024,Torta de queso,1900,1235,75,Cash,Mr.,Morning
-"9/3/2024,Sugarcane juice,1875,""1218,75"",80,Online,Mrs.,Night"
-"11/9/2024,Pan arabe,2150,""1397,5"",79,Cash,Mrs.,Afternoon"
-"7/7/2024,Sugarcane juice,1875,""1218,75"",72,Cash,Mr.,Morning"
+9/3/2024,Sugarcane juice,1875,"1218,75",80,Online,Mrs.,Night
+11/9/2024,Pan arabe,2150,"1397,5",79,Cash,Mrs.,Afternoon
+7/7/2024,Sugarcane juice,1875,"1218,75",72,Cash,Mr.,Morning
 29/9/2024,Cold coffee,3000,1950,75,Cash,Mr.,Morning
-"14/4/2024,Sugarcane juice,1875,""1218,75"",67,Cash,Mr.,Afternoon"
-"8/5/2024,Pastel de yuca,3250,""2112,5"",104,Cash,Mrs.,Morning"
+14/4/2024,Sugarcane juice,1875,"1218,75",67,Cash,Mr.,Afternoon
+8/5/2024,Pastel de yuca,3250,"2112,5",104,Cash,Mrs.,Morning
 9/10/2024,Chocorramo,2900,1885,98,Cash,Mr.,Morning
 25/6/2024,Chocorramo,2900,1885,85,Online,Mrs.,Morning
 7/3/2024,Cocacola 1.5lt,7000,4550,89,Cash,Mrs.,Morning
 16/4/2024,Cocacola 1.5lt,7000,4550,87,Online,Mr.,Midnight
 17/10/2024,Cocacola 1.5lt,7000,4550,81,Cash,Mrs.,Midnight
-"5/4/2024,Tamales,8950,""5817,5"",91,Online,Mr.,Evening"
-"10/6/2024,Tamales,8950,""5817,5"",64,Online,Mrs.,Night"
-"26/8/2024,Sugarcane juice,1875,""1218,75"",102,Cash,Mr.,Evening"
+5/4/2024,Tamales,8950,"5817,5",91,Online,Mr.,Evening
+10/6/2024,Tamales,8950,"5817,5",64,Online,Mrs.,Night
+26/8/2024,Sugarcane juice,1875,"1218,75",102,Cash,Mr.,Evening
 7/5/2024,Torta de queso,1900,1235,67,Cash,Mr.,Evening
 9/5/2024,Empanadas Carne,1500,975,71,Cash,Mrs.,Midnight
 4/8/2024,Cold coffee,3000,1950,78,Cash,Mr.,Night
 27/7/2024,Sandwich,4500,2925,90,Online,Mrs.,Morning
-"14/10/2024,Sugarcane juice,1875,""1218,75"",72,Cash,Mrs.,Morning"
+14/10/2024,Sugarcane juice,1875,"1218,75",72,Cash,Mrs.,Morning
 3/12/2024,Pastel pollo,2300,1495,74,Online,Mrs.,Afternoon
 24/2/2024,papas de pollo,2700,1755,84,Online,Mr.,Evening
 26/10/2024,Cocacola 1.5lt,7000,4550,92,Online,Mr.,Night
-"11/10/2024,Tamales,8950,""5817,5"",77,Cash,Mr.,Evening"
-"3/2/2024,Sugarcane juice,1875,""1218,75"",75,Online,Mr.,Night"
+11/10/2024,Tamales,8950,"5817,5",77,Cash,Mr.,Evening
+3/2/2024,Sugarcane juice,1875,"1218,75",75,Online,Mr.,Night
 26/5/2024,Sandwich,4500,2925,79,Online,Mr.,Midnight
 6/8/2024,Cold coffee,3000,1950,65,Online,Mrs.,Midnight
 1/12/2024,cafe expresso,1500,975,105,Online,Mr.,Afternoon
-"25/6/2024,Pan arabe,2150,""1397,5"",67,Cash,Mrs.,Evening"
-"3/3/2024,arepa carne,3750,""2437,5"",88,Cash,Mrs.,Morning"
+25/6/2024,Pan arabe,2150,"1397,5",67,Cash,Mrs.,Evening
+3/3/2024,arepa carne,3750,"2437,5",88,Cash,Mrs.,Morning
 3/12/2024,Cold coffee,3000,1950,61,Cash,Mrs.,Evening
 19/4/2024,Cold coffee,3000,1950,81,Online,Mrs.,Evening
-"23/8/2024,Pan arabe,2150,""1397,5"",85,Cash,Mrs.,Evening"
+23/8/2024,Pan arabe,2150,"1397,5",85,Cash,Mrs.,Evening
 28/8/2024,Cold coffee,3000,1950,68,Cash,Mr.,Night
 10/7/2024,Cold coffee,3000,1950,92,Online,Mrs.,Evening
-"6/11/2024,Pastel de yuca,3250,""2112,5"",99,Cash,Mrs.,Afternoon"
-"16/4/2024,Pastel de yuca,3250,""2112,5"",86,Online,Mrs.,Night"
-"2/2/2024,Pastel de yuca,3250,""2112,5"",74,Online,Mr.,Night"
-"28/1/2024,arepa carne,3750,""2437,5"",100,Cash,Mrs.,Night"
-"3/3/2024,Sugarcane juice,1875,""1218,75"",86,Cash,Mrs.,Midnight"
+6/11/2024,Pastel de yuca,3250,"2112,5",99,Cash,Mrs.,Afternoon
+16/4/2024,Pastel de yuca,3250,"2112,5",86,Online,Mrs.,Night
+2/2/2024,Pastel de yuca,3250,"2112,5",74,Online,Mr.,Night
+28/1/2024,arepa carne,3750,"2437,5",100,Cash,Mrs.,Night
+3/3/2024,Sugarcane juice,1875,"1218,75",86,Cash,Mrs.,Midnight
 5/5/2024,Cold coffee,3000,1950,61,Online,Mrs.,Morning
-"12/7/2024,Sugarcane juice,1875,""1218,75"",86,Online,Mr.,Morning"
-"1/7/2024,arepa carne,3750,""2437,5"",75,Cash,Mrs.,Morning"
-"26/8/2024,Pan arabe,2150,""1397,5"",95,Online,Mrs.,Midnight"
+12/7/2024,Sugarcane juice,1875,"1218,75",86,Online,Mr.,Morning
+1/7/2024,arepa carne,3750,"2437,5",75,Cash,Mrs.,Morning
+26/8/2024,Pan arabe,2150,"1397,5",95,Online,Mrs.,Midnight
 9/12/2024,Cold coffee,3000,1950,86,Cash,Mrs.,Afternoon
-"21/7/2024,Pastel de yuca,3250,""2112,5"",72,Cash,Mr.,Evening"
+21/7/2024,Pastel de yuca,3250,"2112,5",72,Cash,Mr.,Evening
 5/1/2024,Chocorramo,2900,1885,88,Online,Mr.,Night
 13/11/2024,papas de pollo,2700,1755,67,Online,Mrs.,Afternoon
-"19/11/2024,Tamales,8950,""5817,5"",64,Online,Mrs.,Morning"
-"12/5/2024,Tamales,8950,""5817,5"",94,Cash,Mrs.,Afternoon"
-"23/4/2024,Tamales,8950,""5817,5"",91,Online,Mr.,Evening"
-"21/7/2024,Tamales,8950,""5817,5"",65,Online,Mr.,Afternoon"
-"25/2/2024,Tamales,8950,""5817,5"",63,Online,Mr.,Evening"
+19/11/2024,Tamales,8950,"5817,5",64,Online,Mrs.,Morning
+12/5/2024,Tamales,8950,"5817,5",94,Cash,Mrs.,Afternoon
+23/4/2024,Tamales,8950,"5817,5",91,Online,Mr.,Evening
+21/7/2024,Tamales,8950,"5817,5",65,Online,Mr.,Afternoon
+25/2/2024,Tamales,8950,"5817,5",63,Online,Mr.,Evening
 22/3/2024,Cold coffee,3000,1950,95,Cash,Mrs.,Evening
 30/6/2024,cafe expresso,1500,975,93,Cash,Mr.,Morning
 26/3/2024,Sandwich,4500,2925,69,Online,Mr.,Evening
@@ -1505,69 +1505,69 @@ Fecha,item_name,Precio unita COP,Costo Unit COP,quantity,transaction_type,receiv
 26/8/2024,Cold coffee,3000,1950,97,Cash,Mr.,Evening
 2/1/2024,cafe americano,1800,1170,97,Online,Mrs.,Morning
 22/11/2024,Pastel pollo,2300,1495,100,Online,Mrs.,Midnight
-"23/4/2024,Pastel de yuca,3250,""2112,5"",70,Online,Mrs.,Morning"
-"14/8/2024,Pastel de yuca,3250,""2112,5"",96,Cash,Mr.,Afternoon"
+23/4/2024,Pastel de yuca,3250,"2112,5",70,Online,Mrs.,Morning
+14/8/2024,Pastel de yuca,3250,"2112,5",96,Cash,Mr.,Afternoon
 28/1/2024,Chocorramo,2900,1885,65,Online,Mrs.,Midnight
 3/3/2024,Chocorramo,2900,1885,91,Online,Mr.,Night
 5/4/2024,papas de pollo,2700,1755,80,Cash,Mr.,Afternoon
 6/1/2024,papas de pollo,2700,1755,83,Online,Mr.,Night
 15/9/2024,papas de pollo,2700,1755,105,Cash,Mr.,Evening
 16/10/2024,cafe expresso,1500,975,89,Cash,Mrs.,Morning
-"23/3/2024,Sugarcane juice,1875,""1218,75"",89,Cash,Mr.,Afternoon"
-"7/5/2024,Sugarcane juice,1875,""1218,75"",93,Cash,Mrs.,Afternoon"
-"29/5/2024,Sugarcane juice,1875,""1218,75"",82,Online,Mrs.,Midnight"
+23/3/2024,Sugarcane juice,1875,"1218,75",89,Cash,Mr.,Afternoon
+7/5/2024,Sugarcane juice,1875,"1218,75",93,Cash,Mrs.,Afternoon
+29/5/2024,Sugarcane juice,1875,"1218,75",82,Online,Mrs.,Midnight
 20/11/2024,Empanadas Carne,1500,975,94,Online,Mrs.,Morning
 9/3/2024,cafe americano,1800,1170,80,Cash,Mrs.,Afternoon
 8/5/2024,Pastel pollo,2300,1495,76,Cash,Mrs.,Night
-"19/10/2024,Sugarcane juice,1875,""1218,75"",89,Cash,Mr.,Evening"
-"16/4/2024,Pan arabe,2150,""1397,5"",62,Cash,Mrs.,Evening"
+19/10/2024,Sugarcane juice,1875,"1218,75",89,Cash,Mr.,Evening
+16/4/2024,Pan arabe,2150,"1397,5",62,Cash,Mrs.,Evening
 15/9/2024,Cold coffee,3000,1950,92,Online,Mr.,Afternoon
 26/3/2024,Sandwich,4500,2925,68,Online,Mr.,Night
 12/5/2024,Cocacola 1.5lt,7000,4550,73,Online,Mr.,Night
-"6/5/2024,Tamales,8950,""5817,5"",71,Online,Mrs.,Evening"
-"11/2/2024,Sugarcane juice,1875,""1218,75"",71,Online,Mr.,Afternoon"
+6/5/2024,Tamales,8950,"5817,5",71,Online,Mrs.,Evening
+11/2/2024,Sugarcane juice,1875,"1218,75",71,Online,Mr.,Afternoon
 1/12/2024,Sandwich,4500,2925,60,Online,Mrs.,Morning
 29/3/2024,Cold coffee,3000,1950,81,Online,Mr.,Evening
 8/8/2024,Cold coffee,3000,1950,62,Cash,Mr.,Afternoon
-"3/10/2024,Sugarcane juice,1875,""1218,75"",66,Online,Mrs.,Afternoon"
+3/10/2024,Sugarcane juice,1875,"1218,75",66,Online,Mrs.,Afternoon
 10/12/2024,Empanadas Carne,1500,975,103,Online,Mr.,Morning
 7/5/2024,Cold coffee,3000,1950,105,Online,Mr.,Afternoon
 17/11/2024,Sandwich,4500,2925,81,Cash,Mr.,Night
-"2/7/2024,arepa pollo,3950,""2567,5"",103,Cash,Mr.,Midnight"
+2/7/2024,arepa pollo,3950,"2567,5",103,Cash,Mr.,Midnight
 17/4/2024,Chocorramo,2900,1885,67,Cash,Mrs.,Afternoon
 9/8/2024,Chocorramo,2900,1885,98,Online,Mr.,Night
 10/7/2024,papas de pollo,2700,1755,61,Cash,Mrs.,Midnight
-"16/11/2024,Tamales,8950,""5817,5"",62,Cash,Mrs.,Afternoon"
-"2/2/2024,arepa carne,3750,""2437,5"",70,Cash,Mrs.,Midnight"
-"5/12/2024,Pan arabe,2150,""1397,5"",62,Online,Mrs.,Midnight"
-"22/3/2024,arepa carne,3750,""2437,5"",74,Online,Mr.,Afternoon"
-"24/2/2024,Pan arabe,2150,""1397,5"",80,Online,Mrs.,Midnight"
+16/11/2024,Tamales,8950,"5817,5",62,Cash,Mrs.,Afternoon
+2/2/2024,arepa carne,3750,"2437,5",70,Cash,Mrs.,Midnight
+5/12/2024,Pan arabe,2150,"1397,5",62,Online,Mrs.,Midnight
+22/3/2024,arepa carne,3750,"2437,5",74,Online,Mr.,Afternoon
+24/2/2024,Pan arabe,2150,"1397,5",80,Online,Mrs.,Midnight
 17/7/2024,Cold coffee,3000,1950,77,Online,Mrs.,Afternoon
 13/12/2024,Pastel pollo,2300,1495,83,Online,Mrs.,Afternoon
-"5/2/2024,Sugarcane juice,1875,""1218,75"",102,Cash,Mr.,Midnight"
+5/2/2024,Sugarcane juice,1875,"1218,75",102,Cash,Mr.,Midnight
 23/4/2024,Cold coffee,3000,1950,66,Online,Mr.,Evening
 12/10/2024,Pastel pollo,2300,1495,60,Cash,Mr.,Morning
 4/2/2024,cafe americano,1800,1170,83,Online,Mrs.,Evening
 23/11/2024,cafe americano,1800,1170,100,Online,Mr.,Night
-"9/3/2024,Pastel de yuca,3250,""2112,5"",96,Online,Mrs.,Midnight"
-"23/7/2024,Pastel de yuca,3250,""2112,5"",77,Online,Mrs.,Afternoon"
+9/3/2024,Pastel de yuca,3250,"2112,5",96,Online,Mrs.,Midnight
+23/7/2024,Pastel de yuca,3250,"2112,5",77,Online,Mrs.,Afternoon
 12/12/2024,Cocacola 1.5lt,7000,4550,66,Cash,Mr.,Afternoon
-"3/5/2024,Sugarcane juice,1875,""1218,75"",93,Cash,Mr.,Evening"
+3/5/2024,Sugarcane juice,1875,"1218,75",93,Cash,Mr.,Evening
 28/8/2024,Cold coffee,3000,1950,63,Cash,Mr.,Evening
-"17/12/2024,Sugarcane juice,1875,""1218,75"",92,Cash,Mrs.,Afternoon"
-"1/9/2024,Sugarcane juice,1875,""1218,75"",94,Online,Mr.,Midnight"
+17/12/2024,Sugarcane juice,1875,"1218,75",92,Cash,Mrs.,Afternoon
+1/9/2024,Sugarcane juice,1875,"1218,75",94,Online,Mr.,Midnight
 15/6/2024,Sandwich,4500,2925,86,Cash,Mrs.,Night
-"17/8/2024,Sugarcane juice,1875,""1218,75"",79,Cash,Mr.,Morning"
+17/8/2024,Sugarcane juice,1875,"1218,75",79,Cash,Mr.,Morning
 10/7/2024,Sandwich,4500,2925,94,Cash,Mrs.,Midnight
 4/9/2024,Chocorramo,2900,1885,79,Cash,Mrs.,Afternoon
-"23/12/2024,Tamales,8950,""5817,5"",99,Online,Mrs.,Evening"
+23/12/2024,Tamales,8950,"5817,5",99,Online,Mrs.,Evening
 3/9/2024,Empanadas Carne,1500,975,83,Online,Mr.,Evening
 8/11/2024,cafe expresso,1500,975,95,Cash,Mrs.,Midnight
 11/9/2024,Sandwich,4500,2925,103,Cash,Mrs.,Morning
 12/12/2024,Empanadas Carne,1500,975,82,Online,Mrs.,Afternoon
 24/2/2024,Cold coffee,3000,1950,70,Online,Mr.,Night
 1/10/2024,cafe expresso,1500,975,83,Cash,Mrs.,Afternoon
-"13/1/2024,Pan arabe,2150,""1397,5"",80,Cash,Mrs.,Afternoon"
+13/1/2024,Pan arabe,2150,"1397,5",80,Cash,Mrs.,Afternoon
 16/10/2024,Cold coffee,3000,1950,103,Online,Mr.,Afternoon
 16/3/2024,cafe americano,1800,1170,65,Online,Mr.,Morning
 5/2/2024,cafe americano,1800,1170,70,Cash,Mrs.,Evening
@@ -1576,109 +1576,109 @@ Fecha,item_name,Precio unita COP,Costo Unit COP,quantity,transaction_type,receiv
 9/3/2024,papas de pollo,2700,1755,101,Cash,Mr.,Evening
 5/11/2024,Cocacola 1.5lt,7000,4550,66,Cash,Mrs.,Afternoon
 22/12/2024,Cocacola 1.5lt,7000,4550,78,Online,Mr.,Evening
-"17/10/2024,Tamales,8950,""5817,5"",62,Online,Mrs.,Afternoon"
-"10/1/2024,Tamales,8950,""5817,5"",75,Online,Mr.,Evening"
+17/10/2024,Tamales,8950,"5817,5",62,Online,Mrs.,Afternoon
+10/1/2024,Tamales,8950,"5817,5",75,Online,Mr.,Evening
 6/8/2024,cafe expresso,1500,975,60,Online,Mr.,Afternoon
 31/8/2024,Cold coffee,3000,1950,85,Cash,Mrs.,Midnight
 9/5/2024,Cold coffee,3000,1950,105,Cash,Mr.,Morning
 16/3/2024,Sandwich,4500,2925,98,Cash,Mrs.,Midnight
 26/5/2024,Cold coffee,3000,1950,103,Online,Mr.,Morning
-"10/7/2024,Pan arabe,2150,""1397,5"",103,Cash,Mrs.,Midnight"
+10/7/2024,Pan arabe,2150,"1397,5",103,Cash,Mrs.,Midnight
 14/4/2024,Cold coffee,3000,1950,101,Cash,Mr.,Evening
-"26/3/2024,Sugarcane juice,1875,""1218,75"",73,Online,Mrs.,Evening"
+26/3/2024,Sugarcane juice,1875,"1218,75",73,Online,Mrs.,Evening
 31/8/2024,Cold coffee,3000,1950,64,Cash,Mrs.,Morning
 23/4/2024,papas de pollo,2700,1755,85,Online,Mr.,Afternoon
 31/7/2024,Cocacola 1.5lt,7000,4550,98,Online,Mr.,Afternoon
-"18/8/2024,Sugarcane juice,1875,""1218,75"",76,Cash,Mr.,Afternoon"
+18/8/2024,Sugarcane juice,1875,"1218,75",76,Cash,Mr.,Afternoon
 17/10/2024,Cold coffee,3000,1950,71,Cash,Mr.,Evening
 3/12/2024,cafe expresso,1500,975,105,Cash,Mr.,Evening
-"19/11/2024,Pan arabe,2150,""1397,5"",90,Cash,Mrs.,Morning"
+19/11/2024,Pan arabe,2150,"1397,5",90,Cash,Mrs.,Morning
 3/2/2024,cafe americano,1800,1170,101,Online,Mrs.,Midnight
 7/2/2024,Sandwich,4500,2925,105,Cash,Mr.,Evening
-"13/5/2024,Sugarcane juice,1875,""1218,75"",94,Online,Mrs.,Morning"
+13/5/2024,Sugarcane juice,1875,"1218,75",94,Online,Mrs.,Morning
 5/2/2024,Cold coffee,3000,1950,76,Cash,Mr.,Midnight
-"10/6/2024,Pastel de yuca,3250,""2112,5"",70,Cash,Mr.,Afternoon"
+10/6/2024,Pastel de yuca,3250,"2112,5",70,Cash,Mr.,Afternoon
 30/1/2024,Cocacola 1.5lt,7000,4550,95,Online,Mr.,Evening
 19/4/2024,Cocacola 1.5lt,7000,4550,67,Online,Mrs.,Evening
-"24/10/2024,Tamales,8950,""5817,5"",62,Cash,Mrs.,Afternoon"
-"10/1/2024,Tamales,8950,""5817,5"",72,Cash,Mrs.,Morning"
+24/10/2024,Tamales,8950,"5817,5",62,Cash,Mrs.,Afternoon
+10/1/2024,Tamales,8950,"5817,5",72,Cash,Mrs.,Morning
 13/11/2024,Cold coffee,3000,1950,83,Cash,Mr.,Afternoon
-"4/2/2024,Sugarcane juice,1875,""1218,75"",63,Cash,Mrs.,Midnight"
+4/2/2024,Sugarcane juice,1875,"1218,75",63,Cash,Mrs.,Midnight
 28/8/2024,cafe expresso,1500,975,101,Cash,Mrs.,Afternoon
 7/8/2024,Sandwich,4500,2925,67,Online,Mrs.,Afternoon
 7/3/2024,cafe expresso,1500,975,103,Cash,Mr.,Evening
 5/2/2024,Sandwich,4500,2925,79,Online,Mrs.,Morning
-"29/9/2024,Sugarcane juice,1875,""1218,75"",84,Online,Mrs.,Evening"
+29/9/2024,Sugarcane juice,1875,"1218,75",84,Online,Mrs.,Evening
 26/5/2024,cafe americano,1800,1170,81,Online,Mrs.,Night
 1/9/2024,Sandwich,4500,2925,64,Cash,Mr.,Morning
-"1/2/2024,Sugarcane juice,1875,""1218,75"",100,Online,Mr.,Afternoon"
-"3/2/2024,Pastel de yuca,3250,""2112,5"",89,Cash,Mrs.,Morning"
+1/2/2024,Sugarcane juice,1875,"1218,75",100,Online,Mr.,Afternoon
+3/2/2024,Pastel de yuca,3250,"2112,5",89,Cash,Mrs.,Morning
 23/12/2024,Chocorramo,2900,1885,102,Cash,Mrs.,Afternoon
 8/5/2024,Cocacola 1.5lt,7000,4550,60,Online,Mrs.,Midnight
 2/2/2024,Cocacola 1.5lt,7000,4550,97,Cash,Mr.,Morning
-"3/7/2024,Tamales,8950,""5817,5"",68,Cash,Mrs.,Night"
+3/7/2024,Tamales,8950,"5817,5",68,Cash,Mrs.,Night
 22/5/2024,Torta de queso,1900,1235,63,Cash,Mr.,Morning
-"13/11/2024,arepa carne,3750,""2437,5"",86,Cash,Mr.,Evening"
+13/11/2024,arepa carne,3750,"2437,5",86,Cash,Mr.,Evening
 28/12/2024,cafe expresso,1500,975,60,Cash,Mrs.,Night
-"17/10/2024,arepa carne,3750,""2437,5"",77,Online,Mrs.,Morning"
+17/10/2024,arepa carne,3750,"2437,5",77,Online,Mrs.,Morning
 22/5/2024,cafe americano,1800,1170,103,Online,Mr.,Evening
-"28/12/2024,arepa carne,3750,""2437,5"",91,Online,Mr.,Afternoon"
-"16/4/2024,Sugarcane juice,1875,""1218,75"",77,Online,Mr.,Night"
+28/12/2024,arepa carne,3750,"2437,5",91,Online,Mr.,Afternoon
+16/4/2024,Sugarcane juice,1875,"1218,75",77,Online,Mr.,Night
 5/11/2024,cafe americano,1800,1170,73,Online,Mr.,Midnight
 28/12/2024,Cold coffee,3000,1950,98,Cash,Mrs.,Night
-"17/10/2024,Pastel de yuca,3250,""2112,5"",103,Online,Mr.,Midnight"
-"26/10/2024,Pastel de yuca,3250,""2112,5"",90,Cash,Mr.,Evening"
+17/10/2024,Pastel de yuca,3250,"2112,5",103,Online,Mr.,Midnight
+26/10/2024,Pastel de yuca,3250,"2112,5",90,Cash,Mr.,Evening
 11/9/2024,Chocorramo,2900,1885,80,Online,Mrs.,Morning
 3/1/2024,papas de pollo,2700,1755,94,Online,Mrs.,Evening
-"26/10/2024,Tamales,8950,""5817,5"",66,Online,Mrs.,Morning"
+26/10/2024,Tamales,8950,"5817,5",66,Online,Mrs.,Morning
 17/7/2024,Empanadas Carne,1500,975,73,Online,Mrs.,Night
-"10/12/2024,Sugarcane juice,1875,""1218,75"",86,Cash,Mrs.,Morning"
-"8/5/2024,arepa carne,3750,""2437,5"",86,Cash,Mrs.,Night"
+10/12/2024,Sugarcane juice,1875,"1218,75",86,Cash,Mrs.,Morning
+8/5/2024,arepa carne,3750,"2437,5",86,Cash,Mrs.,Night
 21/9/2024,Sandwich,4500,2925,74,Online,Mrs.,Evening
-"2/10/2024,Pan arabe,2150,""1397,5"",99,Online,Mr.,Evening"
+2/10/2024,Pan arabe,2150,"1397,5",99,Online,Mr.,Evening
 13/5/2024,Cold coffee,3000,1950,101,Online,Mrs.,Night
-"26/10/2024,Sugarcane juice,1875,""1218,75"",94,Online,Mrs.,Evening"
+26/10/2024,Sugarcane juice,1875,"1218,75",94,Online,Mrs.,Evening
 17/10/2024,Cold coffee,3000,1950,99,Cash,Mr.,Morning
 23/2/2024,Sandwich,4500,2925,90,Cash,Mrs.,Afternoon
-"21/9/2024,Pastel de yuca,3250,""2112,5"",93,Online,Mr.,Night"
+21/9/2024,Pastel de yuca,3250,"2112,5",93,Online,Mr.,Night
 6/5/2024,Chocorramo,2900,1885,84,Online,Mr.,Evening
 26/5/2024,Torta de queso,1900,1235,73,Cash,Mr.,Night
 7/7/2024,Cold coffee,3000,1950,65,Cash,Mr.,Evening
-"11/9/2024,Sugarcane juice,1875,""1218,75"",90,Cash,Mr.,Evening"
+11/9/2024,Sugarcane juice,1875,"1218,75",90,Cash,Mr.,Evening
 4/8/2024,cafe expresso,1500,975,86,Cash,Mrs.,Midnight
-"27/10/2024,Sugarcane juice,1875,""1218,75"",101,Cash,Mrs.,Night"
-"5/12/2024,Sugarcane juice,1875,""1218,75"",100,Online,Mr.,Afternoon"
-"23/2/2024,Sugarcane juice,1875,""1218,75"",87,Online,Mrs.,Midnight"
+27/10/2024,Sugarcane juice,1875,"1218,75",101,Cash,Mrs.,Night
+5/12/2024,Sugarcane juice,1875,"1218,75",100,Online,Mr.,Afternoon
+23/2/2024,Sugarcane juice,1875,"1218,75",87,Online,Mrs.,Midnight
 16/4/2024,cafe expresso,1500,975,69,Cash,Mrs.,Morning
 5/1/2024,Sandwich,4500,2925,96,Online,Mr.,Evening
-"15/12/2024,arepa pollo,3950,""2567,5"",69,Online,Mrs.,Evening"
+15/12/2024,arepa pollo,3950,"2567,5",69,Online,Mrs.,Evening
 8/11/2024,Sandwich,4500,2925,84,Online,Mrs.,Afternoon
-"27/10/2024,arepa pollo,3950,""2567,5"",98,Cash,Mr.,Evening"
-"5/1/2024,Pastel de yuca,3250,""2112,5"",63,Online,Mr.,Evening"
+27/10/2024,arepa pollo,3950,"2567,5",98,Cash,Mr.,Evening
+5/1/2024,Pastel de yuca,3250,"2112,5",63,Online,Mr.,Evening
 15/3/2024,Chocorramo,2900,1885,64,Online,Mrs.,Afternoon
 5/2/2024,Chocorramo,2900,1885,94,Cash,Mr.,Evening
 10/1/2024,papas de pollo,2700,1755,66,Cash,Mrs.,Afternoon
 4/10/2024,Cocacola 1.5lt,7000,4550,64,Online,Mrs.,Evening
-"22/8/2024,Tamales,8950,""5817,5"",66,Online,Mrs.,Midnight"
+22/8/2024,Tamales,8950,"5817,5",66,Online,Mrs.,Midnight
 3/7/2024,Empanadas Carne,1500,975,60,Cash,Mr.,Night
 13/11/2024,cafe expresso,1500,975,62,Online,Mrs.,Morning
 16/4/2024,Empanadas Carne,1500,975,67,Online,Mr.,Afternoon
 25/11/2024,Empanadas Carne,1500,975,73,Cash,Mrs.,Morning
 5/11/2024,cafe expresso,1500,975,79,Cash,Mrs.,Midnight
 30/6/2024,Sandwich,4500,2925,78,Online,Mr.,Evening
-"19/11/2024,Pastel de yuca,3250,""2112,5"",99,Cash,Mr.,Evening"
+19/11/2024,Pastel de yuca,3250,"2112,5",99,Cash,Mr.,Evening
 9/10/2024,Cocacola 1.5lt,7000,4550,84,Cash,Mrs.,Evening
 16/11/2024,Cocacola 1.5lt,7000,4550,75,Online,Mr.,Night
 25/12/2024,cafe americano,1800,1170,102,Cash,Mr.,Evening
 17/7/2024,Sandwich,4500,2925,102,Online,Mr.,Night
 6/8/2024,Pastel pollo,2300,1495,92,Online,Mr.,Midnight
-"5/2/2024,Sugarcane juice,1875,""1218,75"",70,Online,Mr.,Night"
+5/2/2024,Sugarcane juice,1875,"1218,75",70,Online,Mr.,Night
 26/6/2024,Sandwich,4500,2925,71,Cash,Mr.,Morning
 14/5/2024,Sandwich,4500,2925,91,Online,Mrs.,Evening
 22/3/2024,cafe americano,1800,1170,95,Online,Mrs.,Afternoon
-"18/9/2024,Pastel de yuca,3250,""2112,5"",105,Cash,Mrs.,Evening"
+18/9/2024,Pastel de yuca,3250,"2112,5",105,Cash,Mrs.,Evening
 10/1/2024,Chocorramo,2900,1885,81,Online,Mrs.,Morning
 8/5/2024,Chocorramo,2900,1885,92,Online,Mrs.,Evening
 18/9/2024,papas de pollo,2700,1755,63,Cash,Mrs.,Afternoon
 8/11/2024,papas de pollo,2700,1755,92,Cash,Mr.,Evening
-"12/12/2024,Tamales,8950,""5817,5"",65,Online,Mr.,Night"
+12/12/2024,Tamales,8950,"5817,5",65,Online,Mr.,Night

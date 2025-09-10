@@ -28,6 +28,8 @@ class Transformer:
             df['Fecha'] = pd.to_datetime(df['Fecha'], errors='coerce', format='%d/%m/%Y')
             # Si la fecha no se pudo convertir (NaT), la reemplazamos con 'Fecha Desconocida'
             df['Fecha'] = df['Fecha'].fillna('Fecha Desconocida')
+            # Formatear la fecha para que solo muestre YYYY-MM-DD
+            df['Fecha'] = df['Fecha'].apply(lambda x: x.strftime('%Y-%m-%d') if x != 'Fecha Desconocida' and pd.notnull(x) else x)
 
         # Rellenar valores nulos en columnas numéricas con 0
         num_cols = ['Precio unita COP', 'Costo Unit COP', 'quantity']
@@ -51,5 +53,7 @@ class Transformer:
         print("Valores nulos después de la transformación:")
         print(df.isnull().sum())
 
+        # Reemplazar NaN por 'null' en todo el DataFrame
+        df = df.where(pd.notnull(df), 'null')
         self.df = df
         return self.df
