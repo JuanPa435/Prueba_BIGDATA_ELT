@@ -22,10 +22,9 @@ def run_etl():
     
     # Cargar
     loader = Loader(df_transformed)
-    loader.to_mysql('restaurantes')  # Cargar datos en la tabla 'restaurantes'
+    loader.to_mysql('restaurantes')
     
-    # Guardar los datos transformados en un archivo CSV
-    loader.to_csv(OUTPUT_PATH)  # Usar OUTPUT_PATH desde el archivo .env
+    loader.to_csv(OUTPUT_PATH)
 
 if __name__ == "__main__":
     run_etl()

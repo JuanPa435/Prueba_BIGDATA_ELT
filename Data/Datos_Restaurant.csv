@@ -8,7 +8,7 @@ Fecha,item_name,Precio unita COP,Costo Unit COP,quantity,transaction_type,receiv
 14/1/2024,Cold coffee,,1950,,Cash,Mr.,Midnight
 9/8/2024,arepa pollo,3950,"2567,5",64,Cash,Mrs.,Midnight
 2/3/2024,Pastel de yuca,3250,"2112,5",75,Cash,Mr.,Evening
-10/2/2024,Pastel de yuca,3250,"2112,5",105,Cash,Mrs.,Evening
+10/2/2024,Pastel de yuca,3250,2112.5,105,Cash,Mrs.,Evening
 3/1/2024,Pastel de yuca,3250,"2112,5",102,Online,Mr.,
 9/3/2024,,2900,1885,98,Cash,Mr.,Night
 25/2/2024,,2900,1885,102,Online,Mr.,Midnight
@@ -145,7 +145,7 @@ Fecha,item_name,Precio unita COP,Costo Unit COP,quantity,transaction_type,receiv
 18/8/2024,Pastel pollo,2300,1495,93,Online,Mr.,Night
 1/12/2024,Sugarcane juice,1875,"1218,75",61,Cash,Mrs.,Evening
 1/7/2024,Pastel de yuca,3250,"2112,5",67,Online,Mr.,Afternoon
-12/12/2024,Pastel de yuca,3250,"2112,5",93,Online,Mr.,Night
+12/12/2024,Pastel de yuca,3250,2112.5,93,Online,Mr.,Night
 9/5/2024,Pastel de yuca,3250,"2112,5",96,Cash,Mr.,Evening
 3/7/2024,Chocorramo,2900,1885,67,Online,Mrs.,Night
 9/5/2024,Chocorramo,2900,1885,81,Cash,Mrs.,Evening

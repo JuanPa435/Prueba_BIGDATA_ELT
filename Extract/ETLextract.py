@@ -7,10 +7,8 @@ def extract_data():
     Extrae los datos desde un archivo CSV.
     """
     try:
-        # Leer el archivo CSV con manejo adecuado de comillas y espacios
         df = pd.read_csv(CSV_PATH, quotechar='"', escapechar='\\', skipinitialspace=True, encoding='utf-8')
 
-        # Limpiar espacios y comillas de los valores tipo texto
         for col in df.select_dtypes(include=['object']).columns:
             df[col] = df[col].astype(str).str.strip().str.replace('"', '', regex=False).str.replace("'", '', regex=False)
 

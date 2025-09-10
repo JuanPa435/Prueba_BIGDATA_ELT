@@ -24,9 +24,7 @@ class Loader:
         Guarda el DataFrame limpio en una base de datos MySQL.
         """
         try:
-            # Crear la conexión con la base de datos MySQL utilizando SQLAlchemy
             engine = create_engine(DATABASE_URL)
-            # Guardar el DataFrame en la tabla de MySQL
             self.df.to_sql(table_name, con=engine, if_exists='replace', index=False)
             print(f"Datos guardados en la base de datos MySQL, tabla: {table_name}")
         except Exception as e:
