@@ -14,7 +14,7 @@ Fecha,item_name,Precio unita COP,Costo Unit COP,quantity,transaction_type,receiv
 25/2/2024,,2900,1885,102,Online,Mr.,Midnight
 18/9/2024,Cocacola 1.5lt,7000,4550,72,Online,Mrs.,
 16/11/2024,Cocacola 1.5lt,7000,4550,94,Online,Mr.,Evening
-25/2/,Tamales,8950,"5817,5",60,Cash,Mr.,Evening
+,Tamales,8950,"5817,5",60,Cash,Mr.,Evening
 3/9/2024,Tamales,8950,"5817,5",104,Online,Mr.,Evening
 7/2/2024,Sugarcane juice,1875,"1218,75",77,Cash,Mr.,Evening
 24/10/2024,Cold coffee,3000,1950,88,Online,Mrs.,Night
